@@ -1,0 +1,3005 @@
+order_id,order_date,region,product,units,unit_price,amount,notes
+ORD-00001,2024-11-23,South,Notebook,1,120,125.80,
+ORD-00002,17/02/2024,South,Pen Set,8,80,640.69,
+ORD-00003,2024-03-22,East,Water Bottle,14,400,5421.08,
+ORD-00004,2024-08-23,East,Headphones,4,2500,10946.23,
+ORD-00005,2024-12-04,North,Pen Set,10,80,877.64,ship to O'Brien Rd
+ORD-00006,2024-05-16,South,Water Bottle,3,400,1226.19,ship to O'Brien Rd
+ORD-00007,2024-06-15,West,Notebook,8,120,1021.79,ship to O'Brien Rd
+ORD-00008,2024-09-12,East,Backpack,15,1800,25071.51,
+ORD-00009,2024-09-17,South,Backpack,3,1800,5676.24,<script>alert('hi')</script>
+ORD-00010,27/09/2024,North,Desk Lamp,18,950,18333.87,call before delivery
+ORD-00011,2024-03-21,East,Backpack,1,1800,1963.37,ship to O'Brien Rd
+ORD-00012,2024-09-16,North,Headphones,7,2500,16284.94,gift wrap
+ORD-00013,2024-05-02,North,Notebook,8,120,1032.58,ship to O'Brien Rd
+ORD-00014,2024-08-31,West,Headphones,6,2500,14295.17,call before delivery
+ORD-00015,2024-12-09,North,Water Bottle,12,₹400,4740.58,
+ORD-00016,2024-02-06,East,Water Bottle,2,400,756.63,"quote ""as agreed"""
+ORD-00017,2024-10-22,South,Backpack,8,1800,15219.70,
+ORD-00018,2024-12-10,North,Water Bottle,4,400,1459.40,
+ORD-00019,2024-02-08,North,Backpack,18,1800,29794.45,
+ORD-00020,2024-07-24,East,Notebook,6,120,702.57,Café order – rush
+ORD-00021,2024-12-04,North,Water Bottle,16,400,5958.14,Café order – rush
+ORD-00022,2024-09-28,South,Pen Set,2,80,174.74,"quote ""as agreed"""
+ORD-00023,2024-05-06,East,Headphones,20,2500,45397.42,ship to O'Brien Rd
+ORD-00024,2024-11-26,,Desk Lamp,15,950,13726.11,Café order – rush
+ORD-00025,2024-05-15,East,Pen Set,12,80,1033.13,ship to O'Brien Rd
+ORD-00026,2024-09-27,South,Notebook,18,120,2073.33,
+ORD-00027,2024-06-24,North,Pen Set,9,80,-,gift wrap
+ORD-00028,2024-03-23,North,Water Bottle,15,400,6062.02,repeat customer
+ORD-00029,25-Oct-2024,East,Headphones,5,2500,12324.47,
+ORD-00030,2024-12-07,West,Notebook,12,120,1520.67,
+ORD-00031,2024-07-30,West,Notebook,6,120,754.07,
+ORD-00032,2024-07-14,West,Notebook,16,120,1813.41,call before delivery
+ORD-00033,2024-06-17,West,Desk Lamp,3,950,NaN,gift wrap
+ORD-00034,2024-01-20,East,Notebook,20,120,2368.59,
+ORD-00035,2024-12-28,South,Backpack,1,1800,1807.17,
+ORD-00036,2024-06-02,East,Headphones,10,2500,25834.46,
+ORD-00037,2024-11-11,East,Headphones,10,2500,24530.38,<script>alert('hi')</script>
+ORD-00038,2024-12-11,South,Pen Set,17,80,1352.71,
+ORD-00039,2024-12-10,North,Desk Lamp,8,950,8065.98,ship to O'Brien Rd
+ORD-00040,2024-10-21,North,Pen Set,13,80,1038.83,Café order – rush
+ORD-00041,2024-08-25,West,Notebook,18,120,2051.65,<script>alert('hi')</script>
+ORD-00042,2024-11-09,West,Water Bottle,17,400,6700.37,ship to O'Brien Rd
+ORD-00043,2024-05-21,North,Headphones,16,2500,41013.99,
+ORD-00044,,West,Backpack,5,1800,9371.55,"quote ""as agreed"""
+ORD-00045,22/12/2024,East,Notebook,19,120,2225.45,Café order – rush
+ORD-00046,2024-11-04,North,Pen Set,16,80,1208.17,
+ORD-00047,2024-11-14,North,Headphones,1,2500,2703.46,repeat customer
+ORD-00048,2024-04-18,East,Backpack,11,1800,19156.50,Café order – rush
+ORD-00049,2024-01-27,North,Desk Lamp,8,950,-,<script>alert('hi')</script>
+ORD-00050,2024-12-08,East,Notebook,19,120,2484.18,
+ORD-00051,2024-06-08,West,Notebook,19,120,2063.71,
+ORD-00052,2024-12-22,North,Desk Lamp,20,950,20161.01,call before delivery
+ORD-00053,2024-09-07,West,Notebook,14,120,1834.82,Café order – rush
+ORD-00054,2024-09-04,East,Backpack,14,1800,26841.70,<script>alert('hi')</script>
+ORD-00055,2024-10-18,East,Headphones,13,2500,31436.58,gift wrap
+ORD-00056,2024-10-11,West,Notebook,17,120,2222.81,
+ORD-00057,2024-02-17,East,Desk Lamp,8,950,7454.69,<script>alert('hi')</script>
+ORD-00058,2024-05-18,East,Desk Lamp,9,950,8089.22,<script>alert('hi')</script>
+ORD-00059,2024-05-21,East,Water Bottle,19,400,8324.44,Café order – rush
+ORD-00060,2024-03-05,South,Desk Lamp,2,950,NaN,<script>alert('hi')</script>
+ORD-00061,2024-06-23,North,Pen Set,2,80,152.08,
+ORD-00062,2024-10-15,West,Desk Lamp,3,950,3131.53,<script>alert('hi')</script>
+ORD-00063,2024-06-01,North,Headphones,14,2500,33637.66,
+ORD-00064,2024-10-09,West,Notebook,6,120,648.39,ship to O'Brien Rd
+ORD-00065,2024-04-29,West,Desk Lamp,19,950,18631.87,
+ORD-00066,2024-03-25,East,Desk Lamp,20,950,19946.04,Café order – rush
+ORD-00067,2024-09-09,East,Backpack,N/A,1800,5505.88,
+ORD-00068,2024-12-10,West,Desk Lamp,19,950,16390.24,<script>alert('hi')</script>
+ORD-00069,2024-02-16,North,Backpack,12,1800,21204.06,Café order – rush
+ORD-00070,2024-01-19,West,Backpack,3,"₹1,800",5199.68,
+ORD-00071,2024-04-06,West,Headphones,12,2500,30735.80,<script>alert('hi')</script>
+ORD-00072,2024-03-03,East,Notebook,20,120,2543.67,<script>alert('hi')</script>
+ORD-00073,2024-03-01,East,Water Bottle,5,400,1999.35,
+ORD-00074,2024-11-02,West,Headphones,5,2500,NaN,"quote ""as agreed"""
+ORD-00075,2024-12-03,East,Backpack,5,1800,8903.79,
+ORD-00076,2024-10-19,East,Backpack,8,1800,15425.32,ship to O'Brien Rd
+ORD-00077,2024-03-18,East,Backpack,2,1800,3330.90,
+ORD-00078,2024-07-28,East,Water Bottle,5,400,1829.93,Café order – rush
+ORD-00079,13/07/2024,North,Desk Lamp,16,950,16332.04,
+ORD-00080,2024-11-20,North,Water Bottle,4,400,1581.98,Café order – rush
+ORD-00081,2024-07-29,West,Headphones,6,2500,14009.95,gift wrap
+ORD-00082,2024-08-23,East,Desk Lamp,1,950,1025.79,ship to O'Brien Rd
+ORD-00083,2024-08-05,West,Water Bottle,9,400,3568.92,gift wrap
+ORD-00084,2024-01-12,North,Water Bottle,13,400,4965.46,
+ORD-00085,2024-11-06,South,Desk Lamp,8,950,7807.66,"quote ""as agreed"""
+ORD-00086,2024-07-05,West,Water Bottle,5,400,1836.05,gift wrap
+ORD-00087,2024-03-25,East,Desk Lamp,16,950,16620.85,ship to O'Brien Rd
+ORD-00088,2024-12-11,North,Backpack,18,1800,31530.22,call before delivery
+ORD-00089,2024-11-22,East,Desk Lamp,4,950,3932.88,gift wrap
+ORD-00090,2024-11-28,East,Backpack,4,1800,6681.28,repeat customer
+ORD-00091,2024-12-09,South,Water Bottle,18,400,7083.54,gift wrap
+ORD-00092,2024-01-17,South,Water Bottle,12,400,4528.58,repeat customer
+ORD-00093,2024-02-01,West,Backpack,9,1800,15194.98,repeat customer
+ORD-00094,2024-05-04,South,Pen Set,19,80,1430.38,"quote ""as agreed"""
+ORD-00095,2024-01-02,South,Desk Lamp,5,950,5213.15,"quote ""as agreed"""
+ORD-00096,2024-06-14,West,Notebook,6,120,686.21,
+ORD-00097,19-Aug-2024,East,Headphones,8,2500,21781.66,ship to O'Brien Rd
+ORD-00098,2024-02-25,South,Backpack,15,1800,24696.85,"quote ""as agreed"""
+ORD-00099,2024-09-28,North,Desk Lamp,15,950,14265.82,<script>alert('hi')</script>
+ORD-00100,2024-04-26,North,Backpack,11,1800,21096.58,<script>alert('hi')</script>
+ORD-00101,2024-02-04,East,Notebook,3,120,330.71,
+ORD-00102,2024-07-29,East,Desk Lamp,14,950,14279.13,
+ORD-00103,2024-02-25,South,Desk Lamp,18,950,16647.06,ship to O'Brien Rd
+ORD-00104,2024-10-12,,Notebook,20,120,2605.96,
+ORD-00105,2024-03-14,North,Headphones,13,2500,29702.31,gift wrap
+ORD-00106,not a date,North,Headphones,20,2500,45849.57,gift wrap
+ORD-00107,2024-04-20,West,Headphones,4,2500,9690.35,
+ORD-00108,2024-06-03,,Pen Set,5,80,421.13,Café order – rush
+ORD-00109,2024-10-13,North,Water Bottle,12,400,4389.19,call before delivery
+ORD-00110,2024-12-29,East,Water Bottle,14,400,5364.26,call before delivery
+ORD-00111,2024-02-24,West,Pen Set,14,80,1139.91,ship to O'Brien Rd
+ORD-00112,2024-02-28,East,Headphones,17,2500,39898.18,
+ORD-00113,2024-03-29,South,Headphones,5,2500,13150.54,ship to O'Brien Rd
+ORD-00114,2024-10-16,East,Water Bottle,20,400,7717.13,
+ORD-00115,2024-06-29,North,Headphones,3,2500,7215.61,"quote ""as agreed"""
+ORD-00116,2024-09-16,North,Backpack,15,1800,27433.78,
+ORD-00117,2024-02-01,North,Backpack,4,1800,7647.79,Café order – rush
+ORD-00118,2024-11-08,West,Pen Set,12,80,935.59,repeat customer
+ORD-00119,2024-02-18,South,Headphones,13,2500,31096.96,ship to O'Brien Rd
+ORD-00120,2024-07-19,West,Pen Set,20,80,1666.83,ship to O'Brien Rd
+ORD-00121,26/09/2024,East,Notebook,14,120,1682.85,
+ORD-00122,2024-03-20,North,Notebook,10,120,1282.66,
+ORD-00123,20-Dec-2024,East,Headphones,6,2500,15663.55,<script>alert('hi')</script>
+ORD-00124,2024-04-29,West,Headphones,8,2500,19237.87,gift wrap
+ORD-00125,2024-07-14,South,Headphones,17,2500,41808.62,Café order – rush
+ORD-00126,2024-02-22,South,Water Bottle,17,400,7277.59,
+ORD-00127,2024-08-18,East,Desk Lamp,1,950,,ship to O'Brien Rd
+ORD-00128,2024-06-20,West,Pen Set,5,80,363.06,
+ORD-00129,2024-01-10,West,Desk Lamp,7,950,7095.50,"quote ""as agreed"""
+ORD-00130,2024-08-22,North,Notebook,4,120,-512.32,repeat customer
+ORD-00131,2024-05-03,East,Headphones,14,2500,32811.20,call before delivery
+ORD-00132,2024-08-28,North,Notebook,13,120,1710.08,"quote ""as agreed"""
+ORD-00133,2024-06-19,South,Pen Set,2,80,155.27,
+ORD-00134,2024-02-02,South,Water Bottle,15,400,5444.38,<script>alert('hi')</script>
+ORD-00135,2024-05-09,North,Notebook,7,120,804.07,<script>alert('hi')</script>
+ORD-00136,2024-07-16,East,Desk Lamp,6,950,5695.67,Café order – rush
+ORD-00137,2024-05-30,East,Desk Lamp,4,950,3480.85,repeat customer
+ORD-00138,2024-11-10,North,Backpack,9,1800,16651.88,
+ORD-00139,2024-03-14,East,Headphones,15,"₹2,500",34010.99,repeat customer
+ORD-00140,2024-07-09,West,Backpack,3,1800,-,call before delivery
+ORD-00141,2024-10-14,South,Notebook,9,120,1139.39,
+ORD-00142,2024-08-19,East,Pen Set,15,80,1319.34,
+ORD-00143,2024-12-30,North,Water Bottle,6,400,2540.97,"quote ""as agreed"""
+ORD-00144,2024-07-07,North,Backpack,18,1800,30000.92,"quote ""as agreed"""
+ORD-00145,2024-02-07,East,Pen Set,11,80,905.05,
+ORD-00146,2024-08-09,East,Headphones,2,2500,5331.39,gift wrap
+ORD-00147,2024-02-10,South,Desk Lamp,7,950,6829.63,"quote ""as agreed"""
+ORD-00148,2024-03-19,North,Pen Set,,80,1670.60,
+ORD-00149,2024-10-19,East,Backpack,20,1800,37000.74,<script>alert('hi')</script>
+ORD-00150,2024-02-07,West,Water Bottle,2,400,745.29,repeat customer
+ORD-00151,2024-07-23,South,Pen Set,12,80,962.88,call before delivery
+ORD-00152,2024-11-11,East,Backpack,8,1800,15732.54,<script>alert('hi')</script>
+ORD-00153,2024-09-12,West,Desk Lamp,16,950,13750.46,ship to O'Brien Rd
+ORD-00154,2024-12-10,West,Backpack,10,1800,18132.09,
+ORD-00155,2024-10-18,West,Headphones,7,2500,17018.83,
+ORD-00156,2024-03-06,East,Notebook,13,120,1520.44,
+ORD-00157,2024-12-31,South,Desk Lamp,16,950,15258.77,gift wrap
+ORD-00158,2024-10-30,East,Desk Lamp,abc,950,17210.37,ship to O'Brien Rd
+ORD-00159,2024-01-14,South,Headphones,16,2500,38124.24,call before delivery
+ORD-00160,2024-03-16,North,Water Bottle,8,400,2900.21,Café order – rush
+ORD-00161,2024-11-09,East,Backpack,2,1800,3748.16,Café order – rush
+ORD-00162,2024-06-24,East,Headphones,12,2500,31055.21,gift wrap
+ORD-00163,2024-05-27,West,Water Bottle,7,400,2906.53,ship to O'Brien Rd
+ORD-00164,2024-10-05,South,Backpack,13,1800,24890.01,gift wrap
+ORD-00165,2024-09-02,East,Pen Set,7,80,596.73,Café order – rush
+ORD-00166,2024-04-25,West,Water Bottle,8,₹400,2913.59,call before delivery
+ORD-00167,2024-11-30,East,Backpack,16,1800,29667.10,Café order – rush
+ORD-00168,2024-01-20,North,Pen Set,14,80,1205.62,gift wrap
+ORD-00169,2024-01-20,East,Notebook,10,120,1216.31,Café order – rush
+ORD-00170,2024-08-27,West,Desk Lamp,7,₹950,7060.72,ship to O'Brien Rd
+ORD-00171,2024-04-08,West,Pen Set,20,80,1713.97,repeat customer
+ORD-00172,2024-05-07,East,Notebook,9,120,NaN,
+ORD-00173,2024-12-07,East,Notebook,15,120,1730.45,
+ORD-00174,2024-09-01,West,Pen Set,15,80,1259.46,
+ORD-00175,2024-12-14,East,Headphones,3,2500,7538.26,"quote ""as agreed"""
+ORD-00176,2024-10-01,North,Pen Set,6,80,463.50,
+ORD-00177,2024-08-20,West,Pen Set,17,₹80,-1337.00,
+ORD-00178,2024-10-23,North,Notebook,2,120,236.34,
+ORD-00179,2024-11-24,West,Water Bottle,14,400,5459.40,Café order – rush
+ORD-00180,2024-03-09,West,Water Bottle,12,400,,<script>alert('hi')</script>
+ORD-00181,2024-12-10,South,Water Bottle,18,400,7090.74,
+ORD-00182,2024-01-17,North,Water Bottle,14,400,5728.71,
+ORD-00183,2024-05-05,South,Water Bottle,2,400,784.36,"quote ""as agreed"""
+ORD-00184,2024-06-12,South,Headphones,20,2500,52725.38,
+ORD-00185,2024-10-12,West,Headphones,6,2500,15377.98,call before delivery
+ORD-00186,2024-07-28,West,Pen Set,10,80,780.23,
+ORD-00187,2024-10-14,South,Backpack,14,1800,25488.73,Café order – rush
+ORD-00188,2024-04-07,North,Notebook,9,120,1053.47,<script>alert('hi')</script>
+ORD-00189,16/04/2024,South,Desk Lamp,10,950,10368.34,"quote ""as agreed"""
+ORD-00190,2024-12-26,East,Pen Set,13,80,1126.35,<script>alert('hi')</script>
+ORD-00191,2024-08-26,South,Notebook,16,120,2020.47,gift wrap
+ORD-00192,2024-10-10,South,Headphones,19,2500,49590.11,ship to O'Brien Rd
+ORD-00193,2024-06-21,West,Desk Lamp,16,950,16618.19,
+ORD-00194,2024-10-04,North,Water Bottle,2,400,803.83,
+ORD-00195,2024-02-04,East,Water Bottle,5,400,1803.66,
+ORD-00196,04/01/2024,East,Headphones,18,2500,44202.05,
+ORD-00197,2024-02-24,East,Notebook,17,120,1896.75,"quote ""as agreed"""
+ORD-00198,2024-05-04,North,Water Bottle,8,400,3071.98,Café order – rush
+ORD-00199,2024-08-31,West,Notebook,1,120,124.87,
+ORD-00200,27-Apr-2024,North,Pen Set,19,80,1512.55,repeat customer
+ORD-00201,2024-01-09,West,Pen Set,19,80,1411.83,ship to O'Brien Rd
+ORD-00202,2024-10-03,North,Desk Lamp,13,950,12981.35,repeat customer
+ORD-00203,2024-11-05,North,Headphones,20,2500,48967.03,call before delivery
+ORD-00204,2024-08-09,East,Pen Set,19,80,1568.84,ship to O'Brien Rd
+ORD-00205,2024-03-19,North,Water Bottle,13,400,5009.35,call before delivery
+ORD-00206,2024-08-17,North,Headphones,18,2500,45111.97,gift wrap
+ORD-00207,2024-07-30,South,Backpack,3,1800,5642.83,<script>alert('hi')</script>
+ORD-00208,2024-03-15,West,Notebook,6,120,710.59,"quote ""as agreed"""
+ORD-00209,10/04/2024,West,Backpack,4,1800,6675.10,ship to O'Brien Rd
+ORD-00210,2024-10-31,South,Pen Set,10,80,771.31,ship to O'Brien Rd
+ORD-00211,2024-09-08,West,Headphones,8,2500,19303.54,Café order – rush
+ORD-00212,2024-01-14,East,Water Bottle,15,400,6531.57,
+ORD-00213,2024-11-20,West,Desk Lamp,8,950,7224.08,Café order – rush
+ORD-00214,2024-12-20,North,Backpack,18,1800,29398.24,"quote ""as agreed"""
+ORD-00215,2024-11-26,West,Water Bottle,13,400,5685.48,"quote ""as agreed"""
+ORD-00216,2024-04-23,South,Backpack,,1800,21129.70,
+ORD-00217,2024-06-27,West,Desk Lamp,11,950,10356.65,
+ORD-00218,2024-12-29,South,Notebook,1,120,128.38,call before delivery
+ORD-00219,2024-08-24,West,Pen Set,13,80,1066.99,
+ORD-00220,2024-12-26,North,Pen Set,7,80,535.17,
+ORD-00221,2024-05-14,West,Water Bottle,16,400,6435.48,ship to O'Brien Rd
+ORD-00222,2024-12-27,East,Desk Lamp,20,950,19342.64,call before delivery
+ORD-00223,2024-11-01,South,Pen Set,19,80,1484.65,
+ORD-00224,2024-07-02,West,Notebook,16,120,1780.43,"quote ""as agreed"""
+ORD-00225,2024-01-16,East,Pen Set,10,80,725.23,
+ORD-00226,2024-10-20,East,Notebook,9,120,1139.42,call before delivery
+ORD-00227,2024-02-22,West,Water Bottle,8,400,3070.53,
+ORD-00228,2024-04-17,West,Water Bottle,19,400,7887.48,repeat customer
+ORD-00229,2024-09-29,East,Desk Lamp,20,950,19147.32,
+ORD-00230,2024-03-10,South,Backpack,2,1800,3954.59,ship to O'Brien Rd
+ORD-00231,2024-07-20,West,Backpack,5,1800,9139.37,gift wrap
+ORD-00232,2024-12-21,North,Desk Lamp,15,950,15533.22,repeat customer
+ORD-00233,2024-02-02,South,Headphones,13,2500,30665.89,<script>alert('hi')</script>
+ORD-00234,2024-06-24,,Water Bottle,2,400,727.35,call before delivery
+ORD-00235,2024-04-13,East,Water Bottle,5,400,2152.86,
+ORD-00236,2024-07-21,West,Water Bottle,10,₹400,4180.79,
+ORD-00237,2024-09-22,North,Water Bottle,15,400,5411.14,
+ORD-00238,2024-02-22,South,Desk Lamp,12,950,12268.65,
+ORD-00239,2024-08-13,West,Desk Lamp,7,950,6820.35,
+ORD-00240,2024-10-28,South,Water Bottle,13,400,5045.60,gift wrap
+ORD-00241,2024-12-19,South,Notebook,10,120,1129.31,<script>alert('hi')</script>
+ORD-00242,2024-07-16,North,Notebook,8,120,959.92,repeat customer
+ORD-00243,2024-10-06,,Water Bottle,6,400,2526.11,call before delivery
+ORD-00244,2024-09-16,West,Desk Lamp,17,950,17012.77,Café order – rush
+ORD-00245,2024-04-14,North,Pen Set,18,80,1390.10,call before delivery
+ORD-00246,2024-02-29,South,Backpack,20,1800,36783.59,Café order – rush
+ORD-00247,2024-09-21,East,Water Bottle,9,400,3360.21,Café order – rush
+ORD-00248,2024-02-02,East,Desk Lamp,19,950,18510.39,"quote ""as agreed"""
+ORD-00249,2024-12-11,North,Water Bottle,,400,1513.09,
+ORD-00250,2024-10-10,East,Water Bottle,14,400,5291.46,
+ORD-00251,2024-04-24,West,Headphones,2,2500,5454.08,repeat customer
+ORD-00252,2024-04-12,South,Desk Lamp,19,950,19077.07,Café order – rush
+ORD-00253,05/05/2024,East,Pen Set,1,₹80,86.92,call before delivery
+ORD-00254,2024-06-06,West,Notebook,7,120,845.01,
+ORD-00255,2024-09-23,North,Backpack,12,1800,21420.54,ship to O'Brien Rd
+ORD-00256,2024-03-07,West,Pen Set,10,80,761.76,
+ORD-00257,2024-03-10,West,Headphones,4,2500,9310.82,<script>alert('hi')</script>
+ORD-00258,2024-05-15,North,Notebook,3,120,335.35,call before delivery
+ORD-00259,2024-09-19,North,Notebook,10,120,1142.44,
+ORD-00260,2024-03-12,South,Notebook,1,120,109.48,"quote ""as agreed"""
+ORD-00261,,West,Desk Lamp,3,950,2577.43,<script>alert('hi')</script>
+ORD-00262,2024-01-26,,Pen Set,19,80,1499.68,gift wrap
+ORD-00263,2024-08-16,East,Pen Set,2,80,163.65,call before delivery
+ORD-00264,2024-04-12,North,Water Bottle,17,400,6458.84,"quote ""as agreed"""
+ORD-00265,14/09/2024,,Desk Lamp,13,950,11782.98,repeat customer
+ORD-00266,2024-10-26,East,Pen Set,6,80,441.61,"quote ""as agreed"""
+ORD-00267,2024-07-17,East,Desk Lamp,abc,950,5330.75,
+ORD-00268,09/09/2024,North,Headphones,10,2500,-,repeat customer
+ORD-00269,2024-03-31,South,Desk Lamp,2,950,1718.33,ship to O'Brien Rd
+ORD-00270,2024-07-21,South,Headphones,4,2500,9673.12,Café order – rush
+ORD-00271,2024-12-21,South,Headphones,12,2500,-28339.42,"quote ""as agreed"""
+ORD-00272,2024-07-19,South,Headphones,2,2500,4682.08,repeat customer
+ORD-00273,2024-06-12,East,Pen Set,3,80,255.44,
+ORD-00274,2024-01-01,South,Notebook,13,120,1540.72,<script>alert('hi')</script>
+ORD-00275,2024-10-22,North,Water Bottle,8,400,2984.10,call before delivery
+ORD-00276,2024-03-23,North,Water Bottle,3,400,1211.29,ship to O'Brien Rd
+ORD-00277,2024-03-25,South,Headphones,14,2500,32599.73,ship to O'Brien Rd
+ORD-00278,2024-05-24,West,Desk Lamp,8,950,6985.79,"quote ""as agreed"""
+ORD-00279,2024-09-02,East,Pen Set,4,80,289.65,ship to O'Brien Rd
+ORD-00280,2024-05-15,West,Notebook,18,120,2111.41,gift wrap
+ORD-00281,2024-10-15,North,Notebook,5,120,630.27,
+ORD-00282,2024-07-17,West,Headphones,14,2500,38259.39,
+ORD-00283,2024-09-14,South,Headphones,17,2500,45053.83,
+ORD-00284,2024-03-05,South,Notebook,14,120,1538.33,
+ORD-00285,2024-02-14,East,Backpack,18,"₹1,800",31734.86,call before delivery
+ORD-00286,2024-02-27,North,Backpack,5,1800,8366.76,repeat customer
+ORD-00287,2024-07-29,,Desk Lamp,13,950,12732.33,
+ORD-00288,2024-07-21,East,Desk Lamp,abc,950,6914.92,ship to O'Brien Rd
+ORD-00289,2024-02-20,East,Pen Set,5,80,384.04,call before delivery
+ORD-00290,2024-09-05,South,Headphones,12,2500,31926.10,"quote ""as agreed"""
+ORD-00291,2024-01-15,North,Pen Set,7,80,602.02,<script>alert('hi')</script>
+ORD-00292,2024-09-15,West,Backpack,4,1800,7460.89,
+ORD-00293,2024-05-12,South,Water Bottle,3,400,1148.42,
+ORD-00294,2024-05-17,North,Water Bottle,14,400,5614.87,"quote ""as agreed"""
+ORD-00295,2024-06-05,East,Water Bottle,9,400,3545.14,"quote ""as agreed"""
+ORD-00296,2024-02-22,East,Notebook,17,120,2243.77,repeat customer
+ORD-00297,2024-05-21,East,Water Bottle,11,400,4718.11,"quote ""as agreed"""
+ORD-00298,2024-07-25,West,Water Bottle,11,400,4559.07,"quote ""as agreed"""
+ORD-00299,2024-04-07,West,Desk Lamp,8,950,7883.20,Café order – rush
+ORD-00300,2024-04-02,South,Desk Lamp,4,950,3777.79,gift wrap
+ORD-00301,2024-08-03,North,Desk Lamp,12,950,10854.08,
+ORD-00302,2024-09-13,South,Notebook,13,120,1569.31,<script>alert('hi')</script>
+ORD-00303,2024-03-14,South,Desk Lamp,6,950,6017.99,"quote ""as agreed"""
+ORD-00304,2024-03-22,West,Backpack,3,1800,4999.76,repeat customer
+ORD-00305,2024-01-08,South,Desk Lamp,17,950,15150.56,gift wrap
+ORD-00306,2024-03-26,East,Notebook,2,120,230.31,
+ORD-00307,2024-03-25,South,Backpack,N/A,1800,1702.23,call before delivery
+ORD-00308,2024-11-23,North,Desk Lamp,18,₹950,17521.12,call before delivery
+ORD-00309,2024-03-04,North,Headphones,9,2500,22384.78,
+ORD-00310,2024-08-02,North,Notebook,17,120,2129.26,
+ORD-00311,02/07/2024,West,Water Bottle,14,400,5370.79,
+ORD-00312,2024-02-26,North,Headphones,16,2500,37193.16,gift wrap
+ORD-00313,2024-05-15,North,Backpack,2,1800,3311.86,
+ORD-00314,2024-01-05,East,Pen Set,6,80,463.55,<script>alert('hi')</script>
+ORD-00315,2024-05-19,South,Backpack,16,1800,30527.42,call before delivery
+ORD-00316,2024-10-29,West,Backpack,19,1800,35420.21,
+ORD-00317,2024-09-04,North,Backpack,4,1800,7758.14,"quote ""as agreed"""
+ORD-00318,2024-10-16,North,Pen Set,11,80,883.36,
+ORD-00319,2024-10-12,West,Headphones,2,2500,4511.64,gift wrap
+ORD-00320,2024-01-26,South,Headphones,8,2500,20201.98,repeat customer
+ORD-00321,2024-03-01,North,Backpack,1,1800,1656.95,Café order – rush
+ORD-00322,2024-04-15,North,Water Bottle,15,400,6540.43,ship to O'Brien Rd
+ORD-00323,2024-07-05,,Water Bottle,15,400,5536.83,repeat customer
+ORD-00324,2024-12-25,West,Notebook,2,120,259.05,<script>alert('hi')</script>
+ORD-00325,2024-04-07,North,Water Bottle,11,400,4054.83,<script>alert('hi')</script>
+ORD-00326,2024-01-03,West,Headphones,2,2500,5053.23,
+ORD-00327,2024-02-23,West,Backpack,20,1800,36764.36,repeat customer
+ORD-00328,2024-05-30,East,Backpack,5,1800,8348.72,
+ORD-00329,2024-04-12,South,Pen Set,20,80,1668.60,repeat customer
+ORD-00330,2024-12-29,West,Notebook,12,120,1457.94,
+ORD-00331,31/02/2024,South,Notebook,1,120,117.14,
+ORD-00332,19/12/2024,West,Desk Lamp,7,950,6987.28,Café order – rush
+ORD-00333,2024-07-18,East,Pen Set,17,80,1437.33,ship to O'Brien Rd
+ORD-00334,2024-06-09,West,Headphones,2,2500,4512.97,Café order – rush
+ORD-00335,2024-11-04,North,Pen Set,7,80,536.95,Café order – rush
+ORD-00336,2024-05-15,East,Pen Set,6,₹80,488.06,ship to O'Brien Rd
+ORD-00337,2024-11-11,East,Water Bottle,10,400,3992.44,Café order – rush
+ORD-00338,2024-03-22,South,Backpack,18,1800,32639.99,"quote ""as agreed"""
+ORD-00339,2024-09-28,North,Backpack,18,1800,34497.50,
+ORD-00340,2024-01-21,North,Water Bottle,11,400,4295.61,repeat customer
+ORD-00341,2024-09-20,South,Headphones,15,2500,37401.04,Café order – rush
+ORD-00342,2024-01-04,South,Water Bottle,3,400,1130.59,call before delivery
+ORD-00343,2024-11-27,North,Notebook,5,120,542.85,
+ORD-00344,2024-05-12,,Backpack,13,1800,23171.27,"quote ""as agreed"""
+ORD-00345,2024-01-24,East,Water Bottle,3,400,1165.85,call before delivery
+ORD-00346,2024-12-04,West,Notebook,16,120,1788.03,ship to O'Brien Rd
+ORD-00347,2024-07-10,,Notebook,18,120,2321.90,repeat customer
+ORD-00348,2024-04-18,East,Backpack,17,1800,28411.83,Café order – rush
+ORD-00349,2024-08-24,East,Water Bottle,18,400,6585.33,ship to O'Brien Rd
+ORD-00350,2024-04-30,East,Notebook,10,120,1228.68,"quote ""as agreed"""
+ORD-00351,2024-07-05,South,Desk Lamp,14,950,12418.58,repeat customer
+ORD-00352,2024-09-02,North,Backpack,15,1800,26237.20,Café order – rush
+ORD-00353,2024-04-10,North,Desk Lamp,3,950,2979.63,gift wrap
+ORD-00354,2024-10-05,West,Headphones,16,2500,41231.27,Café order – rush
+ORD-00355,2024-02-16,South,Backpack,12,1800,21609.36,
+ORD-00356,2024-09-04,North,Desk Lamp,2,950,1793.15,call before delivery
+ORD-00357,2024-08-28,North,Backpack,2,1800,3268.73,Café order – rush
+ORD-00358,2024-10-18,North,Pen Set,13,80,1071.96,repeat customer
+ORD-00359,2024-09-06,West,Backpack,20,1800,32447.50,repeat customer
+ORD-00360,2024-11-04,East,Water Bottle,4,400,1651.56,call before delivery
+ORD-00361,2024-01-12,South,Pen Set,2,80,148.09,
+ORD-00362,2024-09-21,East,Backpack,20,1800,39378.55,
+ORD-00363,2024-07-29,South,Headphones,5,2500,13236.54,"quote ""as agreed"""
+ORD-00364,2024-10-29,North,Notebook,8,120,936.62,
+ORD-00365,2024-03-31,North,Backpack,20,1800,-36718.66,ship to O'Brien Rd
+ORD-00366,2024-11-28,West,Backpack,17,1800,30114.59,"quote ""as agreed"""
+ORD-00367,2024-02-20,North,Backpack,5,1800,8558.13,
+ORD-00368,2024-10-22,South,Headphones,4,2500,10039.52,gift wrap
+ORD-00369,2024-05-13,West,Headphones,14,2500,35452.69,Café order – rush
+ORD-00370,2024-09-04,West,Desk Lamp,10,950,9647.54,
+ORD-00371,2024-02-21,North,Pen Set,17,₹80,1332.95,"quote ""as agreed"""
+ORD-00372,2024-08-10,North,Notebook,3,120,342.94,"quote ""as agreed"""
+ORD-00373,2024-01-30,East,Pen Set,16,80,1264.38,ship to O'Brien Rd
+ORD-00374,2024-01-19,North,Desk Lamp,8,950,7835.63,Café order – rush
+ORD-00375,2024-01-08,East,Water Bottle,3,400,1300.60,call before delivery
+ORD-00376,2024-10-21,North,Notebook,9,120,1009.81,Café order – rush
+ORD-00377,2024-10-21,South,Desk Lamp,15,950,15578.26,
+ORD-00378,2024-09-03,South,Notebook,9,120,986.59,
+ORD-00379,2024-12-24,East,Desk Lamp,8,950,7276.68,gift wrap
+ORD-00380,2024-04-03,South,Water Bottle,7,400,2799.44,
+ORD-00381,2024-02-24,North,Notebook,3,₹120,372.66,<script>alert('hi')</script>
+ORD-00382,2024-10-21,East,Desk Lamp,16,950,14235.93,Café order – rush
+ORD-00383,2024-01-17,South,Headphones,12,2500,29362.30,ship to O'Brien Rd
+ORD-00384,2024-04-17,East,Backpack,19,1800,31469.12,
+ORD-00385,2024-09-12,East,Backpack,7,1800,12396.11,
+ORD-00386,2024-02-21,West,Water Bottle,9,400,3818.94,call before delivery
+ORD-00387,2024-09-12,West,Pen Set,17,80,1369.24,
+ORD-00388,2024-04-20,East,Desk Lamp,16,950,16230.47,call before delivery
+ORD-00389,2024-03-03,South,Desk Lamp,20,950,17856.04,<script>alert('hi')</script>
+ORD-00390,2024-02-10,South,Backpack,20,1800,34462.97,call before delivery
+ORD-00391,2024-02-06,East,Notebook,6,120,697.48,repeat customer
+ORD-00392,2024-10-27,North,Headphones,15,2500,36854.92,
+ORD-00393,2024-03-26,West,Backpack,ten,1800,6617.60,"quote ""as agreed"""
+ORD-00394,2024-03-20,East,Notebook,13,120,1500.52,repeat customer
+ORD-00395,2024-06-15,East,Backpack,15,1800,29564.90,<script>alert('hi')</script>
+ORD-00396,2024-11-19,East,Water Bottle,19,400,7501.17,call before delivery
+ORD-00397,2024-05-13,South,Pen Set,10,₹80,721.69,<script>alert('hi')</script>
+ORD-00398,2024-06-02,North,Notebook,14,120,1780.12,ship to O'Brien Rd
+ORD-00399,2024-07-18,South,Backpack,8,1800,13717.38,ship to O'Brien Rd
+ORD-00400,2024-09-29,South,Desk Lamp,14,950,12470.08,
+ORD-00401,2024-06-13,South,Notebook,5,120,545.96,
+ORD-00402,2024-03-18,West,Notebook,16,120,1811.40,
+ORD-00403,2024-01-29,South,Desk Lamp,13,950,-,<script>alert('hi')</script>
+ORD-00404,2024-05-06,North,Water Bottle,2,400,751.87,repeat customer
+ORD-00405,2024-03-22,North,Water Bottle,2,400,839.16,
+ORD-00406,2024-02-27,East,Pen Set,14,80,1080.69,<script>alert('hi')</script>
+ORD-00407,2024-12-18,South,Headphones,5,2500,12178.50,
+ORD-00408,2024-01-31,South,Desk Lamp,5,950,4941.26,<script>alert('hi')</script>
+ORD-00409,2024-04-08,North,Notebook,13,120,1515.75,
+ORD-00410,2024-10-05,South,Desk Lamp,11,950,10935.72,
+ORD-00411,2024-11-22,East,Headphones,13,2500,34018.78,call before delivery
+ORD-00412,2024-04-07,East,Headphones,16,2500,42125.87,
+ORD-00413,2024-04-01,North,Notebook,7,120,773.99,gift wrap
+ORD-00414,2024-01-26,South,Desk Lamp,8,950,7761.05,repeat customer
+ORD-00415,2024-10-12,North,Water Bottle,14,₹400,5960.67,
+ORD-00416,2024-09-22,South,Notebook,4,120,501.62,Café order – rush
+ORD-00417,2024-07-31,West,Water Bottle,4,400,1685.21,Café order – rush
+ORD-00418,2024-06-21,East,Water Bottle,6,400,2416.27,ship to O'Brien Rd
+ORD-00419,2024-08-08,South,Water Bottle,11,400,4495.40,call before delivery
+ORD-00420,2024-01-01,South,Water Bottle,2,400,877.27,
+ORD-00421,2024-12-19,South,Desk Lamp,18,950,17138.55,
+ORD-00422,2024-04-29,South,Desk Lamp,10,950,8724.62,"quote ""as agreed"""
+ORD-00423,2024-02-18,West,Headphones,10,2500,22686.86,call before delivery
+ORD-00424,2024-03-02,West,Pen Set,20,80,1737.17,
+ORD-00425,2024-03-19,North,Notebook,13,120,1706.96,"quote ""as agreed"""
+ORD-00426,2024-01-26,West,Headphones,13,2500,30956.63,ship to O'Brien Rd
+ORD-00427,2024-10-19,South,Pen Set,18,80,1473.41,
+ORD-00428,2024-12-09,East,Backpack,abc,1800,24520.95,<script>alert('hi')</script>
+ORD-00429,2024-11-15,South,Pen Set,15,80,1090.77,
+ORD-00430,2024-11-13,North,Pen Set,10,80,722.20,Café order – rush
+ORD-00431,2024-09-24,South,Desk Lamp,18,950,17041.95,gift wrap
+ORD-00432,2024-03-28,East,Notebook,10,₹120,1128.17,ship to O'Brien Rd
+ORD-00433,2024-07-03,West,Notebook,1,120,115.02,"quote ""as agreed"""
+ORD-00434,2024-09-29,,Notebook,6,120,676.64,
+ORD-00435,2024-06-26,East,Water Bottle,12,400,4661.16,
+ORD-00436,2024-10-11,South,Desk Lamp,8,950,7070.60,
+ORD-00437,2024-08-01,East,Pen Set,19,80,1414.44,
+ORD-00438,2024-03-11,South,Desk Lamp,17,950,17472.89,
+ORD-00439,2024-04-04,West,Desk Lamp,5,950,4965.73,gift wrap
+ORD-00440,18/03/2024,East,Pen Set,4,80,296.42,
+ORD-00441,2024-12-18,East,Backpack,5,1800,9004.18,call before delivery
+ORD-00442,2024-01-08,South,Desk Lamp,14,950,12561.99,<script>alert('hi')</script>
+ORD-00443,2024-12-18,North,Desk Lamp,15,950,15354.62,"quote ""as agreed"""
+ORD-00444,2024-10-31,North,Headphones,17,2500,43701.85,Café order – rush
+ORD-00445,2024-10-02,North,Backpack,2,1800,3641.54,
+ORD-00446,2024-08-04,South,Desk Lamp,20,950,20592.32,"quote ""as agreed"""
+ORD-00447,2024-12-22,North,Headphones,5,2500,12232.67,gift wrap
+ORD-00448,2024-06-14,North,Water Bottle,6,400,2504.82,Café order – rush
+ORD-00449,09-Nov-2024,South,Pen Set,13,80,1050.47,
+ORD-00450,2024-12-30,West,Notebook,14,120,-1615.51,gift wrap
+ORD-00451,2024-01-07,North,Backpack,16,1800,30847.17,<script>alert('hi')</script>
+ORD-00452,2024-02-10,East,Headphones,20,2500,45065.73,ship to O'Brien Rd
+ORD-00453,2024-06-27,East,Notebook,5,120,642.46,gift wrap
+ORD-00454,2024-11-08,West,Water Bottle,20,₹400,8115.65,call before delivery
+ORD-00455,2024-02-04,North,Backpack,18,1800,29580.72,"quote ""as agreed"""
+ORD-00456,2024-01-30,North,Notebook,19,120,2384.76,"quote ""as agreed"""
+ORD-00457,2024-06-11,South,Desk Lamp,17,950,16392.71,"quote ""as agreed"""
+ORD-00458,29/04/2024,North,Water Bottle,10,400,4383.41,call before delivery
+ORD-00459,2024-07-30,,Notebook,11,120,1280.31,Café order – rush
+ORD-00460,2024-10-08,West,Desk Lamp,1,₹950,876.63,repeat customer
+ORD-00461,2024-12-10,West,Backpack,16,1800,30512.19,call before delivery
+ORD-00462,2024-01-29,North,Headphones,10,2500,25324.71,
+ORD-00463,2024-05-23,South,Notebook,11,120,1447.68,repeat customer
+ORD-00464,2024-12-29,South,Notebook,9,120,1061.40,repeat customer
+ORD-00465,20/01/2024,West,Pen Set,3,80,237.30,gift wrap
+ORD-00466,2024-06-16,South,Pen Set,4,80,340.62,gift wrap
+ORD-00467,2024-01-23,North,Water Bottle,20,400,NaN,
+ORD-00468,2024-06-13,West,Pen Set,7,80,536.10,Café order – rush
+ORD-00469,2024-09-20,East,Notebook,7,120,847.14,"quote ""as agreed"""
+ORD-00470,22/06/2024,North,Headphones,15,2500,34130.45,"quote ""as agreed"""
+ORD-00471,2024-11-18,South,Water Bottle,15,400,6139.58,<script>alert('hi')</script>
+ORD-00472,2024-10-17,West,Pen Set,3,80,255.02,
+ORD-00473,2024-03-14,East,Headphones,9,2500,24357.88,repeat customer
+ORD-00474,2024-09-02,South,Backpack,6,1800,10329.68,
+ORD-00475,2024-06-03,South,Headphones,15,2500,36756.12,"quote ""as agreed"""
+ORD-00476,2024-08-08,South,Backpack,19,1800,36165.32,
+ORD-00477,2024-10-30,West,Headphones,15,2500,36190.34,call before delivery
+ORD-00478,2024-06-16,North,Backpack,2,1800,3305.18,<script>alert('hi')</script>
+ORD-00479,2024-04-10,East,Pen Set,11,80,844.75,"quote ""as agreed"""
+ORD-00480,2024-01-05,East,Headphones,17,2500,NaN,gift wrap
+ORD-00481,2024-01-16,East,Pen Set,14,80,1165.30,
+ORD-00482,2024-04-06,West,Headphones,13,2500,34731.63,
+ORD-00483,2024-03-14,South,Water Bottle,16,400,6602.15,"quote ""as agreed"""
+ORD-00484,2024-08-05,West,Headphones,6,2500,12abc,
+ORD-00485,2024-12-30,,Headphones,9,2500,22098.77,
+ORD-00486,2024-03-13,East,Water Bottle,17,400,7457.67,ship to O'Brien Rd
+ORD-00487,2024-12-08,North,Notebook,18,₹120,2288.78,"quote ""as agreed"""
+ORD-00488,2024-06-18,East,Backpack,12,1800,23589.71,gift wrap
+ORD-00489,2024-02-01,East,Water Bottle,16,400,6500.02,gift wrap
+ORD-00490,2024-05-09,North,Pen Set,20,80,1529.91,repeat customer
+ORD-00491,2024-03-30,North,Desk Lamp,8,950,7577.08,<script>alert('hi')</script>
+ORD-00492,2024-07-30,South,Backpack,8,1800,14862.72,
+ORD-00493,2024-01-27,South,Pen Set,15,80,1175.70,
+ORD-00494,2024-05-27,North,Backpack,13,1800,24235.35,ship to O'Brien Rd
+ORD-00495,2024-05-19,West,Desk Lamp,9,950,8151.72,Café order – rush
+ORD-00496,21/06/2024,North,Water Bottle,,400,2310.37,gift wrap
+ORD-00497,2024-05-08,South,Pen Set,2,80,144.76,
+ORD-00498,2024-07-11,North,Water Bottle,19,400,8060.86,gift wrap
+ORD-00499,2024-08-06,East,Water Bottle,11,400,4186.46,gift wrap
+ORD-00500,2024-04-01,West,Backpack,3,1800,5391.06,ship to O'Brien Rd
+ORD-00501,2024-02-24,East,Backpack,ten,1800,14914.65,ship to O'Brien Rd
+ORD-BAD-1,2024-02-02,North
+ORD-00502,2024-07-18,North,Desk Lamp,5,950,4940.05,
+ORD-00503,2024-10-03,West,Pen Set,1,80,78.15,
+ORD-00504,2024-11-19,East,Water Bottle,3,400,1167.69,
+ORD-00505,2024-07-15,North,Water Bottle,7,400,2687.37,
+ORD-00506,2024-01-19,West,Pen Set,1,80,83.52,<script>alert('hi')</script>
+ORD-00507,2024-01-09,North,Notebook,11,120,1202.80,Café order – rush
+ORD-00508,2024-03-17,South,Water Bottle,,400,7194.14,ship to O'Brien Rd
+ORD-00509,2024-01-26,North,Desk Lamp,4,950,3766.70,
+ORD-00510,2024-08-06,South,Desk Lamp,13,950,11915.86,
+ORD-00511,2024-03-02,East,Desk Lamp,5,950,4994.67,ship to O'Brien Rd
+ORD-00512,2024-11-09,,Backpack,6,1800,9753.76,<script>alert('hi')</script>
+ORD-00513,2024-12-20,West,Pen Set,7,80,520.03,<script>alert('hi')</script>
+ORD-00514,09/11/2024,South,Notebook,10,120,1163.48,Café order – rush
+ORD-00515,2024-09-16,East,Pen Set,15,80,1264.88,<script>alert('hi')</script>
+ORD-00516,2024-03-31,South,Pen Set,2,80,145.73,
+ORD-00517,2024-10-02,North,Pen Set,6,80,507.41,ship to O'Brien Rd
+ORD-00518,2024-06-15,West,Pen Set,4,80,308.87,call before delivery
+ORD-00519,2024-03-15,South,Pen Set,20,80,1585.60,
+ORD-00520,2024-12-20,West,Headphones,2,2500,4780.60,ship to O'Brien Rd
+ORD-00521,2024-11-09,North,Pen Set,19,80,1662.92,<script>alert('hi')</script>
+ORD-00522,2024-05-22,East,Notebook,14,120,1759.36,
+ORD-00523,2024-08-01,North,Notebook,2,120,263.58,<script>alert('hi')</script>
+ORD-00524,2024-05-03,West,Notebook,18,120,2269.33,<script>alert('hi')</script>
+ORD-00525,2024-12-08,North,Desk Lamp,6,950,5931.77,repeat customer
+ORD-00526,2024-11-16,East,Backpack,1,1800,1929.74,"quote ""as agreed"""
+ORD-00527,2024-04-16,North,Water Bottle,3,400,1228.91,<script>alert('hi')</script>
+ORD-00528,2024-11-12,North,Notebook,12,120,1401.53,ship to O'Brien Rd
+ORD-00529,2024-09-01,South,Water Bottle,19,400,8164.12,repeat customer
+ORD-00530,2024-06-25,West,Backpack,16,1800,28808.35,ship to O'Brien Rd
+ORD-00531,2024-12-20,North,Notebook,7,120,905.84,
+ORD-00532,2024-12-22,North,Pen Set,16,80,1190.53,<script>alert('hi')</script>
+ORD-00533,26/11/2024,South,Notebook,10,120,1125.37,repeat customer
+ORD-00534,2024-09-05,East,Headphones,17,2500,45406.22,repeat customer
+ORD-00535,2024-05-27,South,Notebook,5,120,582.37,ship to O'Brien Rd
+ORD-00536,2024-03-19,South,Pen Set,8,80,590.97,repeat customer
+ORD-00537,2024-03-16,East,Desk Lamp,ten,950,14363.62,
+ORD-00538,2024-01-03,East,Water Bottle,18,400,7884.87,
+ORD-00539,2024-10-16,West,Water Bottle,15,400,5806.42,
+ORD-00540,2024-08-16,South,Desk Lamp,3,950,2751.03,Café order – rush
+ORD-00541,2024-08-16,West,Water Bottle,3,400,1314.20,
+ORD-00542,2024-08-06,East,Desk Lamp,13,950,12035.89,call before delivery
+ORD-00543,2024-08-14,West,Desk Lamp,6,950,6048.47,gift wrap
+ORD-00544,2024-08-31,West,Headphones,11,2500,25113.64,"quote ""as agreed"""
+ORD-00545,2024-03-11,West,Pen Set,6,80,511.90,<script>alert('hi')</script>
+ORD-00546,2024-04-24,West,Notebook,1,120,111.70,ship to O'Brien Rd
+ORD-00547,2024-05-05,North,Notebook,4,120,505.41,ship to O'Brien Rd
+ORD-00548,2024-08-31,North,Water Bottle,4,400,1559.42,
+ORD-00549,2024-07-01,East,Pen Set,2,80,152.73,ship to O'Brien Rd
+ORD-00550,2024-04-03,East,Notebook,20,120,2521.26,
+ORD-00551,30/09/2024,East,Headphones,12,2500,31939.89,
+ORD-00552,2024-09-14,North,Pen Set,7,80,593.05,repeat customer
+ORD-00553,2024-06-08,East,Water Bottle,12,400,4453.45,
+ORD-00554,2024-12-18,North,Pen Set,10,80,12abc,
+ORD-00555,2024-04-10,North,Notebook,2,₹120,254.07,
+ORD-00556,2024-03-04,,Headphones,7,2500,17806.61,repeat customer
+ORD-00557,2024-03-23,North,Headphones,20,2500,47418.23,
+ORD-00558,2024-10-02,West,Notebook,4,120,520.73,repeat customer
+ORD-00559,2024-07-13,East,Backpack,7,1800,12635.91,Café order – rush
+ORD-00560,2024-01-21,West,Notebook,11,120,1318.34,gift wrap
+ORD-00561,2024-08-07,East,Pen Set,3,80,258.95,ship to O'Brien Rd
+ORD-00562,2024-12-12,North,Notebook,4,120,445.76,
+ORD-00563,2024-10-31,West,Backpack,4,1800,6815.33,ship to O'Brien Rd
+ORD-00564,2024-07-23,West,Desk Lamp,16,950,15706.70,
+ORD-00565,31/02/2024,West,Pen Set,1,80,73.59,"quote ""as agreed"""
+ORD-00566,2024-11-15,West,Notebook,3,120,371.60,repeat customer
+ORD-00567,03/10/2024,West,Headphones,1,2500,2726.29,
+ORD-00568,2024-01-17,South,Pen Set,18,80,1485.91,ship to O'Brien Rd
+ORD-00569,2024-09-08,West,Water Bottle,18,400,7466.94,call before delivery
+ORD-00570,2024-11-11,,Water Bottle,12,400,5055.81,
+ORD-00571,2024-11-16,East,Desk Lamp,13,950,11355.45,
+ORD-00572,2024-12-18,,Notebook,10,120,1107.47,
+ORD-00573,2024-12-22,West,Backpack,19,1800,30932.10,<script>alert('hi')</script>
+ORD-00574,2024-09-14,West,Water Bottle,11,400,4106.63,
+ORD-00575,2024-05-27,South,Desk Lamp,2,950,1822.98,gift wrap
+ORD-00576,2024-02-04,North,Headphones,17,2500,42289.78,
+ORD-00577,2024-07-31,South,Backpack,9,1800,16604.88,ship to O'Brien Rd
+ORD-00578,2024-08-27,West,Desk Lamp,18,950,18156.55,
+ORD-00579,2024-03-18,North,Water Bottle,10,400,4275.30,ship to O'Brien Rd
+ORD-00580,2024-11-03,North,Pen Set,13,80,985.60,ship to O'Brien Rd
+ORD-00581,19/01/2024,East,Pen Set,6,80,458.18,
+ORD-00582,2024-01-29,West,Notebook,11,120,1346.82,
+ORD-00583,2024-04-30,East,Notebook,19,120,2386.92,"quote ""as agreed"""
+ORD-00584,2024-07-18,North,Water Bottle,8,400,3478.72,<script>alert('hi')</script>
+ORD-00585,2024-09-30,South,Desk Lamp,4,950,3660.53,gift wrap
+ORD-00586,2024-01-11,North,Water Bottle,20,400,7255.70,repeat customer
+ORD-00587,2024-12-16,,Notebook,18,120,2318.52,
+ORD-00588,2024-06-01,West,Pen Set,6,80,519.93,call before delivery
+ORD-00589,2024-06-19,South,Water Bottle,14,400,6021.97,repeat customer
+ORD-00590,2024-08-20,South,Water Bottle,1,400,420.96,repeat customer
+ORD-00591,2024-10-21,South,Notebook,4,120,447.15,
+ORD-00592,2024-05-13,South,Pen Set,19,80,1619.34,"quote ""as agreed"""
+ORD-00593,2024-04-24,South,Notebook,1,120,130.15,call before delivery
+ORD-00594,2024-11-12,East,Backpack,20,"₹1,800",34273.14,<script>alert('hi')</script>
+ORD-00595,2024-12-10,East,Backpack,4,1800,6803.26,gift wrap
+ORD-00596,2024-12-12,North,Pen Set,14,80,1048.40,ship to O'Brien Rd
+ORD-00597,2024-11-27,East,Backpack,3,1800,4871.15,"quote ""as agreed"""
+ORD-00598,not a date,West,Notebook,4,120,485.47,
+ORD-00599,2024-01-03,West,Desk Lamp,17,950,16536.49,
+ORD-00600,2024-09-14,East,Backpack,11,1800,21296.47,<script>alert('hi')</script>
+ORD-00601,2024-05-23,East,Water Bottle,12,400,5209.19,repeat customer
+ORD-00602,2024-09-08,West,Pen Set,18,80,1541.67,<script>alert('hi')</script>
+ORD-00603,2024-08-11,West,Notebook,16,120,1743.66,
+ORD-00604,2024-05-25,South,Pen Set,6,80,503.99,
+ORD-00605,06/05/2024,North,Backpack,4,1800,7757.81,
+ORD-00606,2024-08-23,North,Water Bottle,16,400,6341.19,"quote ""as agreed"""
+ORD-00607,2024-03-07,North,Pen Set,2,80,169.65,
+ORD-00608,2024-07-23,West,Notebook,1,120,128.46,call before delivery
+ORD-00609,2024-06-07,East,Water Bottle,20,400,7410.06,call before delivery
+ORD-00610,2024-02-16,West,Backpack,12,1800,22091.91,
+ORD-00611,2024-09-10,North,Headphones,17,2500,38963.75,
+ORD-00612,2024-09-24,North,Backpack,10,1800,18246.73,gift wrap
+ORD-00613,2024-06-30,North,Desk Lamp,19,950,16540.19,call before delivery
+ORD-00614,2024-12-26,West,Desk Lamp,11,950,10632.27,
+ORD-00615,2024-02-10,West,Water Bottle,,₹400,7614.91,call before delivery
+ORD-00616,2024-12-02,East,Water Bottle,20,400,8361.46,
+ORD-00617,2024-01-08,South,Pen Set,4,80,340.22,ship to O'Brien Rd
+ORD-00618,2024-10-02,West,Pen Set,3,80,230.44,<script>alert('hi')</script>
+ORD-00619,2024-08-29,West,Notebook,ten,120,1830.68,"quote ""as agreed"""
+ORD-00620,2024-10-10,West,Desk Lamp,2,₹950,1895.25,gift wrap
+ORD-00621,2024-11-27,East,Backpack,16,1800,26593.58,<script>alert('hi')</script>
+ORD-00622,2024-04-28,West,Headphones,8,2500,20350.63,ship to O'Brien Rd
+ORD-00623,2024-11-30,South,Water Bottle,12,400,5084.13,
+ORD-00624,2024-03-21,West,Headphones,16,"₹2,500",NaN,
+ORD-00625,2024-03-30,North,Headphones,2,2500,5306.82,repeat customer
+ORD-00626,2024-01-24,North,Headphones,9,2500,24283.43,
+ORD-00627,2024-02-24,North,Headphones,20,2500,52821.56,gift wrap
+ORD-00628,2024-12-28,South,Backpack,17,1800,30590.15,call before delivery
+ORD-00629,2024-01-04,North,Pen Set,16,80,1239.38,Café order – rush
+ORD-00630,2024-08-03,West,Pen Set,5,80,424.14,<script>alert('hi')</script>
+ORD-00631,2024-03-15,East,Notebook,17,120,2221.01,ship to O'Brien Rd
+ORD-00632,2024-03-18,East,Headphones,2,2500,5477.73,repeat customer
+ORD-00633,2024-06-25,South,Notebook,9,120,1166.45,ship to O'Brien Rd
+ORD-00634,2024-08-14,West,Water Bottle,12,400,5172.17,
+ORD-00635,2024-09-23,East,Headphones,10,2500,NaN,gift wrap
+ORD-00636,2024-08-04,East,Headphones,4,"₹2,500",10463.97,gift wrap
+ORD-00637,2024-10-20,South,Water Bottle,1,400,396.25,call before delivery
+ORD-00638,2024-09-23,South,Water Bottle,8,400,2947.35,
+ORD-00639,2024-02-17,West,Notebook,14,120,1810.54,gift wrap
+ORD-00640,2024-10-26,West,Backpack,14,1800,27702.42,<script>alert('hi')</script>
+ORD-00641,2024-03-07,South,Water Bottle,17,400,7294.05,
+ORD-00642,2024-11-04,North,Backpack,4,1800,6654.05,
+ORD-00643,2024-03-14,East,Pen Set,19,80,1496.21,repeat customer
+ORD-00644,2024-02-04,West,Notebook,14,120,1673.68,
+ORD-00645,2024-09-15,South,Water Bottle,15,400,6314.01,
+ORD-00646,2024-07-21,West,Desk Lamp,18,950,15546.70,gift wrap
+ORD-00647,2024-10-14,North,Water Bottle,4,400,1646.05,ship to O'Brien Rd
+ORD-00648,2024-09-29,West,Pen Set,1,80,76.40,
+ORD-00649,2024-06-23,East,Backpack,6,1800,10616.26,
+ORD-00650,2024-05-10,South,Notebook,5,120,576.82,
+ORD-00651,2024-06-12,North,Pen Set,14,80,1208.03,Café order – rush
+ORD-00652,2024-07-16,West,Notebook,N/A,120,,Café order – rush
+ORD-00653,2024-11-29,South,Pen Set,10,80,810.92,call before delivery
+ORD-00654,2024-10-11,East,Backpack,2,1800,3240.72,gift wrap
+ORD-00655,2024-12-14,East,Backpack,12,1800,23079.34,
+ORD-00656,2024-03-12,South,Water Bottle,18,400,7918.30,gift wrap
+ORD-00657,2024-12-28,East,Backpack,9,1800,15376.81,
+ORD-00658,2024-11-07,West,Backpack,1,1800,1944.52,ship to O'Brien Rd
+ORD-00659,2024-11-29,West,Notebook,18,120,1957.37,
+ORD-00660,2024-12-22,,Notebook,4,120,476.42,
+ORD-00661,2024-02-16,West,Headphones,10,2500,26542.07,
+ORD-00662,2024-04-10,West,Water Bottle,13,400,4795.38,
+ORD-00663,2024-02-03,South,Headphones,5,2500,13114.93,ship to O'Brien Rd
+ORD-00664,2024-09-29,North,Headphones,9,2500,23313.06,call before delivery
+ORD-00665,2024-07-27,East,Desk Lamp,4,950,3936.93,Café order – rush
+ORD-00666,2024-08-17,North,Desk Lamp,1,950,929.45,
+ORD-00667,2024-03-25,North,Desk Lamp,10,950,8669.40,gift wrap
+ORD-00668,2024-05-06,North,Notebook,16,120,1819.53,<script>alert('hi')</script>
+ORD-00669,2024-02-18,North,Water Bottle,15,400,6094.72,
+ORD-00670,2024-08-14,North,Notebook,10,120,1226.58,call before delivery
+ORD-00671,2024-04-29,West,Headphones,20,2500,45106.07,<script>alert('hi')</script>
+ORD-00672,2024-09-21,North,Desk Lamp,19,950,16939.86,repeat customer
+ORD-00673,2024-08-03,North,Backpack,20,1800,35601.30,gift wrap
+ORD-00674,2024-10-25,East,Headphones,5,2500,11618.52,
+ORD-00675,2024-09-16,South,Headphones,2,2500,4922.06,<script>alert('hi')</script>
+ORD-00676,2024-11-03,East,Water Bottle,11,400,4709.77,
+ORD-00677,2024-09-10,West,Pen Set,1,80,82.22,call before delivery
+ORD-00678,15/04/2024,North,Backpack,6,1800,11504.34,"quote ""as agreed"""
+ORD-00679,2024-07-03,South,Notebook,1,120,112.78,
+ORD-00680,2024-03-31,West,Desk Lamp,4,950,3435.96,repeat customer
+ORD-00681,2024-07-09,West,Water Bottle,6,400,2611.76,
+ORD-00682,2024-09-29,South,Backpack,12,1800,20813.55,
+ORD-00683,2024-06-16,South,Pen Set,2,80,164.14,<script>alert('hi')</script>
+ORD-00684,2024-12-05,East,Headphones,3,2500,7001.15,<script>alert('hi')</script>
+ORD-00685,2024-08-30,North,Desk Lamp,19,950,17692.42,call before delivery
+ORD-00686,2024-07-12,North,Headphones,6,2500,16306.50,<script>alert('hi')</script>
+ORD-00687,2024-09-19,West,Headphones,11,2500,12abc,ship to O'Brien Rd
+ORD-00688,2024-02-08,North,Desk Lamp,3,950,2732.88,
+ORD-00689,2024-06-19,East,Pen Set,11,80,836.00,Café order – rush
+ORD-00690,2024-05-13,West,Notebook,10,120,-,
+ORD-00691,2024-04-26,West,Water Bottle,7,400,2785.69,call before delivery
+ORD-00692,17/04/2024,South,Backpack,15,1800,NaN,call before delivery
+ORD-00693,2024-08-05,East,Water Bottle,,400,5473.36,repeat customer
+ORD-00694,2024-10-17,West,Water Bottle,20,400,8662.00,
+ORD-00695,2024-06-17,South,Headphones,15,"₹2,500",38542.52,
+ORD-00696,2024-04-11,North,Notebook,13,₹120,1492.55,call before delivery
+ORD-00697,2024-03-21,North,Notebook,5,120,604.37,ship to O'Brien Rd
+ORD-00698,2024-08-31,South,Pen Set,20,80,-,call before delivery
+ORD-00699,2024-11-05,West,Pen Set,17,80,1313.46,<script>alert('hi')</script>
+ORD-00700,2024-06-26,South,Water Bottle,10,400,3912.87,ship to O'Brien Rd
+ORD-00701,2024-04-03,North,Water Bottle,19,400,6985.21,
+ORD-00702,2024-12-23,North,Water Bottle,7,400,3028.89,<script>alert('hi')</script>
+ORD-00703,2024-03-25,North,Desk Lamp,7,950,6658.07,
+ORD-00704,2024-07-22,South,Notebook,1,120,114.01,
+ORD-00705,2024-12-31,South,Backpack,,1800,8947.42,
+ORD-00706,2024-02-09,East,Water Bottle,1,400,414.19,
+ORD-00707,2024-11-21,North,Headphones,4,2500,9781.24,
+ORD-00708,2024-04-12,East,Notebook,1,120,118.12,ship to O'Brien Rd
+ORD-00709,2024-03-26,East,Water Bottle,6,400,2181.13,call before delivery
+ORD-00710,2024-03-02,North,Pen Set,7,80,515.86,gift wrap
+ORD-00711,2024-11-28,West,Headphones,12,2500,27263.63,"quote ""as agreed"""
+ORD-00712,2024-03-28,West,Desk Lamp,4,950,3875.90,repeat customer
+ORD-00713,2024-12-07,West,Backpack,3,1800,5221.91,
+ORD-00714,2024-01-11,South,Headphones,4,2500,9617.70,
+ORD-00715,2024-11-24,West,Notebook,8,120,1041.29,Café order – rush
+ORD-00716,2024-07-31,East,Water Bottle,10,400,4200.44,ship to O'Brien Rd
+ORD-00717,2024-12-22,East,Water Bottle,8,400,3269.16,
+ORD-00718,2024-11-20,South,Pen Set,7,80,518.06,
+ORD-00719,2024-08-05,West,Pen Set,20,80,1519.67,repeat customer
+ORD-00720,2024-07-22,West,Backpack,6,1800,12abc,
+ORD-00721,2024-06-02,East,Headphones,18,2500,41875.19,repeat customer
+ORD-00722,2024-03-10,,Water Bottle,16,400,6010.52,call before delivery
+ORD-00723,2024-07-10,North,Backpack,16,1800,27692.99,
+ORD-00724,2024-08-11,East,Desk Lamp,12,950,11421.91,
+ORD-00725,2024-07-04,East,Water Bottle,1,400,415.80,ship to O'Brien Rd
+ORD-00726,2024-03-23,West,Notebook,4,120,506.01,call before delivery
+ORD-00727,2024-03-25,West,Backpack,9,1800,16821.55,
+ORD-00728,2024-11-21,South,Headphones,12,2500,31885.37,
+ORD-00729,2024-02-19,West,Notebook,14,120,1688.39,
+ORD-00730,,South,Headphones,7,2500,16399.73,"quote ""as agreed"""
+ORD-00731,2024-02-25,North,Water Bottle,6,400,2198.31,
+ORD-00732,05/01/2024,North,Notebook,9,₹120,1134.39,gift wrap
+ORD-00733,2024-09-05,East,Backpack,11,1800,20213.31,
+ORD-00734,2024-07-01,West,Desk Lamp,4,950,3422.34,gift wrap
+ORD-00735,2024-12-24,West,Pen Set,12,₹80,950.77,repeat customer
+ORD-00736,2024-01-09,East,Water Bottle,12,400,5158.50,repeat customer
+ORD-00737,2024-08-07,South,Backpack,4,1800,7537.36,
+ORD-00738,2024-03-06,West,Backpack,3,1800,5185.46,
+ORD-00739,2024-03-28,North,Water Bottle,3,400,1105.31,gift wrap
+ORD-00740,2024-12-06,West,Backpack,4,1800,7438.29,"quote ""as agreed"""
+ORD-00741,2024-02-03,West,Water Bottle,11,400,4291.77,gift wrap
+ORD-00742,2024-02-29,South,Desk Lamp,3,950,2628.49,"quote ""as agreed"""
+ORD-00743,2024-01-01,West,Desk Lamp,2,950,1934.22,Café order – rush
+ORD-00744,2024-12-05,West,Headphones,19,2500,44860.34,
+ORD-00745,2024-11-03,North,Desk Lamp,5,950,4984.71,"quote ""as agreed"""
+ORD-00746,2024-09-01,West,Water Bottle,7,400,2797.21,
+ORD-00747,2024-12-24,West,Water Bottle,2,400,867.71,
+ORD-00748,2024-10-07,East,Backpack,11,1800,19492.85,
+ORD-00749,2024-12-24,North,Headphones,13,2500,29882.58,<script>alert('hi')</script>
+ORD-00750,2024-05-29,North,Pen Set,7,80,528.43,call before delivery
+ORD-00751,2024-08-06,West,Water Bottle,6,400,2604.47,
+ORD-00752,2024-11-17,West,Water Bottle,13,400,4934.80,ship to O'Brien Rd
+ORD-00753,2024-12-03,East,Notebook,15,₹120,1931.36,ship to O'Brien Rd
+ORD-00754,2024-12-08,West,Headphones,8,2500,18092.11,ship to O'Brien Rd
+ORD-00755,2024-12-25,North,Backpack,10,1800,18257.12,call before delivery
+ORD-00756,2024-10-11,North,Headphones,17,2500,42402.79,
+ORD-00757,2024-01-03,South,Headphones,15,2500,39753.85,
+ORD-00758,2024-03-04,West,Headphones,10,2500,24317.80,gift wrap
+ORD-00759,2024-12-03,East,Headphones,15,2500,34798.91,
+ORD-00760,2024-12-05,South,Notebook,8,120,871.05,"quote ""as agreed"""
+ORD-00761,2024-08-04,South,Notebook,18,120,2054.15,Café order – rush
+ORD-00762,2024-04-14,South,Notebook,9,120,1187.00,
+ORD-00763,2024-06-10,North,Backpack,13,1800,21181.26,
+ORD-00764,2024-07-04,,Desk Lamp,9,950,7945.22,
+ORD-00765,2024-03-30,North,Headphones,10,2500,25444.14,
+ORD-00766,2024-03-28,West,Desk Lamp,13,₹950,11561.26,
+ORD-00767,2024-13-45,South,Backpack,19,1800,35810.29,<script>alert('hi')</script>
+ORD-00768,2024-09-14,South,Desk Lamp,9,950,9323.97,
+ORD-00769,2024-11-20,South,Notebook,3,120,376.56,
+ORD-00770,2024-08-05,West,Water Bottle,17,400,7388.12,"quote ""as agreed"""
+ORD-00771,2024-04-07,East,Water Bottle,1,400,417.13,Café order – rush
+ORD-00772,2024-12-16,South,Headphones,2,2500,5107.37,<script>alert('hi')</script>
+ORD-00773,2024-07-13,South,Pen Set,12,80,1050.19,gift wrap
+ORD-00774,2024-04-19,North,Notebook,19,120,2231.49,<script>alert('hi')</script>
+ORD-00775,2024-06-17,South,Desk Lamp,ten,950,10504.33,
+ORD-00776,2024-07-29,East,Notebook,16,120,1730.65,gift wrap
+ORD-00777,2024-02-25,,Backpack,15,1800,25173.91,
+ORD-00778,2024-07-21,South,Backpack,11,1800,21387.95,<script>alert('hi')</script>
+ORD-00779,2024-12-15,West,Water Bottle,5,400,1929.96,
+ORD-00780,11/01/2024,South,Pen Set,5,80,387.53,<script>alert('hi')</script>
+ORD-00781,2024-05-28,South,Desk Lamp,16,950,13931.15,
+ORD-00782,2024-12-07,North,Backpack,7,1800,12534.21,ship to O'Brien Rd
+ORD-00783,17/03/2024,South,Pen Set,4,80,296.47,call before delivery
+ORD-00784,2024-09-25,North,Desk Lamp,8,950,7177.10,repeat customer
+ORD-00785,30-Dec-2024,,Backpack,8,1800,13881.14,"quote ""as agreed"""
+ORD-00786,2024-02-21,East,Backpack,6,"₹1,800",10264.89,repeat customer
+ORD-00787,2024-07-03,East,Water Bottle,12,400,5033.21,ship to O'Brien Rd
+ORD-00788,2024-11-04,South,Notebook,2,120,244.15,gift wrap
+ORD-00789,30-Aug-2024,South,Pen Set,18,80,1503.58,Café order – rush
+ORD-00790,2024-06-26,West,Desk Lamp,15,950,14620.11,"quote ""as agreed"""
+ORD-00791,2024-05-20,North,Water Bottle,5,400,1915.86,Café order – rush
+ORD-00792,2024-02-08,West,Pen Set,15,80,1260.17,
+ORD-00793,2024-09-19,East,Backpack,17,1800,31871.45,Café order – rush
+ORD-00794,2024-05-01,East,Desk Lamp,2,950,1953.05,
+ORD-00795,2024-09-30,East,Notebook,1,120,123.57,"quote ""as agreed"""
+ORD-00796,30/05/2024,East,Desk Lamp,2,950,1947.86,"quote ""as agreed"""
+ORD-00797,2024-02-24,South,Water Bottle,13,400,5663.48,call before delivery
+ORD-00798,2024-03-20,South,Backpack,8,1800,15061.86,
+ORD-00799,18/10/2024,South,Backpack,6,1800,11118.74,call before delivery
+ORD-00800,2024-05-05,North,Backpack,13,"₹1,800",21529.09,ship to O'Brien Rd
+ORD-00801,2024-01-23,North,Pen Set,,80,674.58,
+ORD-00802,2024-04-13,South,Pen Set,16,80,1346.48,Café order – rush
+ORD-00803,2024-03-04,West,Notebook,2,₹120,220.94,ship to O'Brien Rd
+ORD-00804,2024-05-26,North,Pen Set,13,80,1078.85,
+ORD-00805,2024-11-11,North,Desk Lamp,4,950,3693.98,ship to O'Brien Rd
+ORD-00806,2024-08-05,North,Pen Set,10,80,819.96,
+ORD-00807,2024-01-02,West,Pen Set,5,80,385.62,repeat customer
+ORD-00808,2024-03-06,West,Pen Set,13,80,1009.34,ship to O'Brien Rd
+ORD-00809,2024-05-05,West,Backpack,14,1800,25448.67,"quote ""as agreed"""
+ORD-00810,2024-12-21,North,Water Bottle,8,400,3329.98,
+ORD-00811,2024-01-31,South,Desk Lamp,12,950,12195.15,
+ORD-00812,2024-04-17,South,Pen Set,ten,80,167.90,
+ORD-00813,2024-09-01,North,Headphones,ten,2500,13590.56,Café order – rush
+ORD-00814,2024-12-23,North,Desk Lamp,16,950,14931.03,Café order – rush
+ORD-00815,2024-03-23,West,Notebook,13,120,1663.80,call before delivery
+ORD-00816,2024-03-21,South,Desk Lamp,3,950,2862.26,Café order – rush
+ORD-00817,2024-11-05,West,Notebook,15,120,1791.87,
+ORD-00818,2024-02-23,North,Notebook,12,120,1469.72,gift wrap
+ORD-00819,06/04/2024,East,Headphones,7,"₹2,500",17984.36,
+ORD-00820,2024-06-10,East,Notebook,10,120,1082.03,
+ORD-00821,2024-12-25,North,Water Bottle,4,₹400,1546.02,
+ORD-00822,2024-05-28,North,Pen Set,5,80,414.59,
+ORD-00823,2024-09-13,East,Headphones,20,2500,51513.95,
+ORD-00824,2024-12-30,North,Water Bottle,13,400,4928.68,gift wrap
+ORD-00825,2024-10-07,East,Notebook,16,120,1764.14,<script>alert('hi')</script>
+ORD-00826,2024-05-12,South,Backpack,9,1800,17052.59,call before delivery
+ORD-00827,2024-11-13,East,Water Bottle,5,400,1976.33,ship to O'Brien Rd
+ORD-00828,2024-01-22,North,Headphones,2,2500,5241.04,
+ORD-00829,2024-07-17,West,Backpack,3,1800,5236.85,call before delivery
+ORD-00830,2024-04-12,West,Backpack,11,1800,18075.31,<script>alert('hi')</script>
+ORD-00831,15/03/2024,West,Water Bottle,7,400,2699.30,
+ORD-00832,2024-01-12,North,Water Bottle,14,400,5342.23,call before delivery
+ORD-00833,tomorrow,East,Pen Set,9,80,674.51,Café order – rush
+ORD-00834,2024-12-18,West,Pen Set,14,80,1087.45,"quote ""as agreed"""
+ORD-00835,2024-11-11,,Pen Set,11,80,908.88,ship to O'Brien Rd
+ORD-00836,2024-07-27,South,Desk Lamp,17,950,16867.98,
+ORD-00837,2024-08-03,South,Water Bottle,18,400,7595.11,repeat customer
+ORD-00838,2024-01-09,West,Desk Lamp,10,950,9503.96,Café order – rush
+ORD-00839,2024-06-20,South,Notebook,6,120,714.07,gift wrap
+ORD-00840,2024-12-25,North,Headphones,ten,2500,10990.73,Café order – rush
+ORD-00841,2024-02-21,East,Water Bottle,15,400,6004.03,<script>alert('hi')</script>
+ORD-00842,2024-03-04,,Desk Lamp,15,950,14001.86,gift wrap
+ORD-00843,2024-06-06,,Backpack,8,1800,12971.97,"quote ""as agreed"""
+ORD-00844,2024-06-11,South,Desk Lamp,6,950,6223.44,"quote ""as agreed"""
+ORD-00845,2024-08-07,East,Pen Set,13,80,1139.29,ship to O'Brien Rd
+ORD-00846,2024-10-22,East,Backpack,9,1800,17292.97,
+ORD-00847,2024-11-12,,Water Bottle,18,400,7805.66,
+ORD-00848,2024-05-02,South,Water Bottle,8,400,3070.03,
+ORD-00849,2024-03-14,North,Water Bottle,1,400,411.07,
+ORD-00850,2024-02-17,South,Notebook,16,₹120,2052.34,
+ORD-00851,2024-04-17,West,Water Bottle,14,₹400,5460.28,"quote ""as agreed"""
+ORD-00852,2024-01-17,North,Notebook,11,120,1450.35,
+ORD-00853,2024-09-22,,Headphones,5,2500,11790.77,gift wrap
+ORD-00854,2024-09-03,East,Pen Set,3,80,232.73,gift wrap
+ORD-00855,2024-03-29,East,Pen Set,9,80,786.51,"quote ""as agreed"""
+ORD-00856,2024-05-19,South,Desk Lamp,20,950,17508.72,
+ORD-00857,2024-09-18,East,Desk Lamp,19,950,17724.41,
+ORD-00858,2024-02-07,,Pen Set,12,80,935.42,repeat customer
+ORD-00859,2024-04-29,South,Headphones,3,2500,7328.39,
+ORD-00860,2024-10-20,East,Water Bottle,14,400,5803.99,
+ORD-00861,2024-03-04,South,Backpack,6,1800,11019.09,<script>alert('hi')</script>
+ORD-00862,2024-05-25,North,Pen Set,ten,80,943.70,gift wrap
+ORD-00863,2024-06-11,West,Desk Lamp,13,950,11312.03,
+ORD-00864,10-Jul-2024,North,Headphones,4,2500,9058.58,
+ORD-00865,2024-04-07,North,Water Bottle,12,400,5103.50,gift wrap
+ORD-00866,2024-02-08,West,Desk Lamp,11,950,10842.76,
+ORD-00867,2024-10-26,South,Backpack,15,1800,27908.47,
+ORD-00868,2024-02-17,South,Desk Lamp,10,950,9901.62,
+ORD-00869,2024-04-18,West,Notebook,7,120,834.65,gift wrap
+ORD-00870,2024-12-28,South,Backpack,5,1800,9626.05,call before delivery
+ORD-00871,2024-04-06,North,Notebook,9,120,1063.39,
+ORD-00872,2024-05-16,East,Notebook,16,120,1982.16,call before delivery
+ORD-00873,2024-09-17,North,Desk Lamp,2,950,1877.71,"quote ""as agreed"""
+ORD-00874,2024-05-21,North,Headphones,20,2500,49936.16,gift wrap
+ORD-00875,2024-05-02,West,Notebook,18,120,1987.65,
+ORD-00876,2024-03-28,East,Pen Set,12,80,986.28,gift wrap
+ORD-00877,2024-12-18,South,Pen Set,6,80,462.25,
+ORD-00878,2024-03-31,North,Desk Lamp,3,950,2662.31,
+ORD-00879,2024-01-24,South,Notebook,19,120,2362.10,repeat customer
+ORD-00880,2024-08-19,West,Backpack,12,1800,23715.91,Café order – rush
+ORD-00881,2024-12-05,North,Headphones,16,2500,36902.09,
+ORD-00882,2024-05-05,South,Headphones,14,2500,34015.94,Café order – rush
+ORD-00883,2024-08-18,East,Headphones,6,2500,14295.93,Café order – rush
+ORD-00884,2024-12-25,East,Desk Lamp,20,950,17567.25,
+ORD-00885,2024-09-24,West,Desk Lamp,20,₹950,19220.94,"quote ""as agreed"""
+ORD-00886,2024-03-04,North,Notebook,16,120,1845.44,Café order – rush
+ORD-00887,2024-03-20,West,Notebook,9,120,1002.81,ship to O'Brien Rd
+ORD-00888,2024-11-22,East,Backpack,14,1800,24691.53,"quote ""as agreed"""
+ORD-00889,2024-03-12,South,Water Bottle,7,400,2660.01,call before delivery
+ORD-00890,2024-08-11,East,Notebook,5,120,603.19,Café order – rush
+ORD-00891,2024-01-14,East,Backpack,3,1800,5676.32,gift wrap
+ORD-00892,28/01/2024,West,Backpack,5,1800,8825.30,"quote ""as agreed"""
+ORD-00893,2024-02-19,North,Desk Lamp,19,950,17983.10,Café order – rush
+ORD-00894,2024-03-14,South,Headphones,16,2500,12abc,
+ORD-00895,2024-02-28,North,Notebook,1,₹120,111.67,
+ORD-00896,2024-06-02,East,Backpack,16,1800,31580.33,ship to O'Brien Rd
+ORD-00897,2024-01-12,South,Pen Set,5,80,425.48,
+ORD-00898,2024-10-28,North,Backpack,12,1800,22324.46,call before delivery
+ORD-00899,2024-01-06,West,Headphones,10,2500,22670.42,gift wrap
+ORD-00900,2024-01-05,South,Pen Set,12,80,960.12,repeat customer
+ORD-00901,2024-12-01,South,Water Bottle,19,400,7355.72,ship to O'Brien Rd
+
+ORD-00902,2024-09-04,East,Backpack,16,1800,29409.65,call before delivery
+ORD-00903,2024-02-04,North,Notebook,1,120,128.45,
+ORD-00904,2024-02-23,North,Pen Set,13,₹80,1093.21,repeat customer
+ORD-00905,2024-11-06,West,Water Bottle,1,400,433.88,<script>alert('hi')</script>
+ORD-00906,2024-12-13,South,Desk Lamp,,950,7145.81,repeat customer
+ORD-00907,2024-07-27,West,Headphones,18,2500,48280.42,Café order – rush
+ORD-00908,2024-03-11,North,Notebook,15,120,1773.90,
+ORD-00909,2024-11-03,East,Headphones,11,2500,24873.98,gift wrap
+ORD-00910,2024-02-08,East,Headphones,19,2500,45043.28,gift wrap
+ORD-00911,2024-11-30,East,Notebook,2,120,232.23,ship to O'Brien Rd
+ORD-00912,2024-02-01,North,Pen Set,16,80,1170.67,Café order – rush
+ORD-00913,2024-09-02,West,Pen Set,9,80,752.16,
+ORD-00914,2024-01-11,West,Notebook,1,120,126.57,
+ORD-00915,2024-08-08,North,Water Bottle,14,400,5655.49,
+ORD-00916,2024-05-01,North,Pen Set,N/A,80,244.25,
+ORD-00917,2024-05-24,South,Notebook,11,120,1280.31,
+ORD-00918,2024-05-08,East,Headphones,7,2500,17482.25,Café order – rush
+ORD-00919,2024-05-29,North,Water Bottle,8,400,3217.18,
+ORD-00920,2024-03-11,North,Headphones,8,2500,19219.76,ship to O'Brien Rd
+ORD-00921,20/08/2024,East,Notebook,1,120,119.97,call before delivery
+ORD-00922,10-Sep-2024,South,Notebook,13,120,1524.01,repeat customer
+ORD-00923,2024-01-14,South,Headphones,11,2500,29824.84,
+ORD-00924,2024-02-25,East,Headphones,13,2500,35441.08,Café order – rush
+ORD-00925,2024-05-13,South,Pen Set,abc,80,1033.21,repeat customer
+ORD-00926,2024-10-19,East,Backpack,2,1800,3683.19,repeat customer
+ORD-00927,2024-05-15,,Pen Set,15,80,1191.05,"quote ""as agreed"""
+ORD-00928,2024-02-10,West,Desk Lamp,20,950,19195.50,ship to O'Brien Rd
+ORD-00929,2024-03-30,North,Pen Set,20,80,1649.91,
+ORD-00930,01/02/2024,East,Water Bottle,9,400,3942.20,
+ORD-00931,2024-09-18,West,Notebook,8,120,NaN,call before delivery
+ORD-00932,2024-11-29,North,Desk Lamp,16,950,16545.14,"quote ""as agreed"""
+ORD-00933,2024-04-18,East,Desk Lamp,17,950,16846.93,ship to O'Brien Rd
+ORD-00934,2024-02-10,West,Notebook,8,120,972.56,ship to O'Brien Rd
+ORD-00935,2024-09-25,East,Headphones,15,2500,36127.05,repeat customer
+ORD-00936,2024-02-29,West,Water Bottle,8,400,3164.80,"quote ""as agreed"""
+ORD-00937,2024-04-27,South,Backpack,14,1800,23838.01,"quote ""as agreed"""
+ORD-00938,2024-05-13,West,Desk Lamp,11,950,10060.93,
+ORD-00939,2024-08-20,West,Notebook,6,₹120,665.39,
+ORD-00940,2024-03-08,East,Headphones,17,2500,46058.30,repeat customer
+ORD-00941,2024-10-29,North,Headphones,20,2500,46077.72,call before delivery
+ORD-00942,2024-05-28,North,Backpack,abc,1800,9420.20,
+ORD-00943,2024-09-17,South,Water Bottle,19,400,7264.54,call before delivery
+ORD-00944,2024-05-26,South,Desk Lamp,13,950,11901.89,gift wrap
+ORD-00945,2024-10-21,North,Headphones,11,2500,25297.07,gift wrap
+ORD-00946,2024-11-06,South,Notebook,8,120,991.96,Café order – rush
+ORD-00947,2024-10-02,East,Pen Set,1,80,79.81,<script>alert('hi')</script>
+ORD-00948,2024-05-31,East,Notebook,4,120,474.66,
+ORD-00949,2024-04-23,East,Water Bottle,3,400,1158.51,
+ORD-00950,2024-08-09,North,Notebook,17,120,1965.55,
+ORD-00951,2024-12-10,South,Pen Set,9,80,715.70,
+ORD-00952,2024-01-02,,Backpack,3,1800,5389.95,repeat customer
+ORD-00953,2024-09-04,East,Headphones,6,2500,16133.67,gift wrap
+ORD-00954,2024-02-19,East,Pen Set,4,80,349.63,repeat customer
+ORD-00955,2024-12-04,West,Notebook,12,120,1496.73,gift wrap
+ORD-00956,2024-09-16,East,Pen Set,14,80,1021.62,
+ORD-00957,2024-05-17,East,Backpack,8,1800,13938.74,
+ORD-00958,2024-11-10,North,Headphones,11,2500,25460.68,Café order – rush
+ORD-00959,2024-02-02,South,Water Bottle,2,400,802.98,
+ORD-00960,2024-07-10,,Desk Lamp,,950,12543.54,gift wrap
+ORD-00961,2024-06-03,North,Notebook,8,120,985.26,gift wrap
+ORD-00962,2024-02-13,,Notebook,3,120,360.32,"quote ""as agreed"""
+ORD-00963,2024-07-19,West,Pen Set,abc,80,1714.98,"quote ""as agreed"""
+ORD-00964,2024-08-29,West,Backpack,10,1800,17746.32,
+ORD-00965,2024-09-11,North,Water Bottle,13,₹400,5669.52,<script>alert('hi')</script>
+ORD-00966,2024-10-15,North,Notebook,10,120,1159.78,
+ORD-00967,2024-07-25,South,Headphones,16,2500,40187.25,
+ORD-00968,2024-06-13,East,Water Bottle,19,400,7750.07,ship to O'Brien Rd
+ORD-00969,2024-04-30,North,Desk Lamp,15,950,14845.27,Café order – rush
+ORD-00970,2024-03-03,North,Pen Set,7,80,553.01,Café order – rush
+ORD-00971,2024-08-02,East,Backpack,1,1800,1726.83,"quote ""as agreed"""
+ORD-00972,2024-11-28,East,Pen Set,5,80,383.22,
+ORD-00973,2024-03-25,South,Headphones,16,"₹2,500",36078.57,
+ORD-00974,2024-10-02,South,Backpack,11,1800,18195.07,
+ORD-00975,2024-05-20,West,Desk Lamp,14,950,13524.69,
+ORD-00976,2024-04-20,West,Desk Lamp,6,950,5429.75,"quote ""as agreed"""
+ORD-00977,2024-12-08,South,Backpack,7,1800,11763.61,repeat customer
+ORD-00978,2024-02-09,West,Notebook,5,120,601.40,call before delivery
+ORD-00979,2024-12-27,North,Backpack,12,1800,20786.81,
+ORD-00980,2024-08-11,North,Headphones,15,2500,NaN,ship to O'Brien Rd
+ORD-00981,2024-06-26,South,Water Bottle,14,400,12abc,
+ORD-00982,2024-01-03,East,Headphones,abc,"₹2,500",24142.26,
+ORD-00983,,North,Water Bottle,9,400,3437.41,<script>alert('hi')</script>
+ORD-00984,27/11/2024,South,Headphones,4,2500,9076.39,
+ORD-00985,2024-01-29,East,Backpack,2,1800,NaN,
+ORD-00986,2024-10-27,West,Water Bottle,12,400,4815.69,
+ORD-00987,2024-05-16,South,Notebook,6,120,711.85,gift wrap
+ORD-00988,2024-05-20,North,Headphones,12,2500,27706.29,
+ORD-00989,2024-06-11,South,Headphones,1,2500,2633.36,ship to O'Brien Rd
+ORD-00990,2024-11-24,East,Pen Set,5,80,384.84,
+ORD-00991,2024-03-31,West,Desk Lamp,9,950,8887.82,ship to O'Brien Rd
+ORD-00992,2024-03-28,South,Notebook,19,120,2227.87,repeat customer
+ORD-00993,2024-12-24,North,Headphones,18,2500,47968.72,Café order – rush
+ORD-00994,2024-12-03,East,Water Bottle,6,400,2388.10,ship to O'Brien Rd
+ORD-00995,2024-07-02,North,Notebook,6,120,708.68,<script>alert('hi')</script>
+ORD-00996,2024-11-11,West,Backpack,19,1800,34719.60,call before delivery
+ORD-00997,2024-06-02,North,Notebook,8,120,1010.53,Café order – rush
+ORD-00998,2024-03-26,South,Desk Lamp,20,950,20767.90,
+ORD-00999,2024-02-16,South,Desk Lamp,5,950,5036.42,
+ORD-01000,2024-04-30,,Pen Set,14,80,1028.20,
+ORD-01001,2024-08-29,North,Water Bottle,13,400,5544.60,gift wrap
+ORD-01002,2024-12-11,East,Water Bottle,14,400,5708.57,
+ORD-01003,07/07/2024,West,Desk Lamp,11,950,10453.04,call before delivery
+ORD-01004,2024-02-17,East,Desk Lamp,13,950,12730.49,
+ORD-01005,2024-03-24,North,Backpack,17,1800,32645.50,
+ORD-01006,2024-06-12,North,Pen Set,19,80,1522.12,gift wrap
+ORD-01007,2024-11-20,East,Notebook,20,120,2547.42,
+ORD-01008,2024-08-05,North,Headphones,13,2500,34907.04,<script>alert('hi')</script>
+ORD-01009,2024-08-10,West,Notebook,15,120,1721.42,ship to O'Brien Rd
+ORD-01010,2024-05-31,,Notebook,18,120,2059.45,
+ORD-01011,2024-09-29,North,Water Bottle,13,400,4938.57,<script>alert('hi')</script>
+ORD-01012,2024-12-18,West,Headphones,8,"₹2,500",21675.10,
+ORD-01013,2024-07-14,East,Headphones,abc,2500,7256.66,call before delivery
+ORD-01014,2024-02-29,South,Pen Set,19,80,1447.34,gift wrap
+ORD-01015,18-Dec-2024,West,Pen Set,9,80,720.23,call before delivery
+ORD-01016,2024-12-02,East,Pen Set,9,80,686.46,"quote ""as agreed"""
+ORD-01017,2024-08-23,West,Headphones,14,2500,35943.41,
+ORD-01018,2024-08-24,West,Water Bottle,16,400,6029.62,Café order – rush
+ORD-01019,2024-06-25,East,Notebook,7,120,-,"quote ""as agreed"""
+ORD-01020,2024-08-08,West,Backpack,1,1800,1890.50,
+ORD-01021,2024-02-19,East,Backpack,7,1800,11872.49,call before delivery
+ORD-01022,2024-06-29,East,Pen Set,14,80,1209.70,Café order – rush
+ORD-01023,2024-10-01,West,Headphones,13,2500,30713.14,
+ORD-01024,2024-09-29,North,Desk Lamp,15,950,14695.14,"quote ""as agreed"""
+ORD-01025,2024-04-24,West,Pen Set,20,80,1638.37,
+ORD-01026,2024-07-08,South,Notebook,20,120,2584.09,
+ORD-01027,14/06/2024,West,Pen Set,10,80,730.37,<script>alert('hi')</script>
+ORD-01028,2024-09-13,South,Water Bottle,4,400,1697.18,call before delivery
+ORD-01029,2024-09-23,East,Backpack,13,1800,21389.31,
+ORD-01030,2024-08-12,North,Backpack,2,1800,3450.93,
+ORD-01031,2024-02-23,North,Pen Set,9,80,757.14,<script>alert('hi')</script>
+ORD-01032,2024-04-17,West,Desk Lamp,4,950,3670.82,<script>alert('hi')</script>
+ORD-01033,2024-06-18,South,Backpack,9,1800,16421.07,gift wrap
+ORD-01034,2024-06-06,West,Water Bottle,6,400,2432.47,call before delivery
+ORD-01035,2024-05-11,East,Water Bottle,abc,400,2897.92,call before delivery
+ORD-01036,2024-09-01,East,Headphones,6,2500,16417.21,<script>alert('hi')</script>
+ORD-01037,2024-03-30,East,Backpack,13,1800,21126.61,
+ORD-01038,2024-11-28,North,Pen Set,12,80,959.77,
+ORD-01039,2024-07-05,East,Water Bottle,2,400,783.76,
+ORD-01040,2024-01-29,South,Backpack,19,1800,34356.97,
+ORD-01041,2024-11-07,North,Desk Lamp,18,950,16338.97,"quote ""as agreed"""
+ORD-01042,2024-09-01,East,Backpack,4,1800,7253.18,
+ORD-01043,2024-10-04,North,Headphones,7,2500,17844.03,
+ORD-01044,2024-10-28,East,Water Bottle,20,400,8408.87,Café order – rush
+ORD-01045,2024-05-25,East,Water Bottle,10,400,3811.36,
+ORD-01046,2024-09-06,West,Notebook,11,120,1423.85,<script>alert('hi')</script>
+ORD-01047,2024-06-24,North,Water Bottle,18,400,7664.48,
+ORD-01048,2024-12-16,East,Desk Lamp,20,950,17899.11,
+ORD-01049,2024-06-15,East,Headphones,16,2500,41227.93,gift wrap
+ORD-01050,2024-06-19,East,Water Bottle,12,400,5116.06,call before delivery
+ORD-01051,2024-06-30,North,Water Bottle,5,400,2189.99,
+ORD-01052,2024-06-13,South,Backpack,13,1800,22584.21,
+ORD-01053,2024-06-15,North,Water Bottle,16,400,6965.11,"quote ""as agreed"""
+ORD-01054,2024-10-27,East,Backpack,2,1800,3313.04,
+ORD-01055,2024-06-15,East,Water Bottle,14,400,5963.23,ship to O'Brien Rd
+ORD-01056,2024-05-13,South,Headphones,17,2500,45197.13,repeat customer
+ORD-01057,2024-08-16,West,Water Bottle,7,400,2623.12,
+ORD-01058,2024-03-12,North,Notebook,14,120,1655.58,
+ORD-01059,2024-09-15,North,Desk Lamp,18,950,17072.67,Café order – rush
+ORD-01060,2024-02-14,North,Headphones,15,2500,38325.24,
+ORD-01061,2024-11-29,West,Desk Lamp,3,950,2668.55,"quote ""as agreed"""
+ORD-01062,30/05/2024,South,Notebook,20,120,2557.55,Café order – rush
+ORD-01063,2024-08-22,East,Water Bottle,7,400,2951.16,gift wrap
+ORD-01064,2024-04-02,North,Notebook,1,120,120.80,
+ORD-01065,2024-12-02,East,Pen Set,7,80,12abc,call before delivery
+ORD-01066,2024-01-14,West,Backpack,7,1800,12298.65,Café order – rush
+ORD-01067,2024-10-23,North,Water Bottle,17,400,6285.52,
+ORD-01068,2024-02-16,,Headphones,12,2500,29867.87,repeat customer
+ORD-01069,2024-06-07,South,Notebook,14,120,1829.84,gift wrap
+ORD-01070,2024-11-27,North,Desk Lamp,2,950,1763.48,
+ORD-01071,2024-12-04,West,Desk Lamp,12,950,11668.03,
+ORD-01072,2024-07-05,West,Notebook,6,120,652.32,repeat customer
+ORD-01073,2024-01-15,West,Backpack,2,1800,3769.16,
+ORD-01074,,West,Pen Set,3,80,236.15,ship to O'Brien Rd
+ORD-01075,2024-01-01,South,Desk Lamp,16,950,15107.24,<script>alert('hi')</script>
+ORD-01076,2024-10-19,South,Pen Set,5,80,377.54,
+ORD-01077,2024-05-07,East,Pen Set,9,80,674.59,gift wrap
+ORD-01078,2024-03-08,North,Desk Lamp,14,950,12966.89,
+ORD-01079,2024-03-14,West,Water Bottle,2,400,853.66,"quote ""as agreed"""
+ORD-01080,2024-07-26,West,Backpack,7,1800,12482.05,
+ORD-01081,2024-05-10,North,Desk Lamp,16,950,16026.90,ship to O'Brien Rd
+ORD-01082,2024-01-14,North,Headphones,5,2500,11486.46,Café order – rush
+ORD-01083,2024-02-12,South,Headphones,6,2500,14692.67,Café order – rush
+ORD-01084,2024-11-03,East,Pen Set,19,80,1629.42,ship to O'Brien Rd
+ORD-01085,2024-03-25,South,Water Bottle,20,400,7562.01,call before delivery
+ORD-01086,2024-05-31,West,Backpack,17,1800,33488.69,ship to O'Brien Rd
+ORD-01087,,West,Pen Set,20,80,1630.08,
+ORD-01088,2024-07-19,East,Pen Set,14,80,1095.58,"quote ""as agreed"""
+ORD-01089,2024-12-10,,Pen Set,7,80,553.66,<script>alert('hi')</script>
+ORD-01090,2024-04-28,West,Water Bottle,15,400,5758.59,
+ORD-01091,2024-07-14,South,Desk Lamp,4,950,3896.44,
+ORD-01092,2024-02-15,South,Water Bottle,20,400,8735.58,ship to O'Brien Rd
+ORD-01093,2024-02-23,East,Desk Lamp,9,950,9242.09,<script>alert('hi')</script>
+ORD-01094,2024-05-04,East,Headphones,16,2500,37771.11,call before delivery
+ORD-01095,2024-11-06,North,Headphones,13,2500,29523.66,"quote ""as agreed"""
+ORD-01096,2024-08-03,West,Backpack,2,1800,3490.06,call before delivery
+ORD-01097,08/12/2024,East,Notebook,7,120,851.24,gift wrap
+ORD-01098,2024-07-02,East,Water Bottle,12,400,4658.28,
+ORD-01099,2024-04-17,East,Headphones,18,2500,46334.58,Café order – rush
+ORD-01100,2024-04-26,West,Desk Lamp,10,950,8742.47,<script>alert('hi')</script>
+ORD-01101,2024-06-28,South,Desk Lamp,15,950,15377.97,Café order – rush
+ORD-01102,2024-05-31,North,Headphones,18,2500,42101.17,gift wrap
+ORD-01103,2024-03-15,West,Water Bottle,11,400,4428.89,"quote ""as agreed"""
+ORD-01104,12-Feb-2024,South,Desk Lamp,8,950,7512.65,
+ORD-01105,2024-04-25,North,Backpack,7,1800,11706.35,
+ORD-01106,2024-07-30,West,Pen Set,17,80,1382.00,repeat customer
+ORD-01107,2024-07-05,South,Pen Set,11,80,887.10,
+ORD-01108,2024-09-16,South,Water Bottle,16,400,6445.26,<script>alert('hi')</script>
+ORD-01109,2024-05-17,West,Headphones,2,"₹2,500",4960.24,repeat customer
+ORD-01110,2024-09-01,East,Water Bottle,5,400,1825.51,
+ORD-01111,2024-07-21,East,Pen Set,15,80,1154.36,Café order – rush
+ORD-01112,2024-12-14,North,Headphones,11,2500,29495.04,Café order – rush
+ORD-01113,2024-07-30,South,Water Bottle,ten,400,2511.63,call before delivery
+ORD-01114,2024-10-20,West,Water Bottle,13,400,5517.11,gift wrap
+ORD-01115,2024-09-12,East,Notebook,6,120,685.51,
+ORD-01116,2024-11-06,,Notebook,18,₹120,1969.55,"quote ""as agreed"""
+ORD-01117,2024-10-15,West,Desk Lamp,3,950,3109.76,"quote ""as agreed"""
+ORD-01118,2024-07-10,South,Headphones,6,2500,16174.31,
+ORD-01119,2024-06-08,South,Desk Lamp,4,950,3685.28,<script>alert('hi')</script>
+ORD-01120,2024-12-03,North,Headphones,13,2500,34346.41,call before delivery
+ORD-01121,2024-01-22,North,Desk Lamp,2,950,2058.31,Café order – rush
+ORD-01122,2024-09-24,South,Backpack,18,1800,33327.93,
+ORD-01123,2024-09-08,West,Notebook,16,120,1768.06,Café order – rush
+ORD-01124,2024-01-22,South,Pen Set,3,80,230.74,
+ORD-01125,2024-06-29,West,Headphones,2,2500,5323.75,
+ORD-01126,2024-02-20,North,Backpack,6,1800,11647.49,call before delivery
+ORD-01127,15/04/2024,South,Water Bottle,4,400,1735.78,
+ORD-01128,2024-07-09,East,Backpack,2,1800,3352.27,
+ORD-01129,30/11/2024,West,Water Bottle,9,400,3534.63,
+ORD-01130,2024-11-16,South,Water Bottle,13,400,4723.47,<script>alert('hi')</script>
+ORD-01131,2024-02-04,East,Pen Set,18,80,1390.29,"quote ""as agreed"""
+ORD-01132,2024-05-13,South,Notebook,4,120,469.91,<script>alert('hi')</script>
+ORD-01133,2024-09-02,South,Notebook,4,120,453.95,
+ORD-01134,2024-08-14,South,Headphones,2,"₹2,500",-,gift wrap
+ORD-01135,2024-03-30,West,Desk Lamp,15,950,13396.85,repeat customer
+ORD-01136,2024-12-02,South,Water Bottle,15,400,5430.37,
+ORD-01137,16/12/2024,South,Notebook,14,₹120,1686.06,
+ORD-01138,2024-07-14,North,Notebook,19,₹120,2078.64,<script>alert('hi')</script>
+ORD-01139,2024-10-19,West,Water Bottle,13,400,4973.77,ship to O'Brien Rd
+ORD-01140,2024-08-20,South,Backpack,5,1800,8917.60,
+ORD-01141,2024-07-07,North,Water Bottle,1,400,394.54,ship to O'Brien Rd
+ORD-01142,2024-06-29,West,Pen Set,13,80,1023.60,Café order – rush
+ORD-01143,2024-04-15,East,Pen Set,7,80,583.81,
+ORD-01144,2024-07-20,East,Pen Set,16,80,1179.81,repeat customer
+ORD-01145,2024-10-09,,Pen Set,13,80,1130.92,ship to O'Brien Rd
+ORD-01146,2024-10-15,South,Pen Set,13,80,1055.61,repeat customer
+ORD-01147,2024-11-08,North,Headphones,17,"₹2,500",44500.20,
+ORD-01148,2024-06-09,East,Desk Lamp,7,950,6973.97,<script>alert('hi')</script>
+ORD-01149,2024-06-22,South,Water Bottle,6,400,2299.08,
+ORD-01150,2024-10-14,South,Headphones,16,2500,41598.90,
+ORD-01151,2024-07-14,East,Backpack,13,1800,23291.80,ship to O'Brien Rd
+ORD-01152,2024-10-17,North,Desk Lamp,11,950,11469.53,ship to O'Brien Rd
+ORD-01153,2024-04-10,North,Water Bottle,11,400,4217.27,
+ORD-01154,2024-07-05,North,Desk Lamp,7,950,6667.85,<script>alert('hi')</script>
+ORD-01155,2024-08-09,West,Desk Lamp,2,₹950,1813.68,
+ORD-01156,2024-10-20,West,Notebook,10,120,1171.36,Café order – rush
+ORD-01157,2024-08-05,East,Backpack,11,1800,18344.07,
+ORD-01158,07/12/2024,South,Desk Lamp,17,950,17428.50,
+ORD-01159,2024-02-14,East,Notebook,1,120,125.35,<script>alert('hi')</script>
+ORD-01160,not a date,South,Desk Lamp,4,950,3885.55,call before delivery
+ORD-01161,2024-12-17,East,Pen Set,7,80,509.60,
+ORD-01162,,South,Desk Lamp,19,950,19367.68,"quote ""as agreed"""
+ORD-01163,2024-04-06,South,Water Bottle,4,400,1664.92,gift wrap
+ORD-01164,2024-11-03,East,Backpack,17,1800,31460.44,gift wrap
+ORD-01165,2024-05-24,North,Pen Set,3,80,218.96,
+ORD-01166,2024-12-11,East,Notebook,11,120,1343.27,repeat customer
+ORD-01167,2024-08-18,West,Desk Lamp,16,950,14806.15,repeat customer
+ORD-01168,2024-07-28,West,Backpack,15,1800,26051.59,call before delivery
+ORD-01169,2024-01-13,South,Pen Set,N/A,80,859.14,
+ORD-01170,2024-07-19,West,Backpack,5,1800,8587.60,<script>alert('hi')</script>
+ORD-01171,2024-11-06,South,Water Bottle,16,400,6314.06,<script>alert('hi')</script>
+ORD-01172,2024-11-07,South,Desk Lamp,abc,950,4498.39,"quote ""as agreed"""
+ORD-01173,2024-08-07,East,Headphones,4,2500,10198.23,
+ORD-01174,2024-01-10,East,Backpack,12,1800,21241.44,<script>alert('hi')</script>
+ORD-01175,2024-05-23,South,Headphones,11,2500,27924.71,"quote ""as agreed"""
+ORD-01176,2024-11-08,North,Pen Set,8,80,638.54,Café order – rush
+ORD-01177,2024-09-08,East,Backpack,20,1800,38883.10,repeat customer
+ORD-01178,31/01/2024,East,Backpack,8,1800,13603.20,repeat customer
+ORD-01179,2024-11-05,North,Headphones,7,2500,18634.48,
+ORD-01180,2024-07-11,,Backpack,1,1800,1727.34,
+ORD-01181,2024-08-16,East,Water Bottle,13,400,5257.47,
+ORD-01182,2024-10-27,East,Pen Set,11,80,960.27,ship to O'Brien Rd
+ORD-01183,2024-08-10,North,Water Bottle,11,400,4308.07,
+ORD-01184,2024-09-11,South,Notebook,3,120,334.07,call before delivery
+ORD-01185,,West,Notebook,16,120,1881.81,<script>alert('hi')</script>
+ORD-01186,31/02/2024,North,Notebook,9,120,1021.12,
+ORD-01187,2024-03-11,,Headphones,11,2500,26526.23,Café order – rush
+ORD-01188,2024-02-04,,Notebook,7,120,855.06,
+ORD-01189,2024-07-22,East,Pen Set,5,80,402.90,gift wrap
+ORD-01190,2024-06-20,East,Pen Set,11,80,950.04,
+ORD-01191,2024-04-04,South,Notebook,2,120,234.60,"quote ""as agreed"""
+ORD-01192,2024-06-04,East,Desk Lamp,,950,12979.95,<script>alert('hi')</script>
+ORD-01193,2024-07-17,South,Water Bottle,11,400,4362.94,
+ORD-01194,2024-02-09,North,Headphones,4,2500,10768.82,"quote ""as agreed"""
+ORD-01195,2024-03-22,West,Notebook,2,120,233.67,
+ORD-01196,2024-03-02,South,Desk Lamp,5,950,4524.59,<script>alert('hi')</script>
+ORD-01197,2024-03-30,East,Notebook,4,120,440.27,
+ORD-01198,2024-07-22,West,Water Bottle,13,400,4711.09,gift wrap
+ORD-01199,2024-12-29,East,Desk Lamp,16,950,14296.20,
+ORD-01200,2024-10-15,South,Backpack,18,1800,35329.91,<script>alert('hi')</script>
+ORD-01201,2024-10-05,South,Pen Set,12,80,990.45,repeat customer
+ORD-01202,2024-05-29,West,Pen Set,16,80,1324.98,<script>alert('hi')</script>
+ORD-01203,2024-10-03,South,Water Bottle,6,400,2587.08,
+ORD-01204,2024-04-15,North,Water Bottle,13,400,4765.01,Café order – rush
+ORD-01205,2024-12-06,West,Pen Set,8,80,663.55,ship to O'Brien Rd
+ORD-01206,2024-07-20,North,Pen Set,19,80,1474.74,
+ORD-01207,2024-09-15,East,Notebook,16,120,1783.43,
+ORD-01208,2024-01-13,North,Notebook,1,120,115.10,
+ORD-01209,2024-12-23,East,Headphones,10,2500,24215.85,<script>alert('hi')</script>
+ORD-01210,2024-01-17,West,Backpack,11,1800,19211.93,"quote ""as agreed"""
+ORD-01211,2024-06-28,West,Water Bottle,16,400,7033.14,ship to O'Brien Rd
+ORD-01212,2024-02-18,,Backpack,13,1800,24565.56,call before delivery
+ORD-01213,2024-02-18,North,Notebook,5,120,611.21,call before delivery
+ORD-01214,2024-10-01,West,Water Bottle,2,400,760.51,call before delivery
+ORD-01215,2024-02-26,West,Water Bottle,N/A,400,2187.43,repeat customer
+ORD-01216,2024-12-15,North,Headphones,16,2500,37829.86,<script>alert('hi')</script>
+ORD-01217,2024-09-11,East,Desk Lamp,14,950,12024.63,call before delivery
+ORD-01218,2024-02-04,East,Notebook,3,120,342.92,
+ORD-01219,2024-03-23,East,Notebook,19,120,2137.18,
+ORD-01220,2024-10-13,,Notebook,8,120,902.87,"quote ""as agreed"""
+ORD-01221,2024-09-28,South,Notebook,10,120,1291.29,
+ORD-01222,2024-03-29,North,Backpack,18,1800,33264.41,Café order – rush
+ORD-01223,2024-02-07,East,Headphones,6,2500,14241.20,repeat customer
+ORD-01224,2024-07-21,West,Notebook,7,120,868.84,Café order – rush
+ORD-01225,2024-07-27,West,Water Bottle,6,₹400,2275.84,
+ORD-01226,2024-11-24,East,Notebook,12,120,1375.89,Café order – rush
+ORD-01227,2024-09-06,South,Backpack,19,1800,35535.51,ship to O'Brien Rd
+ORD-01228,2024-02-02,South,Desk Lamp,9,950,9292.42,gift wrap
+ORD-01229,2024-04-08,West,Desk Lamp,17,950,16718.80,gift wrap
+ORD-01230,2024-04-07,South,Water Bottle,12,400,5004.12,ship to O'Brien Rd
+ORD-01231,2024-05-06,South,Pen Set,20,80,1692.78,"quote ""as agreed"""
+ORD-01232,2024-08-23,East,Headphones,11,2500,25554.87,gift wrap
+ORD-01233,2024-09-10,West,Backpack,18,1800,32941.62,<script>alert('hi')</script>
+ORD-01234,2024-08-11,East,Backpack,11,"₹1,800",18293.00,Café order – rush
+ORD-01235,2024-05-17,,Pen Set,4,80,347.25,gift wrap
+ORD-01236,2024-05-25,East,Backpack,8,1800,NaN,
+ORD-01237,2024-07-15,North,Pen Set,18,80,1473.49,
+ORD-01238,2024-07-27,South,Pen Set,8,₹80,634.82,"quote ""as agreed"""
+ORD-01239,2024-07-16,West,Backpack,7,1800,11925.10,call before delivery
+ORD-01240,2024-01-12,West,Headphones,9,2500,21173.08,<script>alert('hi')</script>
+ORD-01241,2024-11-06,West,Pen Set,12,80,891.75,gift wrap
+ORD-01242,2024-04-28,South,Backpack,20,1800,NaN,
+ORD-01243,2024-09-08,East,Backpack,15,1800,29209.62,
+ORD-01244,2024-10-26,North,Water Bottle,17,400,6934.78,
+ORD-01245,2024-11-11,East,Water Bottle,18,400,6552.09,
+ORD-01246,2024-07-28,North,Desk Lamp,6,950,5723.38,
+ORD-01247,2024-05-27,,Headphones,16,2500,43536.13,gift wrap
+ORD-01248,2024-04-01,East,Headphones,4,2500,10558.12,
+ORD-01249,2024-05-19,West,Headphones,1,2500,2500.46,repeat customer
+ORD-01250,2024-10-20,North,Desk Lamp,15,950,13525.50,
+ORD-01251,2024-01-01,West,Desk Lamp,15,950,14332.35,Café order – rush
+ORD-01252,2024-06-30,East,Headphones,19,2500,49574.38,
+ORD-01253,2024-02-07,West,Headphones,12,"₹2,500",32051.68,
+ORD-01254,2024-08-10,South,Water Bottle,5,400,-,gift wrap
+ORD-01255,2024-09-06,South,Backpack,15,1800,28149.61,
+ORD-01256,2024-05-31,West,Desk Lamp,2,950,1843.21,<script>alert('hi')</script>
+ORD-01257,2024-02-04,,Desk Lamp,11,950,9809.37,Café order – rush
+ORD-01258,2024-04-21,East,Water Bottle,17,400,6624.92,Café order – rush
+ORD-01259,2024-10-26,North,Notebook,15,120,1893.06,
+ORD-01260,2024-07-12,South,Desk Lamp,15,950,14909.63,
+ORD-01261,2024-01-23,South,Desk Lamp,1,950,1036.18,
+ORD-01262,2024-01-01,West,Notebook,6,120,771.67,
+ORD-01263,2024-02-10,East,Water Bottle,15,400,6374.03,repeat customer
+ORD-01264,2024-11-19,East,Water Bottle,11,400,4423.50,gift wrap
+ORD-01265,2024-06-17,West,Headphones,10,2500,24994.37,Café order – rush
+ORD-01266,2024-04-24,North,Pen Set,8,80,635.44,gift wrap
+ORD-01267,2024-02-11,North,Pen Set,6,80,491.81,call before delivery
+ORD-01268,2024-08-30,South,Notebook,11,120,1435.52,call before delivery
+ORD-01269,2024-04-30,South,Desk Lamp,8,950,7768.07,
+ORD-01270,2024-03-17,South,Headphones,N/A,"₹2,500",34948.54,ship to O'Brien Rd
+ORD-01271,2024-12-17,South,Water Bottle,12,₹400,4959.42,"quote ""as agreed"""
+ORD-01272,2024-01-01,West,Pen Set,6,80,518.12,gift wrap
+ORD-01273,2024-03-11,North,Notebook,15,120,1838.22,
+ORD-01274,2024-12-21,East,Backpack,15,1800,26237.26,gift wrap
+ORD-01275,2024-12-07,,Desk Lamp,7,950,6305.11,
+ORD-01276,2024-03-17,East,Water Bottle,3,400,1147.79,ship to O'Brien Rd
+ORD-01277,2024-10-09,West,Water Bottle,19,400,7299.87,gift wrap
+ORD-01278,2024-07-18,East,Pen Set,16,80,1270.66,"quote ""as agreed"""
+ORD-01279,2024-12-24,East,Pen Set,1,80,85.91,
+ORD-01280,2024-09-19,South,Headphones,16,2500,43656.50,repeat customer
+ORD-01281,2024-06-21,South,Notebook,4,120,478.35,Café order – rush
+ORD-01282,2024-07-19,West,Headphones,19,"₹2,500",48568.41,gift wrap
+ORD-01283,02/10/2024,North,Backpack,2,1800,3444.83,
+ORD-01284,2024-06-10,North,Headphones,8,2500,19797.09,
+ORD-01285,21/01/2024,North,Pen Set,15,80,1137.36,call before delivery
+ORD-01286,2024-01-09,West,Headphones,10,2500,26344.50,
+ORD-01287,2024-07-18,North,Headphones,11,2500,25724.80,
+ORD-01288,2024-05-12,West,Pen Set,10,80,827.49,Café order – rush
+ORD-01289,2024-12-20,North,Headphones,N/A,2500,6864.34,gift wrap
+ORD-01290,2024-04-01,West,Notebook,15,120,1741.51,
+ORD-01291,2024-06-29,East,Pen Set,13,80,1103.77,
+ORD-01292,2024-03-24,South,Pen Set,11,80,12abc,call before delivery
+ORD-01293,2024-02-23,West,Headphones,13,2500,30630.34,ship to O'Brien Rd
+ORD-01294,2024-09-10,South,Headphones,15,2500,36654.57,ship to O'Brien Rd
+ORD-01295,2024-07-09,East,Water Bottle,11,400,4325.67,
+ORD-01296,2024-10-30,East,Pen Set,16,80,1278.55,Café order – rush
+ORD-01297,2024-13-45,South,Desk Lamp,2,950,2036.29,
+ORD-01298,2024-09-28,,Desk Lamp,3,950,2849.02,Café order – rush
+ORD-01299,2024-11-04,East,Headphones,4,2500,9725.06,
+ORD-01300,2024-04-28,North,Notebook,9,120,1039.28,Café order – rush
+ORD-01301,2024-12-02,North,Desk Lamp,4,950,4100.45,
+ORD-01302,2024-02-05,North,Notebook,19,120,2053.83,Café order – rush
+ORD-01303,2024-05-06,North,Notebook,N/A,120,1232.45,ship to O'Brien Rd
+ORD-01304,2024-09-17,East,Pen Set,14,80,1009.18,call before delivery
+ORD-01305,2024-04-18,East,Headphones,13,2500,30501.07,"quote ""as agreed"""
+ORD-01306,2024-03-04,North,Water Bottle,14,400,5325.60,
+ORD-01307,2024-11-24,North,Headphones,4,"₹2,500",10934.35,
+ORD-01308,2024-05-21,North,Notebook,,120,2053.28,ship to O'Brien Rd
+ORD-01309,2024-03-04,East,Desk Lamp,11,950,11447.45,ship to O'Brien Rd
+ORD-01310,2024-12-05,North,Pen Set,16,80,1277.16,<script>alert('hi')</script>
+ORD-01311,2024-09-25,South,Desk Lamp,7,950,6534.83,
+ORD-01312,2024-10-27,South,Backpack,12,1800,20749.81,
+ORD-01313,2024-08-12,West,Pen Set,1,80,84.50,repeat customer
+ORD-01314,2024-09-24,East,Desk Lamp,,950,3626.58,ship to O'Brien Rd
+ORD-01315,2024-10-11,South,Headphones,19,"₹2,500",50340.45,Café order – rush
+ORD-01316,2024-08-02,North,Headphones,11,2500,24758.03,
+ORD-01317,2024-11-17,West,Backpack,20,1800,36469.55,<script>alert('hi')</script>
+ORD-01318,2024-05-03,North,Headphones,11,2500,27462.33,
+ORD-01319,2024-08-27,West,Backpack,18,1800,35613.80,
+ORD-01320,2024-10-27,West,Backpack,4,1800,7907.49,gift wrap
+ORD-01321,2024-11-02,South,Headphones,8,"₹2,500",18176.68,
+ORD-01322,2024-07-29,,Desk Lamp,4,950,3487.42,
+ORD-01323,2024-01-14,East,Water Bottle,4,400,1753.83,
+ORD-01324,2024-04-11,South,Pen Set,10,80,793.74,gift wrap
+ORD-01325,2024-12-17,South,Backpack,abc,"₹1,800",9338.25,call before delivery
+ORD-01326,2024-02-25,North,Notebook,6,120,678.50,ship to O'Brien Rd
+ORD-01327,2024-09-28,South,Headphones,19,2500,52101.87,
+ORD-01328,2024-11-08,North,Backpack,9,1800,15602.97,"quote ""as agreed"""
+ORD-01329,2024-02-29,North,Water Bottle,5,400,2160.33,
+ORD-01330,2024-09-22,South,Pen Set,18,80,1548.23,Café order – rush
+ORD-01331,2024-02-12,East,Desk Lamp,17,₹950,16271.34,
+ORD-01332,2024-04-22,North,Water Bottle,3,400,1204.31,ship to O'Brien Rd
+ORD-01333,21/05/2024,North,Desk Lamp,1,950,861.29,
+ORD-01334,2024-11-22,North,Headphones,3,2500,6873.95,"quote ""as agreed"""
+ORD-01335,2024-01-14,North,Water Bottle,5,400,2195.36,Café order – rush
+ORD-01336,2024-03-16,North,Headphones,19,2500,47880.13,call before delivery
+ORD-01337,28/08/2024,,Notebook,17,120,2013.35,repeat customer
+ORD-01338,2024-09-21,North,Desk Lamp,17,950,15019.37,ship to O'Brien Rd
+ORD-01339,2024-01-26,West,Desk Lamp,10,₹950,10111.00,
+ORD-01340,2024-07-29,North,Headphones,20,2500,50582.62,
+ORD-01341,2024-02-03,West,Notebook,9,120,1145.23,gift wrap
+ORD-01342,2024-11-16,West,Water Bottle,9,400,3932.75,Café order – rush
+ORD-01343,2024-11-27,North,Notebook,13,120,1487.55,ship to O'Brien Rd
+ORD-01344,2024-12-08,South,Water Bottle,10,400,3926.11,call before delivery
+ORD-01345,2024-04-19,West,Notebook,10,120,1310.59,repeat customer
+ORD-01346,2024-07-10,East,Desk Lamp,2,950,1780.90,
+ORD-01347,2024-12-08,East,Notebook,16,120,1872.87,
+ORD-01348,2024-04-25,South,Water Bottle,4,400,1557.88,
+ORD-01349,2024-12-10,North,Water Bottle,11,400,3993.04,repeat customer
+ORD-01350,2024-04-09,North,Headphones,9,2500,22892.05,"quote ""as agreed"""
+ORD-01351,2024-08-20,North,Headphones,15,2500,39159.39,
+ORD-01352,09/03/2024,West,Backpack,11,1800,21777.80,Café order – rush
+ORD-01353,2024-09-11,West,Desk Lamp,13,950,-,
+ORD-01354,2024-01-16,South,Headphones,4,"₹2,500",9669.18,ship to O'Brien Rd
+ORD-01355,2024-12-25,North,Backpack,9,1800,16942.81,call before delivery
+ORD-01356,,East,Headphones,12,2500,27803.56,
+ORD-01357,2024-10-03,East,Desk Lamp,8,950,7191.65,
+ORD-01358,2024-04-20,West,Headphones,20,2500,50058.53,gift wrap
+ORD-01359,2024-03-07,East,Headphones,18,2500,44165.23,call before delivery
+ORD-01360,2024-01-24,North,Headphones,4,2500,9233.03,repeat customer
+ORD-01361,2024-07-18,North,Backpack,20,1800,33036.33,
+ORD-01362,2024-04-21,South,Desk Lamp,11,950,10148.61,ship to O'Brien Rd
+ORD-01363,2024-03-14,East,Headphones,7,2500,19193.72,Café order – rush
+ORD-01364,2024-08-17,South,Pen Set,11,80,844.53,
+ORD-01365,07/12/2024,North,Desk Lamp,15,950,14794.66,"quote ""as agreed"""
+ORD-01366,2024-04-03,South,Notebook,15,120,1977.08,"quote ""as agreed"""
+ORD-01367,2024-10-20,West,Backpack,10,1800,19189.02,ship to O'Brien Rd
+ORD-01368,2024-10-18,North,Pen Set,5,80,386.43,
+ORD-01369,2024-04-07,South,Notebook,6,120,768.84,
+ORD-01370,2024-07-27,West,Headphones,1,2500,2745.01,
+ORD-01371,2024-04-20,South,Desk Lamp,18,950,18615.17,Café order – rush
+ORD-01372,2024-03-11,East,Water Bottle,18,400,7570.10,
+ORD-01373,21/12/2024,South,Headphones,20,2500,49341.48,
+ORD-01374,2024-10-08,North,Backpack,19,1800,33367.55,ship to O'Brien Rd
+ORD-01375,2024-03-15,North,Pen Set,17,80,1309.32,gift wrap
+ORD-01376,2024-09-17,South,Desk Lamp,2,₹950,2034.76,call before delivery
+ORD-01377,2024-07-18,West,Notebook,2,120,221.61,
+ORD-01378,2024-01-25,East,Notebook,13,120,1568.68,call before delivery
+ORD-01379,2024-03-31,West,Water Bottle,17,400,6386.42,gift wrap
+ORD-01380,2024-01-09,South,Backpack,15,1800,26690.55,call before delivery
+ORD-01381,09/12/2024,North,Pen Set,20,80,1483.90,
+ORD-01382,2024-03-23,North,Headphones,20,2500,45667.94,
+ORD-01383,2024-08-20,East,Pen Set,3,80,260.99,<script>alert('hi')</script>
+ORD-01384,2024-10-05,South,Notebook,15,120,1623.83,call before delivery
+ORD-01385,2024-05-01,East,Headphones,11,2500,25477.96,gift wrap
+ORD-01386,2024-05-15,East,Headphones,2,2500,5225.99,call before delivery
+ORD-01387,2024-05-21,East,Desk Lamp,2,950,1799.87,<script>alert('hi')</script>
+ORD-01388,2024-12-07,South,Headphones,6,2500,16245.51,
+ORD-01389,2024-11-17,South,Pen Set,9,80,722.80,<script>alert('hi')</script>
+ORD-01390,2024-04-29,North,Backpack,8,1800,15479.23,
+ORD-01391,2024-10-20,West,Backpack,1,1800,1797.42,<script>alert('hi')</script>
+ORD-01392,2024-04-30,North,Backpack,N/A,1800,32312.90,ship to O'Brien Rd
+ORD-01393,2024-06-27,,Desk Lamp,6,950,5228.26,call before delivery
+ORD-01394,2024-10-18,South,Pen Set,3,80,241.10,"quote ""as agreed"""
+ORD-01395,2024-01-21,South,Headphones,19,2500,47825.47,
+ORD-01396,2024-03-05,South,Notebook,11,120,1398.77,Café order – rush
+ORD-01397,2024-05-29,North,Water Bottle,5,400,1919.25,
+ORD-01398,2024-12-21,South,Water Bottle,15,400,5510.00,ship to O'Brien Rd
+ORD-01399,2024-04-05,North,Notebook,20,120,2376.96,Café order – rush
+ORD-01400,2024-09-09,West,Backpack,18,1800,30131.46,"quote ""as agreed"""
+ORD-01401,2024-04-10,North,Backpack,2,1800,3809.18,gift wrap
+ORD-01402,2024-01-16,East,Water Bottle,12,₹400,5045.34,Café order – rush
+ORD-01403,2024-03-31,South,Water Bottle,11,400,4710.18,"quote ""as agreed"""
+ORD-01404,2024-05-30,East,Pen Set,8,80,657.15,"quote ""as agreed"""
+ORD-01405,2024-02-22,East,Desk Lamp,13,950,11521.12,repeat customer
+ORD-01406,2024-07-18,South,Pen Set,19,80,1420.24,
+ORD-01407,2024-09-15,North,Notebook,18,120,2250.99,repeat customer
+ORD-01408,2024-01-09,East,Headphones,11,2500,28907.93,ship to O'Brien Rd
+ORD-01409,2024-09-19,West,Headphones,3,2500,8139.48,
+ORD-01410,2024-05-17,East,Notebook,3,120,384.38,
+ORD-01411,2024-03-29,West,Desk Lamp,20,950,20467.18,repeat customer
+ORD-01412,2024-01-24,North,Notebook,20,120,2287.56,call before delivery
+ORD-01413,2024-11-11,North,Headphones,4,2500,NaN,Café order – rush
+ORD-01414,2024-09-26,East,Headphones,12,2500,29413.16,"quote ""as agreed"""
+ORD-01415,2024-09-16,South,Backpack,15,1800,27210.14,gift wrap
+ORD-01416,2024-10-04,East,Water Bottle,11,400,4604.94,
+ORD-01417,2024-06-04,West,Headphones,,2500,10935.27,repeat customer
+ORD-01418,2024-11-23,South,Pen Set,19,80,1564.79,repeat customer
+ORD-01419,2024-02-05,South,Pen Set,1,80,77.18,gift wrap
+ORD-01420,2024-09-23,West,Headphones,20,2500,48830.68,ship to O'Brien Rd
+ORD-01421,2024-08-13,North,Water Bottle,10,400,4114.52,gift wrap
+ORD-01422,2024-04-17,North,Notebook,17,120,1925.12,ship to O'Brien Rd
+ORD-01423,,North,Water Bottle,10,400,4099.25,Café order – rush
+ORD-01424,2024-08-25,West,Desk Lamp,1,950,956.18,<script>alert('hi')</script>
+ORD-01425,2024-08-25,East,Desk Lamp,9,950,8972.07,"quote ""as agreed"""
+ORD-01426,2024-02-16,South,Headphones,15,2500,36618.10,
+ORD-01427,2024-11-26,South,Backpack,6,1800,9856.78,
+ORD-01428,2024-01-15,South,Desk Lamp,6,950,5326.70,ship to O'Brien Rd
+ORD-01429,2024-10-26,South,Notebook,10,120,1136.71,Café order – rush
+ORD-01430,2024-04-14,North,Desk Lamp,18,950,18603.76,call before delivery
+ORD-01431,2024-05-28,East,Pen Set,1,80,81.14,<script>alert('hi')</script>
+ORD-01432,2024-11-05,West,Headphones,15,2500,33770.16,Café order – rush
+ORD-01433,2024-09-11,East,Water Bottle,4,400,1508.56,
+ORD-01434,2024-12-11,North,Notebook,5,120,635.19,"quote ""as agreed"""
+ORD-01435,2024-12-17,West,Backpack,17,1800,30621.18,Café order – rush
+ORD-01436,2024-07-01,North,Pen Set,8,80,657.59,
+ORD-01437,2024-05-22,East,Desk Lamp,8,950,8242.27,"quote ""as agreed"""
+ORD-01438,2024-02-17,East,Notebook,5,120,617.15,Café order – rush
+ORD-01439,2024-04-08,West,Notebook,20,120,2555.16,
+ORD-01440,2024-03-15,North,Backpack,2,1800,3695.97,<script>alert('hi')</script>
+ORD-01441,2024-12-04,North,Pen Set,2,80,147.69,"quote ""as agreed"""
+ORD-01442,2024-01-17,West,Backpack,5,1800,9401.40,"quote ""as agreed"""
+ORD-01443,2024-04-08,South,Backpack,13,1800,22638.63,gift wrap
+ORD-01444,2024-03-31,West,Notebook,3,120,NaN,
+ORD-01445,2024-11-01,South,Desk Lamp,13,950,11433.15,
+ORD-01446,2024-12-01,East,Notebook,7,120,,<script>alert('hi')</script>
+ORD-01447,2024-03-01,East,Pen Set,9,80,675.47,gift wrap
+ORD-01448,2024-02-08,North,Water Bottle,5,400,1810.26,
+ORD-01449,2024-03-26,North,Headphones,20,"₹2,500",45615.19,gift wrap
+ORD-01450,2024-09-28,South,Water Bottle,4,400,1549.56,gift wrap
+ORD-01451,2024-01-17,West,Pen Set,2,80,147.99,gift wrap
+ORD-01452,2024-11-14,East,Notebook,12,120,1423.53,
+ORD-01453,2024-03-11,North,Desk Lamp,15,950,14062.43,call before delivery
+ORD-01454,2024-10-10,North,Pen Set,4,₹80,,ship to O'Brien Rd
+ORD-01455,06/07/2024,North,Backpack,4,1800,6693.31,<script>alert('hi')</script>
+ORD-01456,2024-02-22,North,Pen Set,2,80,158.78,<script>alert('hi')</script>
+ORD-01457,2024-06-02,,Pen Set,13,80,972.40,<script>alert('hi')</script>
+ORD-01458,2024-08-06,South,Water Bottle,N/A,400,5707.70,"quote ""as agreed"""
+ORD-01459,2024-07-25,West,Pen Set,15,80,1301.27,
+ORD-01460,2024-12-24,West,Backpack,1,1800,1631.55,
+ORD-01461,2024-02-29,North,Notebook,15,120,1831.87,Café order – rush
+ORD-01462,2024-02-04,East,Water Bottle,19,400,7991.08,
+ORD-01463,22/01/2024,East,Desk Lamp,20,950,19413.63,Café order – rush
+ORD-01464,2024-09-09,West,Water Bottle,8,400,3294.74,call before delivery
+ORD-01465,2024-07-14,North,Notebook,5,120,565.95,call before delivery
+ORD-01466,2024-04-03,North,Pen Set,17,₹80,1406.17,
+ORD-01467,2024-08-08,West,Water Bottle,5,400,1810.52,
+ORD-01468,2024-12-04,East,Water Bottle,1,400,410.47,
+ORD-01469,2024-07-08,West,Water Bottle,20,400,8114.50,Café order – rush
+ORD-01470,2024-09-14,North,Water Bottle,19,400,8306.16,gift wrap
+ORD-01471,2024-09-30,East,Pen Set,6,80,504.75,repeat customer
+ORD-01472,2024-08-12,East,Notebook,18,120,2018.55,
+ORD-01473,2024-04-06,North,Backpack,19,1800,31362.28,"quote ""as agreed"""
+ORD-01474,2024-05-18,South,Pen Set,20,80,1654.53,<script>alert('hi')</script>
+ORD-01475,2024-12-06,South,Water Bottle,2,400,762.74,repeat customer
+ORD-01476,2024-08-06,South,Notebook,16,120,2073.44,call before delivery
+ORD-01477,2024-06-30,West,Notebook,15,120,1829.17,gift wrap
+ORD-01478,2024-11-08,,Backpack,13,1800,23619.02,Café order – rush
+ORD-01479,2024-06-22,East,Notebook,13,120,1448.41,
+ORD-01480,2024-09-14,South,Headphones,8,2500,19063.67,Café order – rush
+ORD-01481,15/08/2024,North,Headphones,19,2500,43397.42,
+ORD-01482,2024-07-02,South,Water Bottle,20,400,8224.16,repeat customer
+ORD-01483,2024-04-05,North,Pen Set,2,80,173.39,gift wrap
+ORD-01484,2024-06-03,West,Backpack,5,1800,8571.93,"quote ""as agreed"""
+ORD-01485,2024-08-01,North,Backpack,3,1800,5367.65,ship to O'Brien Rd
+ORD-01486,2024-01-22,West,Headphones,18,2500,49107.83,Café order – rush
+ORD-01487,2024-02-23,West,Pen Set,11,80,901.57,
+ORD-01488,2024-12-23,East,Headphones,13,2500,33777.12,repeat customer
+ORD-01489,28-Oct-2024,North,Desk Lamp,11,950,11084.48,<script>alert('hi')</script>
+ORD-01490,03-Jul-2024,North,Pen Set,13,80,1120.94,Café order – rush
+ORD-01491,2024-10-11,South,Backpack,7,1800,12401.55,
+ORD-01492,2024-01-26,South,Notebook,20,120,2474.91,call before delivery
+ORD-01493,2024-12-15,West,Desk Lamp,18,950,NaN,repeat customer
+ORD-01494,07/09/2024,West,Backpack,11,1800,19948.57,"quote ""as agreed"""
+ORD-01495,2024-01-15,East,Backpack,5,1800,8536.53,call before delivery
+ORD-01496,2024-06-21,East,Water Bottle,10,400,12abc,
+ORD-01497,2024-03-01,West,Pen Set,5,80,383.53,repeat customer
+ORD-01498,2024-11-09,East,Notebook,13,120,1412.66,gift wrap
+ORD-01499,30/09/2024,North,Headphones,13,2500,35706.93,Café order – rush
+ORD-01500,2024-03-06,East,Pen Set,3,₹80,224.30,call before delivery
+ORD-01501,2024-05-14,South,Pen Set,14,80,1025.06,
+ORD-BAD-2,2024-03-03,East,Pen Set,1,80,80,note,EXTRA
+ORD-01502,2024-08-08,North,Desk Lamp,19,950,18878.48,Café order – rush
+ORD-01503,2024-03-30,South,Desk Lamp,5,950,4392.24,
+ORD-01504,2024-01-17,East,Water Bottle,14,400,5325.00,
+ORD-01505,2024-03-12,East,Pen Set,5,80,434.77,"quote ""as agreed"""
+ORD-01506,2024-02-13,South,Backpack,15,1800,29166.32,
+ORD-01507,2024-04-08,North,Headphones,18,"₹2,500",43915.56,
+ORD-01508,2024-11-06,,Backpack,8,1800,15340.90,Café order – rush
+ORD-01509,2024-03-15,South,Desk Lamp,,950,20496.42,<script>alert('hi')</script>
+ORD-01510,2024-09-15,East,Desk Lamp,17,950,17458.16,gift wrap
+ORD-01511,2024-08-06,East,Notebook,18,120,2034.83,
+ORD-01512,2024-01-08,South,Water Bottle,11,400,4172.01,call before delivery
+ORD-01513,2024-11-14,South,Headphones,19,2500,46793.06,<script>alert('hi')</script>
+ORD-01514,2024-10-23,West,Water Bottle,5,400,2135.00,"quote ""as agreed"""
+ORD-01515,2024-10-03,South,Water Bottle,13,400,5418.89,
+ORD-01516,2024-05-01,,Headphones,4,2500,9301.90,
+ORD-01517,2024-09-21,South,Headphones,2,2500,-,
+ORD-01518,2024-01-09,North,Notebook,ten,120,1993.46,gift wrap
+ORD-01519,2024-04-06,South,Desk Lamp,13,950,13083.24,"quote ""as agreed"""
+ORD-01520,2024-09-18,South,Notebook,16,120,1834.12,
+ORD-01521,2024-01-18,West,Notebook,7,120,879.20,repeat customer
+ORD-01522,2024-10-28,North,Backpack,15,1800,28804.09,
+ORD-01523,2024-11-27,North,Backpack,12,1800,-20732.07,<script>alert('hi')</script>
+ORD-01524,2024-10-04,East,Desk Lamp,4,950,-,Café order – rush
+ORD-01525,2024-04-13,West,Desk Lamp,18,950,15871.63,Café order – rush
+ORD-01526,2024-10-11,West,Headphones,19,"₹2,500",43873.98,repeat customer
+ORD-01527,2024-08-20,South,Notebook,19,120,2259.24,repeat customer
+ORD-01528,2024-08-20,South,Water Bottle,17,400,6905.14,"quote ""as agreed"""
+ORD-01529,2024-07-07,East,Pen Set,3,80,253.63,
+ORD-01530,2024-09-06,North,Desk Lamp,13,950,12602.24,"quote ""as agreed"""
+ORD-01531,2024-07-25,West,Pen Set,14,80,1067.64,gift wrap
+ORD-01532,2024-07-06,East,Desk Lamp,5,₹950,4374.97,
+ORD-01533,2024-10-22,North,Pen Set,,80,427.57,repeat customer
+ORD-01534,2024-07-28,South,Desk Lamp,2,950,1884.56,"quote ""as agreed"""
+ORD-01535,2024-06-16,South,Water Bottle,9,400,3243.64,
+ORD-01536,,East,Headphones,12,2500,27037.48,repeat customer
+ORD-01537,2024-01-01,North,Headphones,6,2500,16031.52,
+ORD-01538,2024-07-04,South,Pen Set,15,80,1092.78,
+ORD-01539,2024-09-04,East,Desk Lamp,3,950,3065.04,"quote ""as agreed"""
+ORD-01540,2024-09-24,West,Backpack,14,1800,25669.21,
+ORD-01541,2024-11-15,South,Water Bottle,17,400,7378.95,
+ORD-01542,2024-01-19,West,Desk Lamp,11,950,9499.89,repeat customer
+ORD-01543,2024-08-12,East,Desk Lamp,17,950,17002.53,Café order – rush
+ORD-01544,2024-08-10,South,Notebook,14,120,1662.46,Café order – rush
+ORD-01545,2024-06-04,East,Pen Set,11,₹80,932.84,<script>alert('hi')</script>
+ORD-01546,2024-05-21,East,Water Bottle,2,400,782.96,
+ORD-01547,2024-10-31,East,Notebook,18,120,2348.75,"quote ""as agreed"""
+ORD-01548,2024-02-22,West,Pen Set,4,80,348.87,repeat customer
+ORD-01549,not a date,South,Water Bottle,15,400,6218.37,gift wrap
+ORD-01550,2024-12-23,South,Notebook,6,120,791.74,
+ORD-01551,2024-01-06,North,Pen Set,14,80,1178.14,repeat customer
+ORD-01552,2024-12-01,,Water Bottle,19,400,7234.64,
+ORD-01553,2024-03-07,East,Backpack,20,1800,36365.36,call before delivery
+ORD-01554,2024-05-27,North,Water Bottle,20,400,7545.97,
+ORD-01555,2024-04-19,East,Backpack,2,1800,3604.67,ship to O'Brien Rd
+ORD-01556,2024-06-21,East,Headphones,20,2500,53919.07,
+ORD-01557,2024-07-04,West,Backpack,3,1800,4895.92,Café order – rush
+ORD-01558,2024-01-31,East,Notebook,18,120,2111.12,ship to O'Brien Rd
+ORD-01559,2024-03-05,East,Water Bottle,7,400,2890.84,call before delivery
+ORD-01560,2024-09-08,East,Backpack,13,1800,24611.01,
+ORD-01561,2024-07-13,East,Desk Lamp,9,950,7917.31,"quote ""as agreed"""
+ORD-01562,2024-12-25,North,Pen Set,8,₹80,677.03,call before delivery
+ORD-01563,2024-12-12,West,Notebook,12,120,1366.35,call before delivery
+ORD-01564,15/08/2024,East,Pen Set,5,80,409.30,Café order – rush
+ORD-01565,2024-10-05,North,Backpack,11,1800,21214.55,
+ORD-01566,2024-05-03,South,Backpack,6,1800,11442.25,
+ORD-01567,2024-12-21,North,Headphones,5,2500,11252.74,
+ORD-01568,2024-08-08,South,Water Bottle,6,400,2207.51,<script>alert('hi')</script>
+ORD-01569,2024-01-03,North,Water Bottle,12,400,4862.92,"quote ""as agreed"""
+ORD-01570,2024-06-09,North,Headphones,15,2500,38927.01,
+ORD-01571,2024-09-02,West,Headphones,20,2500,53580.80,Café order – rush
+ORD-01572,2024-05-21,South,Desk Lamp,10,950,10195.84,"quote ""as agreed"""
+ORD-01573,2024-05-30,South,Headphones,5,2500,12813.18,gift wrap
+ORD-01574,2024-12-01,North,Pen Set,5,80,433.96,
+ORD-01575,2024-12-10,North,Pen Set,1,80,74.04,<script>alert('hi')</script>
+ORD-01576,2024-09-11,East,Desk Lamp,5,950,4935.68,repeat customer
+ORD-01577,25/01/2024,North,Backpack,9,1800,15862.63,repeat customer
+ORD-01578,2024-07-22,North,Headphones,4,2500,10222.21,ship to O'Brien Rd
+ORD-01579,2024-02-07,South,Backpack,10,1800,17561.23,
+ORD-01580,2024-10-04,South,Desk Lamp,3,950,2918.45,Café order – rush
+ORD-01581,2024-01-29,West,Desk Lamp,13,950,12491.23,call before delivery
+ORD-01582,2024-04-29,West,Water Bottle,13,400,5647.06,gift wrap
+ORD-01583,2024-12-01,South,Notebook,15,120,1967.51,
+ORD-01584,2024-06-03,South,Water Bottle,20,400,7803.09,
+ORD-01585,2024-05-10,East,Pen Set,14,80,1157.06,Café order – rush
+ORD-01586,2024-09-19,North,Water Bottle,2,400,805.41,
+ORD-01587,2024-12-02,South,Headphones,19,2500,49235.63,gift wrap
+ORD-01588,2024-08-23,South,Pen Set,12,80,992.01,
+ORD-01589,2024-02-09,,Notebook,12,120,1540.32,call before delivery
+ORD-01590,2024-12-19,West,Headphones,9,2500,22497.21,ship to O'Brien Rd
+ORD-01591,2024-06-20,West,Pen Set,12,80,1049.67,call before delivery
+ORD-01592,2024-02-02,South,Backpack,7,1800,13622.98,"quote ""as agreed"""
+ORD-01593,2024-06-05,West,Headphones,3,2500,7972.15,<script>alert('hi')</script>
+ORD-01594,2024-04-03,East,Notebook,8,120,866.60,call before delivery
+ORD-01595,2024-03-03,South,Desk Lamp,2,950,2089.12,repeat customer
+ORD-01596,2024-06-07,West,Pen Set,2,80,,Café order – rush
+ORD-01597,2024-07-01,West,Pen Set,5,80,434.55,ship to O'Brien Rd
+ORD-01598,2024-05-23,West,Water Bottle,6,400,2367.81,<script>alert('hi')</script>
+ORD-01599,2024-04-09,North,Water Bottle,6,400,2577.45,<script>alert('hi')</script>
+ORD-01600,2024-08-24,East,Backpack,5,"₹1,800",9139.15,
+ORD-01601,2024-11-18,,Water Bottle,12,400,5102.68,
+ORD-01602,2024-01-13,South,Pen Set,16,80,1371.22,call before delivery
+ORD-01603,2024-01-14,North,Headphones,10,2500,23633.55,<script>alert('hi')</script>
+ORD-01604,2024-03-25,East,Notebook,7,120,776.43,"quote ""as agreed"""
+ORD-01605,2024-11-26,South,Pen Set,19,80,1588.78,ship to O'Brien Rd
+ORD-01606,2024-12-15,West,Pen Set,8,80,594.99,gift wrap
+ORD-01607,2024-07-05,South,Backpack,8,1800,15211.75,
+ORD-01608,2024-10-09,West,Backpack,2,1800,3608.24,call before delivery
+ORD-01609,2024-01-20,North,Notebook,1,120,119.79,Café order – rush
+ORD-01610,2024-12-13,West,Headphones,6,2500,15618.26,gift wrap
+ORD-01611,2024-07-25,South,Backpack,7,1800,12157.27,
+ORD-01612,2024-03-23,East,Water Bottle,17,400,6142.97,
+ORD-01613,2024-12-06,West,Water Bottle,6,400,2245.75,repeat customer
+ORD-01614,2024-12-01,West,Notebook,13,120,1479.58,call before delivery
+ORD-01615,2024-12-16,West,Backpack,9,1800,14918.71,Café order – rush
+ORD-01616,2024-06-14,West,Pen Set,1,80,86.22,"quote ""as agreed"""
+ORD-01617,2024-08-30,East,Water Bottle,12,400,4690.67,ship to O'Brien Rd
+ORD-01618,2024-12-03,East,Notebook,12,120,1320.91,
+ORD-01619,2024-10-18,South,Water Bottle,3,400,1218.30,
+ORD-01620,2024-03-11,North,Notebook,9,120,1008.45,
+ORD-01621,2024-06-06,West,Notebook,7,120,852.02,
+ORD-01622,2024-10-16,West,Headphones,16,2500,37724.96,<script>alert('hi')</script>
+ORD-01623,2024-11-29,West,Backpack,1,1800,1785.74,ship to O'Brien Rd
+ORD-01624,2024-12-16,West,Headphones,10,2500,23515.08,ship to O'Brien Rd
+ORD-01625,20-Jun-2024,North,Pen Set,8,₹80,591.96,gift wrap
+ORD-01626,2024-05-24,North,Headphones,ten,2500,39746.56,Café order – rush
+ORD-01627,2024-12-06,West,Backpack,16,1800,28229.26,repeat customer
+ORD-01628,2024-08-06,North,Water Bottle,2,400,761.11,call before delivery
+ORD-01629,2024-05-19,West,Headphones,14,2500,35815.21,call before delivery
+ORD-01630,2024-04-24,West,Desk Lamp,7,950,6050.90,call before delivery
+ORD-01631,2024-12-11,East,Pen Set,14,80,1075.13,repeat customer
+ORD-01632,2024-11-09,West,Backpack,12,1800,23425.65,gift wrap
+ORD-01633,2024-04-23,East,Desk Lamp,9,950,9038.32,
+ORD-01634,2024-12-27,East,Desk Lamp,9,950,8683.93,Café order – rush
+ORD-01635,2024-03-28,West,Pen Set,8,80,582.11,Café order – rush
+ORD-01636,2024-11-24,South,Headphones,19,2500,50902.27,
+ORD-01637,2024-12-19,West,Pen Set,4,80,343.07,call before delivery
+ORD-01638,2024-07-08,,Desk Lamp,abc,950,16113.07,
+ORD-01639,31/02/2024,South,Water Bottle,20,400,7557.51,<script>alert('hi')</script>
+ORD-01640,2024-06-19,South,Backpack,12,1800,-21724.26,call before delivery
+ORD-01641,2024-02-10,East,Headphones,20,2500,47184.01,
+ORD-01642,2024-04-24,East,Headphones,18,2500,43838.88,
+ORD-01643,2024-05-07,West,Pen Set,10,80,793.20,call before delivery
+ORD-01644,2024-09-15,,Water Bottle,13,400,5492.69,
+ORD-01645,2024-10-18,South,Desk Lamp,13,950,12975.56,gift wrap
+ORD-01646,02/02/2024,South,Backpack,9,1800,15190.17,
+ORD-01647,2024-03-24,West,Pen Set,18,80,1471.54,
+ORD-01648,2024-04-11,,Pen Set,abc,80,401.63,
+ORD-01649,2024-04-27,West,Notebook,8,120,901.88,
+ORD-01650,2024-08-12,East,Backpack,5,1800,9496.63,repeat customer
+ORD-01651,2024-04-17,South,Notebook,3,120,391.79,
+ORD-01652,2024-05-18,West,Water Bottle,5,400,1818.67,
+ORD-01653,2024-02-16,South,Backpack,6,1800,11788.44,gift wrap
+ORD-01654,2024-12-04,West,Headphones,15,2500,39222.35,"quote ""as agreed"""
+ORD-01655,2024-04-03,South,Desk Lamp,2,950,1856.80,repeat customer
+ORD-01656,2024-09-15,East,Notebook,6,120,670.40,
+ORD-01657,2024-05-06,North,Backpack,8,1800,14766.34,<script>alert('hi')</script>
+ORD-01658,2024-09-19,West,Notebook,8,₹120,997.80,
+ORD-01659,20/08/2024,South,Notebook,16,120,1839.88,repeat customer
+ORD-01660,2024-04-01,North,Headphones,11,2500,28793.70,gift wrap
+ORD-01661,2024-05-07,East,Pen Set,18,80,1426.87,ship to O'Brien Rd
+ORD-01662,2024-05-13,South,Headphones,N/A,2500,34774.98,
+ORD-01663,2024-06-05,,Headphones,17,2500,NaN,call before delivery
+ORD-01664,2024-09-16,East,Water Bottle,12,400,4388.52,call before delivery
+ORD-01665,2024-08-06,East,Water Bottle,7,400,2609.58,
+ORD-01666,2024-03-22,West,Desk Lamp,19,950,16799.54,"quote ""as agreed"""
+ORD-01667,2024-03-21,West,Pen Set,19,80,1454.89,call before delivery
+ORD-01668,2024-04-29,South,Backpack,8,1800,14294.22,
+ORD-01669,2024-01-22,North,Backpack,13,1800,21415.67,ship to O'Brien Rd
+ORD-01670,2024-10-02,South,Notebook,2,120,229.09,
+ORD-01671,2024-03-29,North,Notebook,12,120,1511.76,call before delivery
+ORD-01672,2024-06-01,East,Notebook,4,120,505.30,ship to O'Brien Rd
+ORD-01673,2024-01-01,West,Notebook,13,120,1459.43,call before delivery
+ORD-01674,2024-11-22,East,Backpack,10,1800,19604.63,
+ORD-01675,2024-02-27,South,Headphones,5,"₹2,500",13037.15,
+ORD-01676,2024-11-09,East,Desk Lamp,18,950,16132.00,
+ORD-01677,2024-02-16,West,Backpack,20,1800,35614.90,ship to O'Brien Rd
+ORD-01678,2024-03-23,North,Headphones,7,2500,16138.13,
+ORD-01679,2024-02-01,East,Notebook,12,120,,
+ORD-01680,2024-05-18,North,Pen Set,17,80,1468.57,
+ORD-01681,2024-12-03,West,Headphones,20,2500,45624.48,Café order – rush
+ORD-01682,2024-04-15,South,Headphones,20,2500,53929.57,
+ORD-01683,2024-11-19,South,Headphones,13,2500,,ship to O'Brien Rd
+ORD-01684,2024-09-15,South,Pen Set,7,80,604.81,
+ORD-01685,,West,Water Bottle,20,400,8365.32,<script>alert('hi')</script>
+ORD-01686,2024-09-09,East,Backpack,4,1800,7416.93,ship to O'Brien Rd
+ORD-01687,2024-05-16,West,Pen Set,3,80,245.82,"quote ""as agreed"""
+ORD-01688,2024-08-02,East,Headphones,18,2500,-,call before delivery
+ORD-01689,2024-07-07,East,Water Bottle,13,400,5235.22,"quote ""as agreed"""
+ORD-01690,2024-10-16,West,Pen Set,ten,80,849.40,"quote ""as agreed"""
+ORD-01691,2024-01-12,West,Backpack,9,1800,16612.78,call before delivery
+ORD-01692,2024-09-05,West,Notebook,18,120,1945.66,"quote ""as agreed"""
+ORD-01693,2024-05-25,East,Backpack,9,1800,14823.87,repeat customer
+ORD-01694,2024-04-15,West,Backpack,19,"₹1,800",34449.21,"quote ""as agreed"""
+ORD-01695,2024-03-26,East,Water Bottle,17,400,7216.44,<script>alert('hi')</script>
+ORD-01696,2024-01-21,,Backpack,13,1800,22416.63,
+ORD-01697,2024-04-23,South,Notebook,18,120,2322.98,Café order – rush
+ORD-01698,2024-05-01,North,Headphones,20,2500,12abc,
+ORD-01699,2024-01-25,West,Notebook,7,120,763.72,ship to O'Brien Rd
+ORD-01700,2024-04-14,East,Notebook,12,120,1407.57,gift wrap
+ORD-01701,2024-08-09,North,Backpack,19,1800,31134.22,
+ORD-01702,2024-02-27,North,Water Bottle,7,400,2759.53,"quote ""as agreed"""
+ORD-01703,2024-10-31,West,Notebook,13,120,1554.99,
+ORD-01704,2024-07-12,West,Pen Set,5,80,369.35,
+ORD-01705,2024-03-04,East,Headphones,ten,2500,2415.89,gift wrap
+ORD-01706,2024-12-16,East,Desk Lamp,12,950,11621.82,<script>alert('hi')</script>
+ORD-01707,2024-02-11,North,Pen Set,10,80,773.28,call before delivery
+ORD-01708,2024-03-06,North,Water Bottle,6,400,2614.32,<script>alert('hi')</script>
+ORD-01709,2024-09-10,South,Pen Set,14,80,1181.02,
+ORD-01710,2024-10-26,South,Water Bottle,10,400,3736.25,repeat customer
+ORD-01711,2024-11-10,North,Notebook,15,120,1643.96,<script>alert('hi')</script>
+ORD-01712,2024-06-06,South,Desk Lamp,16,950,14380.18,gift wrap
+ORD-01713,2024-02-27,West,Backpack,4,1800,6993.23,<script>alert('hi')</script>
+ORD-01714,2024-09-18,South,Headphones,1,2500,2361.12,Café order – rush
+ORD-01715,2024-11-03,South,Pen Set,14,80,1217.74,
+ORD-01716,2024-01-05,North,Desk Lamp,18,950,16877.00,
+ORD-01717,2024-06-16,North,Water Bottle,8,400,3188.88,gift wrap
+ORD-01718,2024-05-22,West,Backpack,16,1800,26424.70,
+ORD-01719,2024-04-17,West,Backpack,5,1800,9157.79,"quote ""as agreed"""
+ORD-01720,2024-10-26,East,Notebook,2,120,221.38,repeat customer
+ORD-01721,2024-03-24,East,Notebook,3,120,362.90,Café order – rush
+ORD-01722,2024-06-01,West,Headphones,20,2500,52241.97,ship to O'Brien Rd
+ORD-01723,2024-12-29,North,Headphones,12,2500,31525.40,Café order – rush
+ORD-01724,2024-11-07,South,Water Bottle,3,400,1276.80,repeat customer
+ORD-01725,2024-10-24,East,Headphones,10,2500,27079.52,
+ORD-01726,2024-09-24,South,Backpack,17,1800,28181.44,
+ORD-01727,2024-02-11,North,Headphones,8,2500,20439.02,"quote ""as agreed"""
+ORD-01728,2024-12-02,North,Water Bottle,19,400,7798.02,call before delivery
+ORD-01729,2024-10-26,East,Pen Set,8,₹80,681.36,
+ORD-01730,2024-12-08,North,Desk Lamp,7,950,-,<script>alert('hi')</script>
+ORD-01731,2024-06-06,West,Pen Set,11,80,853.52,Café order – rush
+ORD-01732,2024-03-03,East,Notebook,10,120,1158.66,Café order – rush
+ORD-01733,2024-09-11,West,Pen Set,13,80,1093.57,
+ORD-01734,29/06/2024,East,Pen Set,20,80,1459.31,repeat customer
+ORD-01735,2024-11-20,East,Desk Lamp,15,950,14722.13,repeat customer
+ORD-01736,2024-02-29,North,Notebook,13,120,1494.54,
+ORD-01737,2024-03-22,West,Headphones,20,2500,49218.24,gift wrap
+ORD-01738,2024-05-11,West,Notebook,14,120,1537.72,ship to O'Brien Rd
+ORD-01739,2024-06-02,,Backpack,9,1800,14718.85,
+ORD-01740,2024-05-15,North,Pen Set,16,80,1259.44,
+ORD-01741,2024-10-30,North,Desk Lamp,7,950,7217.33,"quote ""as agreed"""
+ORD-01742,2024-11-16,East,Water Bottle,1,400,405.57,repeat customer
+ORD-01743,2024-02-27,West,Water Bottle,8,400,3411.94,call before delivery
+ORD-01744,2024-10-10,East,Headphones,4,"₹2,500",10577.67,Café order – rush
+ORD-01745,2024-09-24,West,Notebook,17,120,2037.31,gift wrap
+ORD-01746,2024-08-31,North,Backpack,1,1800,1918.58,ship to O'Brien Rd
+ORD-01747,2024-08-02,East,Notebook,6,₹120,726.47,
+ORD-01748,2024-04-29,West,Notebook,abc,120,2176.73,"quote ""as agreed"""
+ORD-01749,2024-12-26,East,Desk Lamp,4,950,3849.42,"quote ""as agreed"""
+ORD-01750,2024-06-07,,Notebook,5,120,557.30,gift wrap
+ORD-01751,2024-10-21,West,Backpack,7,1800,-,
+ORD-01752,2024-02-25,West,Headphones,20,2500,45516.18,Café order – rush
+ORD-01753,2024-07-23,,Backpack,6,1800,9841.16,
+ORD-01754,2024-02-05,,Headphones,12,2500,28179.56,
+ORD-01755,10/03/2024,West,Desk Lamp,19,950,19731.17,
+ORD-01756,2024-03-23,North,Notebook,4,120,451.60,
+ORD-01757,2024-01-13,East,Desk Lamp,11,950,11223.59,
+ORD-01758,2024-08-30,North,Notebook,15,120,1712.46,
+ORD-01759,2024-04-04,South,Desk Lamp,5,950,4363.20,ship to O'Brien Rd
+ORD-01760,2024-01-09,West,Headphones,9,"₹2,500",21622.91,ship to O'Brien Rd
+ORD-01761,2024-06-29,West,Desk Lamp,4,950,3590.73,ship to O'Brien Rd
+ORD-01762,2024-03-09,East,Desk Lamp,12,950,12145.93,Café order – rush
+ORD-01763,2024-10-24,West,Notebook,6,120,763.98,gift wrap
+ORD-01764,2024-09-02,West,Headphones,14,2500,37038.15,gift wrap
+ORD-01765,2024-06-08,West,Backpack,9,1800,14656.58,<script>alert('hi')</script>
+ORD-01766,2024-05-29,North,Headphones,19,2500,43990.98,
+ORD-01767,2024-07-20,South,Headphones,5,2500,13334.01,Café order – rush
+ORD-01768,2024-03-21,East,Notebook,8,120,,
+ORD-01769,2024-09-08,,Water Bottle,5,400,2146.49,Café order – rush
+ORD-01770,2024-07-11,West,Pen Set,10,₹80,839.00,"quote ""as agreed"""
+ORD-01771,2024-02-16,North,Notebook,9,120,997.73,
+ORD-01772,2024-04-30,West,Pen Set,16,80,1203.59,gift wrap
+ORD-01773,2024-10-05,West,Notebook,18,120,2127.71,Café order – rush
+ORD-01774,2024-05-21,North,Water Bottle,8,400,3039.39,
+ORD-01775,2024-06-11,East,Notebook,20,120,2426.54,
+ORD-01776,2024-04-06,North,Water Bottle,9,400,3819.54,repeat customer
+ORD-01777,2024-07-11,East,Headphones,20,2500,50972.30,
+ORD-01778,2024-05-16,North,Water Bottle,1,400,424.81,gift wrap
+ORD-01779,2024-01-01,North,Pen Set,13,80,965.27,repeat customer
+ORD-01780,2024-11-22,South,Pen Set,14,₹80,1077.79,Café order – rush
+ORD-01781,2024-03-12,West,Headphones,11,2500,25339.51,
+ORD-01782,26/05/2024,West,Water Bottle,13,400,4799.00,
+ORD-01783,2024-10-14,North,Pen Set,17,80,1262.98,ship to O'Brien Rd
+ORD-01784,06/08/2024,East,Notebook,12,₹120,1321.80,repeat customer
+ORD-01785,2024-04-24,East,Water Bottle,9,400,3464.68,ship to O'Brien Rd
+ORD-01786,2024-06-02,,Backpack,1,1800,1658.55,gift wrap
+ORD-01787,2024-09-08,West,Pen Set,9,80,681.82,
+ORD-01788,2024-12-13,West,Pen Set,15,80,1240.36,repeat customer
+ORD-01789,2024-12-23,North,Backpack,5,1800,9640.67,<script>alert('hi')</script>
+ORD-01790,2024-09-18,North,Desk Lamp,20,950,18215.12,
+ORD-01791,2024-09-18,South,Desk Lamp,17,950,16361.97,call before delivery
+ORD-01792,2024-07-12,East,Headphones,5,2500,13618.69,repeat customer
+ORD-01793,2024-05-11,East,Headphones,6,2500,13551.58,"quote ""as agreed"""
+ORD-01794,2024-09-09,West,Pen Set,18,80,1454.52,"quote ""as agreed"""
+ORD-01795,2024-05-27,East,Headphones,17,"₹2,500",45103.48,
+ORD-01796,2024-06-26,South,Notebook,4,120,527.32,
+ORD-01797,tomorrow,North,Notebook,4,120,499.99,Café order – rush
+ORD-01798,,South,Notebook,2,120,225.73,
+ORD-01799,11/02/2024,East,Notebook,9,120,979.01,
+ORD-01800,2024-10-28,North,Backpack,18,1800,31848.82,repeat customer
+ORD-01801,2024-12-16,East,Water Bottle,20,400,8764.43,repeat customer
+ORD-01802,2024-07-05,East,Notebook,4,120,-,ship to O'Brien Rd
+ORD-01803,2024-08-15,North,Headphones,1,2500,2485.84,Café order – rush
+ORD-01804,2024-02-26,South,Headphones,16,2500,43807.58,<script>alert('hi')</script>
+ORD-01805,2024-03-02,North,Headphones,7,2500,17448.08,gift wrap
+ORD-01806,2024-10-07,,Notebook,18,120,2102.26,
+ORD-01807,2024-04-19,West,Backpack,6,1800,10070.50,repeat customer
+ORD-01808,21/08/2024,West,Desk Lamp,13,950,12760.96,repeat customer
+ORD-01809,31/02/2024,West,Water Bottle,5,400,,repeat customer
+ORD-01810,2024-01-24,South,Water Bottle,17,400,7162.91,
+ORD-01811,2024-10-22,North,Pen Set,,80,806.69,
+ORD-01812,2024-06-10,North,Pen Set,2,80,148.72,gift wrap
+ORD-01813,2024-07-25,East,Water Bottle,8,400,3027.90,gift wrap
+ORD-01814,2024-09-12,West,Backpack,9,1800,17070.61,
+ORD-01815,2024-03-11,East,Headphones,3,2500,8108.75,
+ORD-01816,2024-06-23,North,Desk Lamp,9,950,7959.65,
+ORD-01817,2024-05-31,East,Desk Lamp,14,950,13987.29,<script>alert('hi')</script>
+ORD-01818,2024-02-22,West,Notebook,15,120,1693.29,ship to O'Brien Rd
+ORD-01819,2024-04-27,East,Backpack,2,1800,3395.89,
+ORD-01820,2024-06-03,West,Headphones,11,2500,28631.23,Café order – rush
+ORD-01821,2024-07-25,East,Pen Set,15,80,1124.62,call before delivery
+ORD-01822,2024-12-15,South,Pen Set,5,80,398.26,
+ORD-01823,2024-07-02,West,Headphones,5,2500,11794.72,Café order – rush
+ORD-01824,2024-07-20,East,Headphones,8,2500,-,"quote ""as agreed"""
+ORD-01825,2024-08-02,West,Water Bottle,3,₹400,1309.68,repeat customer
+ORD-01826,2024-07-29,West,Backpack,2,1800,3770.46,
+ORD-01827,2024-05-03,South,Headphones,9,2500,20912.23,
+ORD-01828,2024-03-30,North,Water Bottle,5,400,1992.86,<script>alert('hi')</script>
+ORD-01829,2024-02-24,East,Backpack,6,1800,9843.57,repeat customer
+ORD-01830,30/03/2024,South,Notebook,14,120,1833.00,Café order – rush
+ORD-01831,2024-01-08,West,Notebook,9,120,1011.83,
+ORD-01832,2024-04-20,North,Notebook,13,120,1692.24,
+ORD-01833,2024-07-30,South,Backpack,6,1800,10268.22,call before delivery
+ORD-01834,2024-05-03,North,Headphones,1,2500,2519.97,"quote ""as agreed"""
+ORD-01835,2024-11-09,South,Headphones,11,2500,25347.99,
+ORD-01836,2024-03-22,North,Headphones,4,2500,10644.49,call before delivery
+ORD-01837,2024-08-19,South,Backpack,11,1800,21083.29,ship to O'Brien Rd
+ORD-01838,27/10/2024,West,Desk Lamp,ten,950,941.00,
+ORD-01839,2024-03-27,North,Notebook,18,120,1948.42,
+ORD-01840,2024-07-09,North,Desk Lamp,8,950,7781.94,
+ORD-01841,04-Jan-2024,East,Pen Set,8,80,621.76,
+ORD-01842,2024-06-21,North,Desk Lamp,11,950,11069.09,
+ORD-01843,2024-11-15,South,Pen Set,8,80,,Café order – rush
+ORD-01844,2024-11-26,East,Pen Set,4,80,296.08,"quote ""as agreed"""
+ORD-01845,2024-07-20,North,Desk Lamp,20,950,19384.35,gift wrap
+ORD-01846,2024-10-28,West,Desk Lamp,9,950,7968.69,<script>alert('hi')</script>
+ORD-01847,2024-06-24,West,Headphones,4,2500,10171.91,call before delivery
+ORD-01848,2024-05-20,West,Backpack,11,1800,18418.53,call before delivery
+ORD-01849,2024-03-02,South,Backpack,8,1800,13036.18,
+ORD-01850,2024-04-07,East,Pen Set,4,80,292.02,"quote ""as agreed"""
+ORD-01851,2024-11-23,West,Notebook,10,120,1137.06,
+ORD-01852,2024-07-10,North,Water Bottle,9,400,3859.18,Café order – rush
+ORD-01853,2024-02-26,East,Headphones,6,"₹2,500",15707.86,"quote ""as agreed"""
+ORD-01854,2024-04-11,West,Pen Set,8,80,672.97,Café order – rush
+ORD-01855,2024-12-06,East,Desk Lamp,14,950,12701.33,Café order – rush
+ORD-01856,2024-03-28,West,Desk Lamp,abc,950,13860.20,
+ORD-01857,2024-07-04,East,Desk Lamp,7,950,7131.81,
+ORD-01858,2024-06-28,West,Notebook,4,120,483.20,"quote ""as agreed"""
+ORD-01859,2024-05-08,South,Pen Set,1,80,73.45,
+ORD-01860,2024-11-06,,Water Bottle,14,₹400,5481.75,
+ORD-01861,,East,Desk Lamp,N/A,950,12486.59,"quote ""as agreed"""
+ORD-01862,2024-04-22,South,Pen Set,12,80,1010.50,call before delivery
+ORD-01863,03/01/2024,South,Water Bottle,2,400,787.18,ship to O'Brien Rd
+ORD-01864,2024-08-02,West,Notebook,16,120,2102.64,repeat customer
+ORD-01865,2024-04-26,West,Backpack,6,1800,10151.75,
+ORD-01866,2024-07-29,East,Notebook,1,120,123.43,
+ORD-01867,2024-07-18,South,Desk Lamp,9,950,9233.88,call before delivery
+ORD-01868,2024-01-17,South,Backpack,7,1800,13330.90,repeat customer
+ORD-01869,23/06/2024,North,Notebook,17,120,2060.60,
+ORD-01870,2024-01-22,East,Pen Set,10,80,809.66,repeat customer
+ORD-01871,2024-04-10,North,Headphones,13,2500,32971.90,
+ORD-01872,2024-08-02,South,Headphones,19,2500,43143.89,
+ORD-01873,2024-10-31,East,Desk Lamp,8,950,7601.31,repeat customer
+ORD-01874,29/10/2024,South,Headphones,1,2500,2667.61,ship to O'Brien Rd
+ORD-01875,2024-11-21,East,Backpack,4,1800,6902.78,<script>alert('hi')</script>
+ORD-01876,2024-11-29,West,Desk Lamp,14,950,12652.04,
+ORD-01877,2024-07-07,East,Water Bottle,10,400,4305.81,<script>alert('hi')</script>
+ORD-01878,22/12/2024,East,Pen Set,19,80,1624.31,gift wrap
+ORD-01879,2024-04-30,East,Desk Lamp,14,950,13972.71,Café order – rush
+ORD-01880,2024-05-05,,Pen Set,1,80,78.34,
+ORD-01881,2024-04-03,West,Water Bottle,6,400,2361.90,<script>alert('hi')</script>
+ORD-01882,2024-09-17,East,Water Bottle,17,₹400,6706.03,call before delivery
+ORD-01883,2024-04-14,West,Desk Lamp,abc,950,5923.87,ship to O'Brien Rd
+ORD-01884,2024-11-22,West,Desk Lamp,19,950,16743.36,Café order – rush
+ORD-01885,2024-07-24,South,Water Bottle,15,400,5435.69,ship to O'Brien Rd
+ORD-01886,2024-01-08,South,Backpack,7,1800,13717.63,Café order – rush
+ORD-01887,2024-03-22,East,Backpack,4,1800,7289.07,
+ORD-01888,2024-09-30,East,Backpack,10,1800,18398.69,
+ORD-01889,2024-02-14,North,Water Bottle,8,400,3492.89,call before delivery
+ORD-01890,2024-11-02,West,Pen Set,3,80,245.61,gift wrap
+ORD-01891,2024-04-28,South,Headphones,17,2500,44561.24,
+ORD-01892,2024-08-26,North,Water Bottle,18,400,6640.77,repeat customer
+ORD-01893,2024-11-26,North,Headphones,19,2500,50955.13,ship to O'Brien Rd
+ORD-01894,13/03/2024,West,Water Bottle,17,400,6246.69,ship to O'Brien Rd
+ORD-01895,2024-06-01,North,Notebook,15,120,1936.74,
+ORD-01896,2024-09-27,East,Pen Set,20,80,1742.68,
+ORD-01897,2024-08-22,East,Pen Set,17,80,1362.08,call before delivery
+ORD-01898,2024-10-03,West,Notebook,14,120,1826.85,
+ORD-01899,2024-09-28,North,Pen Set,1,80,75.84,gift wrap
+ORD-01900,2024-05-23,South,Desk Lamp,7,950,6418.66,
+ORD-01901,2024-02-11,South,Pen Set,1,80,83.77,
+ORD-01902,20/03/2024,East,Pen Set,15,80,1167.42,call before delivery
+ORD-01903,2024-11-28,South,Backpack,1,1800,1667.47,repeat customer
+ORD-01904,2024-04-23,West,Water Bottle,14,400,-,gift wrap
+ORD-01905,2024-09-18,West,Headphones,5,2500,11547.14,
+ORD-01906,2024-04-11,West,Pen Set,8,80,630.77,repeat customer
+ORD-01907,2024-10-24,South,Desk Lamp,19,950,19192.91,
+ORD-01908,2024-07-29,West,Headphones,20,2500,46288.11,repeat customer
+ORD-01909,2024-07-12,South,Headphones,19,2500,51382.47,repeat customer
+ORD-01910,2024-10-10,West,Water Bottle,16,400,6867.41,gift wrap
+ORD-01911,03-Mar-2024,East,Pen Set,9,80,723.63,
+ORD-01912,2024-11-02,,Notebook,5,120,658.93,<script>alert('hi')</script>
+ORD-01913,2024-07-23,East,Pen Set,20,80,1671.80,"quote ""as agreed"""
+ORD-01914,2024-02-06,West,Pen Set,10,80,738.91,"quote ""as agreed"""
+ORD-01915,2024-10-03,South,Backpack,11,1800,21117.98,"quote ""as agreed"""
+ORD-01916,2024-12-29,East,Water Bottle,5,400,1822.24,
+ORD-01917,2024-11-14,North,Desk Lamp,18,950,18487.64,<script>alert('hi')</script>
+ORD-01918,03/12/2024,West,Desk Lamp,8,950,7794.48,ship to O'Brien Rd
+ORD-01919,2024-11-24,East,Desk Lamp,1,950,913.83,
+ORD-01920,2024-09-03,North,Water Bottle,20,400,7705.20,repeat customer
+ORD-01921,2024-02-01,South,Pen Set,14,80,1027.30,"quote ""as agreed"""
+ORD-01922,2024-02-06,West,Headphones,7,2500,17554.73,gift wrap
+ORD-01923,2024-08-17,West,Desk Lamp,18,950,17472.55,
+ORD-01924,2024-06-10,East,Notebook,1,120,124.60,Café order – rush
+ORD-01925,2024-07-01,South,Notebook,16,120,1994.91,gift wrap
+ORD-01926,2024-01-19,North,Headphones,3,2500,7587.52,<script>alert('hi')</script>
+ORD-01927,2024-05-13,North,Desk Lamp,20,950,18591.12,
+ORD-01928,2024-10-27,East,Pen Set,1,₹80,83.47,Café order – rush
+ORD-01929,17/03/2024,South,Pen Set,3,80,254.61,
+ORD-01930,2024-09-20,East,Desk Lamp,18,₹950,17287.02,
+ORD-01931,2024-07-19,West,Desk Lamp,6,950,5823.21,repeat customer
+ORD-01932,2024-08-01,West,Pen Set,7,80,510.22,call before delivery
+ORD-01933,2024-09-06,West,Notebook,17,120,2129.69,"quote ""as agreed"""
+ORD-01934,2024-12-24,East,Headphones,3,2500,7561.28,call before delivery
+ORD-01935,2024-07-12,East,Notebook,4,120,464.19,
+ORD-01936,2024-10-31,South,Water Bottle,13,400,4713.64,<script>alert('hi')</script>
+ORD-01937,2024-05-19,North,Desk Lamp,9,950,8201.61,
+ORD-01938,2024-02-10,East,Backpack,3,1800,5172.42,call before delivery
+ORD-01939,2024-03-08,West,Backpack,6,1800,10256.11,Café order – rush
+ORD-01940,2024-06-03,,Notebook,5,120,584.88,
+ORD-01941,2024-07-20,North,Pen Set,2,80,156.68,call before delivery
+ORD-01942,2024-05-16,South,Notebook,20,120,2421.61,ship to O'Brien Rd
+ORD-01943,2024-01-15,East,Pen Set,12,80,889.97,"quote ""as agreed"""
+ORD-01944,2024-07-06,West,Pen Set,4,80,324.77,<script>alert('hi')</script>
+ORD-01945,2024-06-27,East,Backpack,10,1800,18581.71,"quote ""as agreed"""
+ORD-01946,2024-05-24,North,Water Bottle,,400,4340.58,repeat customer
+ORD-01947,2024-09-28,East,Pen Set,10,80,861.81,
+ORD-01948,2024-03-04,West,Backpack,20,1800,35964.30,
+ORD-01949,07/06/2024,West,Headphones,14,2500,31713.38,
+ORD-01950,29/06/2024,East,Notebook,12,120,1441.14,
+ORD-01951,tomorrow,North,Backpack,4,1800,6935.09,gift wrap
+ORD-01952,2024-08-14,East,Headphones,9,2500,20504.76,<script>alert('hi')</script>
+ORD-01953,2024-10-25,North,Notebook,11,120,1378.79,gift wrap
+ORD-01954,2024-07-26,North,Headphones,7,2500,17253.90,ship to O'Brien Rd
+ORD-01955,13/10/2024,West,Backpack,13,1800,23619.67,<script>alert('hi')</script>
+ORD-01956,15/02/2024,North,Headphones,9,2500,21349.62,
+ORD-01957,2024-03-14,South,Water Bottle,20,400,8317.76,Café order – rush
+ORD-01958,2024-03-09,West,Desk Lamp,8,950,7999.89,
+ORD-01959,2024-11-14,East,Water Bottle,6,400,2267.44,gift wrap
+ORD-01960,2024-12-18,South,Notebook,3,120,354.48,"quote ""as agreed"""
+ORD-01961,29/10/2024,West,Headphones,5,2500,13473.64,
+ORD-01962,2024-07-18,North,Notebook,15,120,12abc,
+ORD-01963,2024-04-19,South,Water Bottle,5,400,1873.72,call before delivery
+ORD-01964,2024-09-16,East,Water Bottle,ten,₹400,872.79,call before delivery
+ORD-01965,2024-01-18,East,Desk Lamp,20,950,18290.13,gift wrap
+ORD-01966,2024-01-28,West,Pen Set,16,80,1221.18,repeat customer
+ORD-01967,18/10/2024,North,Notebook,14,120,1791.02,call before delivery
+ORD-01968,2024-05-14,East,Backpack,3,1800,5165.34,"quote ""as agreed"""
+ORD-01969,2024-12-23,East,Headphones,16,2500,41988.49,call before delivery
+ORD-01970,2024-01-18,North,Headphones,20,2500,53887.44,call before delivery
+ORD-01971,2024-05-31,East,Pen Set,5,80,370.54,Café order – rush
+ORD-01972,2024-11-29,East,Notebook,,120,463.64,
+ORD-01973,2024-03-11,East,Pen Set,19,80,1663.54,call before delivery
+ORD-01974,,South,Water Bottle,17,400,7066.67,
+ORD-01975,2024-06-17,West,Water Bottle,18,400,7880.44,gift wrap
+ORD-01976,2024-10-21,East,Water Bottle,12,400,4704.78,gift wrap
+ORD-01977,2024-10-17,North,Backpack,7,1800,13566.66,
+ORD-01978,2024-10-05,West,Notebook,ten,120,2453.31,ship to O'Brien Rd
+ORD-01979,2024-09-16,West,Backpack,9,1800,15650.96,
+ORD-01980,10/05/2024,West,Backpack,14,1800,24063.97,
+ORD-01981,2024-05-29,East,Water Bottle,2,400,777.19,
+ORD-01982,2024-09-19,South,Headphones,20,2500,49723.09,call before delivery
+ORD-01983,2024-01-09,North,Headphones,8,2500,21345.99,"quote ""as agreed"""
+ORD-01984,2024-06-01,West,Desk Lamp,5,950,5145.49,Café order – rush
+ORD-01985,2024-04-24,North,Notebook,20,₹120,2532.89,"quote ""as agreed"""
+ORD-01986,2024-08-31,West,Headphones,16,2500,42944.05,repeat customer
+ORD-01987,2024-07-18,North,Headphones,9,2500,22619.82,Café order – rush
+ORD-01988,2024-01-08,South,Headphones,11,2500,27490.46,Café order – rush
+ORD-01989,2024-01-24,East,Pen Set,14,80,1008.24,
+ORD-01990,2024-06-30,East,Headphones,20,2500,54749.57,
+ORD-01991,2024-02-19,West,Headphones,15,2500,38737.41,Café order – rush
+ORD-01992,2024-08-05,South,Water Bottle,9,400,3955.27,ship to O'Brien Rd
+ORD-01993,2024-09-23,West,Backpack,17,1800,32472.60,ship to O'Brien Rd
+ORD-01994,2024-07-03,East,Water Bottle,18,400,7022.51,<script>alert('hi')</script>
+ORD-01995,2024-04-08,South,Water Bottle,1,400,390.72,Café order – rush
+ORD-01996,2024-02-16,South,Backpack,18,1800,32404.23,Café order – rush
+ORD-01997,2024-10-30,West,Notebook,14,120,1823.76,"quote ""as agreed"""
+ORD-01998,2024-01-14,,Pen Set,6,80,453.89,Café order – rush
+ORD-01999,2024-11-17,East,Water Bottle,15,400,5466.75,<script>alert('hi')</script>
+ORD-02000,2024-08-03,North,Backpack,11,1800,19062.94,<script>alert('hi')</script>
+ORD-02001,2024-04-17,East,Backpack,17,1800,27945.81,ship to O'Brien Rd
+ORD-02002,2024-07-18,East,Pen Set,13,80,-,ship to O'Brien Rd
+ORD-02003,2024-09-02,North,Backpack,3,1800,5023.01,repeat customer
+ORD-02004,2024-02-15,West,Headphones,18,2500,41397.91,
+ORD-02005,2024-11-28,North,Backpack,1,1800,1949.55,"quote ""as agreed"""
+ORD-02006,2024-10-11,South,Pen Set,13,80,1051.08,"quote ""as agreed"""
+ORD-02007,20-Aug-2024,West,Notebook,8,120,1001.06,
+ORD-02008,07/04/2024,West,Desk Lamp,12,950,11834.38,
+ORD-02009,21-Feb-2024,East,Desk Lamp,11,950,10116.15,"quote ""as agreed"""
+ORD-02010,2024-11-04,East,Water Bottle,8,400,3210.61,
+ORD-02011,2024-06-08,North,Notebook,10,120,1293.06,
+ORD-02012,2024-07-24,West,Headphones,15,2500,34603.73,<script>alert('hi')</script>
+ORD-02013,2024-08-18,South,Headphones,15,2500,37782.95,Café order – rush
+ORD-02014,2024-05-29,,Desk Lamp,14,950,14567.03,call before delivery
+ORD-02015,2024-06-01,East,Notebook,3,120,355.10,"quote ""as agreed"""
+ORD-02016,2024-09-12,South,Desk Lamp,15,950,14838.29,
+ORD-02017,2024-12-29,East,Notebook,5,120,607.79,
+ORD-02018,2024-06-02,North,Notebook,13,120,1670.62,call before delivery
+ORD-02019,2024-01-13,West,Backpack,7,1800,12095.73,repeat customer
+ORD-02020,2024-10-05,North,Desk Lamp,3,950,3090.30,
+ORD-02021,2024-09-19,East,Water Bottle,4,400,1569.44,<script>alert('hi')</script>
+ORD-02022,2024-07-16,South,Water Bottle,2,400,832.84,
+ORD-02023,2024-10-01,South,Backpack,N/A,1800,18591.98,
+ORD-02024,2024-10-21,North,Water Bottle,19,400,7424.40,call before delivery
+ORD-02025,31/07/2024,East,Backpack,14,1800,27480.83,
+ORD-02026,2024-03-06,North,Pen Set,8,80,610.39,call before delivery
+ORD-02027,2024-09-06,West,Desk Lamp,20,950,19913.40,gift wrap
+ORD-02028,2024-05-30,East,Notebook,20,120,2238.82,
+ORD-02029,2024-07-11,South,Notebook,4,120,484.76,ship to O'Brien Rd
+ORD-02030,2024-07-14,South,Headphones,11,2500,26708.08,"quote ""as agreed"""
+ORD-02031,2024-01-24,,Notebook,7,120,911.79,
+ORD-02032,2024-05-18,South,Desk Lamp,9,950,12abc,
+ORD-02033,2024-02-03,North,Desk Lamp,12,950,10889.26,
+ORD-02034,2024-05-13,East,Water Bottle,19,400,7536.14,gift wrap
+ORD-02035,2024-05-04,South,Backpack,16,1800,29667.64,Café order – rush
+ORD-02036,2024-09-02,East,Pen Set,3,80,230.98,ship to O'Brien Rd
+ORD-02037,2024-02-23,West,Notebook,16,120,2034.60,
+ORD-02038,2024-06-18,North,Backpack,2,1800,3532.71,
+ORD-02039,2024-07-09,,Desk Lamp,6,950,5935.67,repeat customer
+ORD-02040,27/11/2024,East,Water Bottle,11,400,4760.76,
+ORD-02041,2024-01-14,North,Backpack,14,1800,12abc,
+ORD-02042,2024-04-15,South,Water Bottle,17,400,6311.28,
+ORD-02043,2024-12-06,North,Pen Set,2,80,155.92,
+ORD-02044,2024-05-11,South,Headphones,10,2500,23545.38,
+ORD-02045,2024-03-22,West,Pen Set,20,80,1521.33,gift wrap
+ORD-02046,2024-11-08,West,Backpack,14,1800,26676.98,repeat customer
+ORD-02047,2024-05-06,South,Backpack,15,1800,27737.95,
+ORD-02048,2024-07-01,West,Backpack,3,1800,5221.38,<script>alert('hi')</script>
+ORD-02049,2024-07-18,North,Pen Set,12,80,1015.21,repeat customer
+ORD-02050,2024-04-22,South,Pen Set,13,80,1112.59,call before delivery
+ORD-02051,2024-06-11,West,Water Bottle,8,400,3096.36,
+ORD-02052,2024-03-19,West,Desk Lamp,7,950,7151.98,ship to O'Brien Rd
+ORD-02053,2024-08-22,South,Water Bottle,14,400,6105.01,call before delivery
+ORD-02054,2024-05-06,West,Water Bottle,19,400,6879.72,"quote ""as agreed"""
+ORD-02055,2024-10-06,South,Water Bottle,3,400,1179.67,
+ORD-02056,21/12/2024,South,Backpack,3,1800,4891.57,
+ORD-02057,2024-02-18,North,Desk Lamp,18,950,17488.32,
+ORD-02058,2024-05-26,West,Backpack,7,1800,12832.23,ship to O'Brien Rd
+ORD-02059,2024-03-25,South,Backpack,10,1800,17440.10,ship to O'Brien Rd
+ORD-02060,2024-06-02,North,Notebook,7,120,822.43,gift wrap
+ORD-02061,2024-10-17,North,Backpack,3,1800,5530.06,
+ORD-02062,2024-02-23,North,Backpack,4,1800,6724.52,
+ORD-02063,2024-02-11,South,Pen Set,8,80,605.65,ship to O'Brien Rd
+ORD-02064,2024-05-20,East,Headphones,4,2500,9562.89,
+ORD-02065,2024-02-07,East,Desk Lamp,18,950,15701.70,gift wrap
+ORD-02066,2024-12-01,West,Pen Set,2,80,148.82,
+ORD-02067,2024-11-13,South,Headphones,2,2500,4746.45,
+ORD-02068,2024-01-31,West,Pen Set,11,80,826.76,
+ORD-02069,2024-10-05,North,Backpack,2,1800,3297.48,
+ORD-02070,2024-10-25,South,Water Bottle,10,400,4340.98,Café order – rush
+ORD-02071,2024-12-01,West,Notebook,10,120,1102.08,"quote ""as agreed"""
+ORD-02072,2024-04-19,West,Backpack,16,1800,30811.01,
+ORD-02073,2024-01-20,West,Water Bottle,16,400,6146.13,repeat customer
+ORD-02074,2024-05-25,East,Notebook,3,120,375.12,call before delivery
+ORD-02075,2024-02-04,South,Backpack,18,1800,30801.20,
+ORD-02076,2024-03-12,North,Water Bottle,12,400,4591.68,Café order – rush
+ORD-02077,2024-07-02,South,Backpack,13,1800,23889.10,repeat customer
+ORD-02078,2024-08-09,South,Backpack,12,1800,23496.83,<script>alert('hi')</script>
+ORD-02079,2024-11-22,South,Water Bottle,3,400,1189.36,<script>alert('hi')</script>
+ORD-02080,2024-01-12,East,Water Bottle,2,400,733.28,call before delivery
+ORD-02081,2024-04-02,North,Desk Lamp,ten,950,2009.23,
+ORD-02082,2024-09-05,South,Pen Set,18,80,1336.53,
+ORD-02083,2024-04-27,South,Pen Set,18,80,1338.65,repeat customer
+ORD-02084,06/11/2024,,Headphones,20,2500,47971.60,repeat customer
+ORD-02085,2024-02-22,North,Water Bottle,4,400,1739.52,<script>alert('hi')</script>
+ORD-02086,2024-03-15,North,Pen Set,17,80,1385.04,<script>alert('hi')</script>
+ORD-02087,2024-10-11,North,Notebook,20,120,NaN,gift wrap
+ORD-02088,2024-12-30,South,Desk Lamp,8,950,7297.95,<script>alert('hi')</script>
+ORD-02089,2024-10-11,South,Backpack,15,1800,25854.32,
+ORD-02090,2024-01-12,North,Backpack,8,1800,15137.31,
+ORD-02091,2024-04-23,East,Water Bottle,20,400,8360.62,repeat customer
+ORD-02092,2024-06-18,East,Headphones,11,2500,30018.02,"quote ""as agreed"""
+ORD-02093,2024-01-01,North,Backpack,20,1800,39346.19,
+ORD-02094,2024-07-12,South,Notebook,2,120,234.65,repeat customer
+ORD-02095,2024-03-14,North,Backpack,14,1800,23149.90,Café order – rush
+ORD-02096,2024-05-23,South,Pen Set,16,80,1337.06,<script>alert('hi')</script>
+ORD-02097,2024-04-02,South,Desk Lamp,1,950,955.99,
+ORD-02098,2024-05-20,East,Notebook,15,120,1875.40,repeat customer
+ORD-02099,2024-08-22,West,Desk Lamp,19,950,19595.68,
+ORD-02100,2024-04-19,East,Pen Set,5,80,409.65,
+ORD-02101,25/09/2024,South,Backpack,8,1800,13092.74,<script>alert('hi')</script>
+ORD-02102,2024-03-21,South,Notebook,,120,1841.47,
+ORD-02103,2024-07-02,West,Water Bottle,8,400,-,repeat customer
+ORD-02104,2024-01-17,North,Pen Set,4,80,-,
+ORD-02105,2024-12-09,South,Headphones,2,2500,4606.24,
+ORD-02106,2024-01-30,East,Water Bottle,1,400,374.70,ship to O'Brien Rd
+ORD-02107,2024-05-23,East,Water Bottle,16,400,5841.91,
+ORD-02108,2024-04-26,South,Notebook,10,120,1270.54,Café order – rush
+ORD-02109,2024-02-08,East,Desk Lamp,11,950,10192.60,repeat customer
+ORD-02110,2024-04-10,North,Water Bottle,20,400,8318.88,
+ORD-02111,2024-06-25,North,Pen Set,16,80,1317.91,repeat customer
+ORD-02112,2024-09-01,North,Headphones,2,2500,4906.78,ship to O'Brien Rd
+ORD-02113,2024-08-14,West,Notebook,13,120,1600.31,repeat customer
+ORD-02114,2024-10-26,East,Pen Set,3,80,257.71,
+ORD-02115,06/11/2024,South,Desk Lamp,7,950,6013.69,
+ORD-02116,2024-05-04,East,Water Bottle,3,400,1129.72,<script>alert('hi')</script>
+ORD-02117,2024-10-01,South,Water Bottle,9,400,3314.36,
+ORD-02118,2024-09-25,North,Pen Set,2,80,147.02,call before delivery
+ORD-02119,2024-08-15,South,Pen Set,12,80,876.21,<script>alert('hi')</script>
+ORD-02120,2024-07-06,West,Water Bottle,13,400,5006.58,
+ORD-02121,2024-05-22,North,Headphones,10,2500,26040.79,"quote ""as agreed"""
+ORD-02122,2024-08-02,North,Desk Lamp,13,950,12433.56,call before delivery
+ORD-02123,2024-12-30,East,Backpack,6,1800,11010.12,gift wrap
+ORD-02124,2024-03-11,East,Notebook,5,120,609.06,Café order – rush
+ORD-02125,2024-12-19,West,Water Bottle,1,400,382.95,gift wrap
+ORD-02126,2024-12-23,South,Water Bottle,2,400,793.43,
+ORD-02127,2024-05-04,North,Pen Set,15,80,1234.83,<script>alert('hi')</script>
+ORD-02128,2024-07-23,South,Water Bottle,15,400,5414.10,
+ORD-02129,2024-02-27,North,Notebook,5,120,645.99,Café order – rush
+ORD-02130,2024-05-17,South,Pen Set,13,80,1105.96,
+ORD-02131,2024-09-17,North,Pen Set,18,80,1470.31,gift wrap
+ORD-02132,2024-08-10,West,Headphones,5,2500,11310.07,"quote ""as agreed"""
+ORD-02133,2024-07-08,North,Notebook,19,120,2476.32,Café order – rush
+ORD-02134,19-Dec-2024,North,Water Bottle,2,400,806.54,repeat customer
+ORD-02135,2024-07-26,East,Backpack,17,1800,29620.37,gift wrap
+ORD-02136,2024-08-22,North,Desk Lamp,12,950,11412.96,<script>alert('hi')</script>
+ORD-02137,2024-08-18,North,Headphones,9,2500,20412.41,Café order – rush
+ORD-02138,2024-12-21,North,Headphones,7,2500,17443.06,call before delivery
+ORD-02139,2024-02-27,West,Notebook,19,120,2312.51,call before delivery
+ORD-02140,2024-02-03,East,Backpack,2,1800,3757.98,
+ORD-02141,2024-10-28,East,Desk Lamp,14,950,12840.22,Café order – rush
+ORD-02142,2024-03-24,North,Desk Lamp,6,950,5572.20,repeat customer
+ORD-02143,2024-10-03,,Desk Lamp,14,950,13107.83,
+ORD-02144,2024-03-21,South,Backpack,6,1800,10754.62,repeat customer
+ORD-02145,2024-03-05,,Headphones,12,2500,32660.33,"quote ""as agreed"""
+ORD-02146,2024-08-29,South,Pen Set,1,80,82.22,<script>alert('hi')</script>
+ORD-02147,2024-02-29,West,Notebook,17,120,1955.34,<script>alert('hi')</script>
+ORD-02148,2024-02-12,East,Pen Set,3,80,218.31,
+ORD-02149,2024-06-27,West,Water Bottle,16,400,6846.42,call before delivery
+ORD-02150,2024-03-02,West,Water Bottle,19,400,7725.50,call before delivery
+ORD-02151,2024-05-31,South,Notebook,20,₹120,2452.51,
+ORD-02152,2024-05-24,West,Pen Set,13,80,1077.89,gift wrap
+ORD-02153,2024-05-04,East,Headphones,1,2500,2479.33,ship to O'Brien Rd
+ORD-02154,2024-10-27,North,Notebook,3,120,389.37,Café order – rush
+ORD-02155,2024-01-17,South,Pen Set,13,80,1008.52,
+ORD-02156,2024-04-22,East,Desk Lamp,10,950,9514.44,"quote ""as agreed"""
+ORD-02157,2024-02-16,West,Desk Lamp,13,950,11713.89,
+ORD-02158,2024-04-16,West,Notebook,16,120,1993.99,gift wrap
+ORD-02159,2024-10-30,North,Pen Set,16,80,1323.47,call before delivery
+ORD-02160,2024-12-06,North,Notebook,3,120,345.90,
+ORD-02161,2024-09-10,North,Notebook,13,120,1701.76,ship to O'Brien Rd
+ORD-02162,2024-04-21,South,Backpack,20,1800,37531.93,Café order – rush
+ORD-02163,2024-10-31,North,Headphones,8,2500,18263.87,
+ORD-02164,2024-09-26,North,Water Bottle,8,400,3094.99,"quote ""as agreed"""
+ORD-02165,2024-04-27,West,Notebook,9,120,1124.56,
+ORD-02166,2024-09-19,West,Notebook,5,120,658.21,<script>alert('hi')</script>
+ORD-02167,2024-12-23,South,Desk Lamp,15,950,15238.39,Café order – rush
+ORD-02168,2024-04-18,West,Water Bottle,8,400,2885.35,Café order – rush
+ORD-02169,2024-10-26,South,Notebook,10,120,1113.58,
+ORD-02170,2024-07-26,West,Backpack,14,1800,25093.84,
+ORD-02171,2024-07-28,,Pen Set,14,80,1130.02,<script>alert('hi')</script>
+ORD-02172,2024-07-24,West,Pen Set,19,80,1416.31,<script>alert('hi')</script>
+ORD-02173,2024-11-25,East,Backpack,3,1800,5885.57,"quote ""as agreed"""
+ORD-02174,2024-01-01,East,Backpack,10,1800,18290.81,
+ORD-02175,2024-08-10,North,Desk Lamp,20,950,20276.59,repeat customer
+ORD-02176,2024-01-16,West,Notebook,10,120,1109.95,"quote ""as agreed"""
+ORD-02177,2024-06-29,West,Backpack,12,1800,22902.19,ship to O'Brien Rd
+ORD-02178,2024-07-03,East,Notebook,1,120,125.24,<script>alert('hi')</script>
+ORD-02179,2024-06-27,North,Water Bottle,15,₹400,6590.90,repeat customer
+ORD-02180,2024-11-20,North,Notebook,3,120,NaN,
+ORD-02181,2024-03-23,North,Pen Set,N/A,80,12abc,
+ORD-02182,2024-03-10,West,Desk Lamp,6,950,6161.36,ship to O'Brien Rd
+ORD-02183,2024-05-27,North,Notebook,11,120,1318.63,repeat customer
+ORD-02184,2024-07-27,West,Water Bottle,16,400,6087.31,repeat customer
+ORD-02185,2024-02-03,West,Desk Lamp,13,950,12733.63,
+ORD-02186,2024-05-31,West,Headphones,8,2500,20645.40,gift wrap
+ORD-02187,2024-09-22,West,Desk Lamp,8,₹950,7074.47,
+ORD-02188,2024-03-22,South,Water Bottle,14,400,5904.03,"quote ""as agreed"""
+ORD-02189,19/12/2024,East,Desk Lamp,18,950,15498.32,gift wrap
+ORD-02190,24/07/2024,West,Backpack,6,1800,11302.88,
+ORD-02191,2024-12-22,South,Backpack,15,1800,25527.29,ship to O'Brien Rd
+ORD-02192,17/12/2024,West,Notebook,8,120,971.95,ship to O'Brien Rd
+ORD-02193,2024-01-03,North,Desk Lamp,11,950,9453.40,gift wrap
+ORD-02194,2024-12-16,East,Water Bottle,8,400,3407.59,ship to O'Brien Rd
+ORD-02195,2024-06-29,West,Headphones,1,2500,2387.39,ship to O'Brien Rd
+ORD-02196,2024-13-45,West,Pen Set,12,80,885.31,
+ORD-02197,2024-05-12,North,Water Bottle,14,400,6134.02,repeat customer
+ORD-02198,2024-07-02,West,Desk Lamp,8,950,7886.73,<script>alert('hi')</script>
+ORD-02199,2024-05-08,North,Backpack,4,1800,7916.67,
+ORD-02200,2024-08-05,East,Desk Lamp,4,950,3552.09,"quote ""as agreed"""
+ORD-02201,2024-11-14,West,Notebook,14,120,1703.86,
+ORD-BAD-3,2024-04-04,West,"unterminated quote,1,2,3,4
+ORD-02202,2024-08-11,North,Water Bottle,16,400,6964.51,
+ORD-02203,2024-12-12,North,Water Bottle,14,400,5533.60,Café order – rush
+ORD-02204,2024-10-11,North,Headphones,2,2500,4808.58,call before delivery
+ORD-02205,2024-06-01,South,Desk Lamp,2,950,2036.43,repeat customer
+ORD-02206,2024-08-14,North,Backpack,15,"₹1,800",25297.95,
+ORD-02207,2024-09-23,East,Water Bottle,7,400,2882.26,ship to O'Brien Rd
+ORD-02208,2024-10-26,,Backpack,16,1800,26603.73,"quote ""as agreed"""
+ORD-02209,2024-03-05,South,Backpack,11,1800,21023.24,
+ORD-02210,2024-09-14,North,Backpack,8,1800,15321.88,
+ORD-02211,2024-12-13,North,Backpack,14,1800,26601.19,gift wrap
+ORD-02212,2024-06-26,South,Headphones,20,2500,53404.88,
+ORD-02213,2024-11-26,North,Backpack,17,1800,29033.50,"quote ""as agreed"""
+ORD-02214,2024-06-10,South,Headphones,13,"₹2,500",32191.83,gift wrap
+ORD-02215,2024-07-27,North,Water Bottle,15,400,6215.30,
+ORD-02216,2024-02-08,North,Pen Set,18,80,1487.53,
+ORD-02217,2024-10-06,South,Desk Lamp,6,₹950,5299.74,
+ORD-02218,2024-12-10,West,Backpack,17,1800,28283.94,
+ORD-02219,2024-11-28,North,Water Bottle,16,400,7027.66,
+ORD-02220,2024-01-24,North,Notebook,1,120,116.49,gift wrap
+ORD-02221,2024-10-14,East,Desk Lamp,1,₹950,1005.95,"quote ""as agreed"""
+ORD-02222,2024-02-11,East,Headphones,9,2500,23843.46,call before delivery
+ORD-02223,2024-02-28,South,Headphones,6,2500,14860.56,Café order – rush
+ORD-02224,2024-07-31,North,Pen Set,14,80,1061.88,
+ORD-02225,2024-01-13,South,Desk Lamp,12,950,11387.28,
+ORD-02226,2024-03-12,East,Pen Set,10,80,826.75,
+ORD-02227,2024-01-01,North,Desk Lamp,4,950,3474.43,
+ORD-02228,2024-02-27,South,Headphones,13,2500,35687.27,call before delivery
+ORD-02229,2024-10-02,North,Headphones,13,2500,33105.51,Café order – rush
+ORD-02230,2024-04-22,South,Backpack,20,1800,39027.85,
+ORD-02231,2024-12-27,North,Headphones,4,2500,10322.64,call before delivery
+ORD-02232,2024-12-17,South,Pen Set,19,80,1396.63,Café order – rush
+ORD-02233,2024-02-28,North,Backpack,19,1800,36065.11,Café order – rush
+ORD-02234,2024-12-01,West,Desk Lamp,19,950,17967.20,
+ORD-02235,2024-02-26,West,Desk Lamp,18,950,18309.54,
+ORD-02236,2024-08-09,East,Notebook,16,120,1809.12,"quote ""as agreed"""
+ORD-02237,2024-08-24,West,Desk Lamp,12,950,11282.88,Café order – rush
+ORD-02238,2024-02-06,North,Notebook,19,120,2434.67,ship to O'Brien Rd
+ORD-02239,2024-01-07,South,Backpack,3,1800,5320.10,
+ORD-02240,2024-08-03,East,Notebook,8,120,878.76,
+ORD-02241,2024-05-04,East,Backpack,6,1800,11018.97,
+ORD-02242,2024-12-14,South,Headphones,19,2500,47957.51,repeat customer
+ORD-02243,2024-06-24,South,Notebook,15,120,1911.14,gift wrap
+ORD-02244,2024-09-09,South,Backpack,6,"₹1,800",11673.94,"quote ""as agreed"""
+ORD-02245,2024-11-02,East,Desk Lamp,12,950,10848.71,
+ORD-02246,2024-08-28,North,Headphones,13,2500,32638.56,Café order – rush
+ORD-02247,25/08/2024,South,Pen Set,9,80,779.71,
+ORD-02248,2024-08-02,South,Backpack,17,1800,27933.96,
+ORD-02249,2024-03-02,South,Backpack,8,1800,14995.04,
+ORD-02250,2024-12-18,South,Headphones,17,2500,45726.25,call before delivery
+ORD-02251,2024-06-09,East,Desk Lamp,1,950,872.89,
+ORD-02252,2024-12-08,,Water Bottle,1,400,372.59,
+ORD-02253,,East,Water Bottle,17,400,6699.08,<script>alert('hi')</script>
+ORD-02254,2024-06-28,South,Pen Set,20,80,1612.53,
+ORD-02255,2024-12-16,South,Water Bottle,20,400,7289.28,
+ORD-02256,2024-06-11,,Backpack,11,1800,20261.35,"quote ""as agreed"""
+ORD-02257,2024-12-05,East,Backpack,20,1800,33647.54,ship to O'Brien Rd
+ORD-02258,2024-10-04,South,Pen Set,20,80,1656.58,
+ORD-02259,2024-07-12,West,Backpack,6,1800,10826.76,
+ORD-02260,2024-05-11,West,Pen Set,16,80,1246.96,repeat customer
+ORD-02261,2024-05-27,West,Pen Set,10,80,759.85,
+ORD-02262,2024-06-23,East,Notebook,19,120,2445.06,
+ORD-02263,2024-10-18,East,Backpack,20,1800,38690.10,gift wrap
+ORD-02264,22/08/2024,East,Notebook,18,120,2169.95,gift wrap
+ORD-02265,2024-11-08,West,Water Bottle,13,400,5373.64,
+ORD-02266,2024-08-22,West,Water Bottle,1,400,429.77,
+ORD-02267,2024-04-20,West,Headphones,9,2500,23832.53,
+ORD-02268,2024-11-30,North,Desk Lamp,3,950,2874.41,ship to O'Brien Rd
+ORD-02269,2024-04-02,East,Pen Set,10,80,831.09,gift wrap
+ORD-02270,2024-06-14,South,Notebook,11,120,1394.33,
+ORD-02271,2024-10-14,South,Backpack,3,1800,5369.36,repeat customer
+ORD-02272,2024-01-29,West,Water Bottle,8,400,3224.91,
+ORD-02273,2024-11-18,South,Backpack,8,1800,14449.83,repeat customer
+ORD-02274,2024-09-19,North,Desk Lamp,8,950,6868.80,repeat customer
+ORD-02275,2024-02-13,East,Headphones,7,2500,15755.37,<script>alert('hi')</script>
+ORD-02276,2024-01-25,South,Pen Set,13,80,1004.13,gift wrap
+ORD-02277,2024-07-25,South,Headphones,20,2500,48775.20,<script>alert('hi')</script>
+ORD-02278,2024-12-13,North,Backpack,3,1800,5374.92,repeat customer
+ORD-02279,2024-08-24,South,Backpack,14,1800,23552.22,"quote ""as agreed"""
+ORD-02280,2024-10-10,West,Headphones,16,2500,42509.74,gift wrap
+ORD-02281,2024-09-14,South,Water Bottle,11,400,4081.74,
+ORD-02282,2024-08-31,North,Backpack,15,1800,26567.41,
+ORD-02283,2024-06-06,North,Headphones,15,2500,36380.49,"quote ""as agreed"""
+ORD-02284,2024-01-30,North,Notebook,2,120,243.41,gift wrap
+ORD-02285,2024-05-14,East,Desk Lamp,8,950,7638.51,ship to O'Brien Rd
+ORD-02286,2024-03-07,North,Backpack,14,1800,27638.62,
+ORD-02287,2024-02-05,East,Notebook,8,120,1020.47,"quote ""as agreed"""
+ORD-02288,2024-07-23,East,Desk Lamp,3,950,2614.46,
+ORD-02289,2024-06-08,North,Water Bottle,10,400,-3976.31,<script>alert('hi')</script>
+ORD-02290,2024-10-25,West,Backpack,13,1800,24201.28,repeat customer
+ORD-02291,25/07/2024,North,Desk Lamp,20,950,19327.43,"quote ""as agreed"""
+ORD-02292,2024-12-26,North,Pen Set,16,80,1260.24,
+ORD-02293,2024-02-04,North,Desk Lamp,2,950,1844.73,
+ORD-02294,2024-10-09,East,Headphones,3,2500,-7130.00,repeat customer
+ORD-02295,2024-11-06,South,Desk Lamp,10,950,8745.91,
+ORD-02296,2024-10-02,West,Water Bottle,14,400,5503.25,Café order – rush
+ORD-02297,2024-12-11,South,Pen Set,1,80,74.26,repeat customer
+ORD-02298,2024-04-17,South,Headphones,17,2500,44844.47,"quote ""as agreed"""
+ORD-02299,2024-01-30,North,Headphones,17,2500,40830.50,Café order – rush
+ORD-02300,2024-02-26,South,Backpack,15,1800,26163.87,"quote ""as agreed"""
+ORD-02301,2024-02-16,North,Headphones,2,2500,5232.34,
+ORD-02302,2024-06-08,West,Pen Set,4,80,332.10,
+ORD-02303,2024-03-29,South,Notebook,17,120,1964.27,
+ORD-02304,2024-06-19,North,Water Bottle,12,400,4667.95,<script>alert('hi')</script>
+ORD-02305,2024-09-29,West,Notebook,4,120,517.80,call before delivery
+ORD-02306,2024-05-01,North,Water Bottle,10,400,3860.43,"quote ""as agreed"""
+ORD-02307,2024-11-02,North,Desk Lamp,11,950,,call before delivery
+ORD-02308,,South,Backpack,20,1800,33071.64,call before delivery
+ORD-02309,2024-09-14,West,Pen Set,5,80,414.96,"quote ""as agreed"""
+ORD-02310,2024-07-14,West,Pen Set,1,80,NaN,
+ORD-02311,2024-12-04,West,Water Bottle,12,400,4792.59,<script>alert('hi')</script>
+ORD-02312,2024-05-16,East,Headphones,11,2500,28136.27,gift wrap
+ORD-02313,2024-06-20,North,Pen Set,2,80,154.60,call before delivery
+ORD-02314,2024-01-23,South,Desk Lamp,18,950,15488.09,<script>alert('hi')</script>
+ORD-02315,23-Jul-2024,North,Water Bottle,20,400,8745.66,call before delivery
+ORD-02316,2024-07-19,West,Water Bottle,9,400,3387.05,<script>alert('hi')</script>
+ORD-02317,2024-09-28,East,Headphones,17,2500,42013.78,
+ORD-02318,2024-07-18,South,Water Bottle,,400,786.67,Café order – rush
+ORD-02319,2024-07-14,West,Notebook,9,120,,
+ORD-02320,2024-05-11,South,Headphones,19,2500,50327.57,
+ORD-02321,2024-05-12,South,Backpack,19,1800,35780.57,call before delivery
+ORD-02322,2024-08-30,South,Pen Set,2,80,170.24,Café order – rush
+ORD-02323,2024-09-21,East,Backpack,17,1800,32119.07,ship to O'Brien Rd
+ORD-02324,2024-09-30,South,Water Bottle,6,400,2578.87,
+ORD-02325,2024-07-10,East,Pen Set,2,80,157.98,call before delivery
+ORD-02326,2024-11-23,East,Backpack,17,1800,27653.05,repeat customer
+ORD-02327,2024-10-21,South,Backpack,11,1800,18400.37,"quote ""as agreed"""
+ORD-02328,2024-11-17,West,Pen Set,17,80,1414.41,Café order – rush
+ORD-02329,2024-07-16,North,Water Bottle,6,400,2365.70,repeat customer
+ORD-02330,2024-04-24,North,Desk Lamp,20,950,18643.78,<script>alert('hi')</script>
+ORD-02331,2024-09-28,North,Headphones,14,2500,33163.08,
+ORD-02332,2024-07-21,West,Pen Set,2,80,146.75,Café order – rush
+ORD-02333,2024-04-20,North,Desk Lamp,20,950,17736.09,
+ORD-02334,2024-11-20,South,Headphones,2,2500,4774.59,<script>alert('hi')</script>
+ORD-02335,2024-05-03,West,Desk Lamp,17,950,15824.20,
+ORD-02336,2024-10-26,West,Pen Set,13,80,944.51,<script>alert('hi')</script>
+ORD-02337,2024-03-10,East,Notebook,11,120,1385.84,repeat customer
+ORD-02338,2024-07-28,North,Backpack,5,1800,9545.44,ship to O'Brien Rd
+ORD-02339,02/12/2024,West,Pen Set,18,80,1366.82,
+ORD-02340,2024-08-01,West,Desk Lamp,7,950,,repeat customer
+ORD-02341,2024-02-12,North,Water Bottle,19,400,7899.39,gift wrap
+ORD-02342,2024-02-19,North,Desk Lamp,20,950,20066.86,
+ORD-02343,2024-09-21,West,Water Bottle,11,400,4543.41,
+ORD-02344,2024-07-04,South,Desk Lamp,10,950,9928.04,<script>alert('hi')</script>
+ORD-02345,2024-02-22,South,Desk Lamp,14,950,14099.87,<script>alert('hi')</script>
+ORD-02346,2024-07-26,South,Water Bottle,8,400,3071.01,
+ORD-02347,2024-06-19,East,Water Bottle,9,400,3572.89,Café order – rush
+ORD-02348,2024-09-04,East,Pen Set,6,80,465.83,<script>alert('hi')</script>
+ORD-02349,2024-06-07,East,Notebook,13,120,1570.60,repeat customer
+ORD-02350,2024-07-09,East,Desk Lamp,18,950,15450.37,ship to O'Brien Rd
+ORD-02351,2024-07-28,East,Backpack,2,1800,3351.88,ship to O'Brien Rd
+ORD-02352,22/11/2024,North,Desk Lamp,15,950,12830.36,gift wrap
+ORD-02353,2024-09-09,South,Water Bottle,19,400,7583.49,
+ORD-02354,2024-09-22,,Water Bottle,7,400,2799.62,
+ORD-02355,2024-08-23,North,Desk Lamp,20,₹950,19675.66,ship to O'Brien Rd
+ORD-02356,2024-05-18,South,Headphones,2,2500,4988.88,
+ORD-02357,2024-07-05,West,Headphones,8,2500,20658.33,
+ORD-02358,2024-07-07,North,Water Bottle,12,400,4995.10,
+ORD-02359,2024-04-19,North,Pen Set,12,80,1021.49,<script>alert('hi')</script>
+ORD-02360,2024-11-21,South,Desk Lamp,20,950,17961.50,
+ORD-02361,2024-12-21,North,Desk Lamp,17,950,17646.35,ship to O'Brien Rd
+ORD-02362,2024-08-11,North,Desk Lamp,18,950,18173.06,
+ORD-02363,2024-08-29,South,Headphones,9,2500,23433.94,
+ORD-02364,2024-03-05,South,Water Bottle,5,400,2182.77,
+ORD-02365,2024-02-25,South,Headphones,16,2500,42317.74,repeat customer
+ORD-02366,2024-08-19,South,Desk Lamp,9,950,8340.60,Café order – rush
+ORD-02367,2024-02-19,East,Water Bottle,18,400,7438.66,repeat customer
+ORD-02368,2024-03-14,North,Notebook,7,120,848.84,
+ORD-02369,2024-10-01,South,Desk Lamp,16,950,16534.86,repeat customer
+ORD-02370,2024-05-16,South,Notebook,,120,442.68,gift wrap
+ORD-02371,27/08/2024,West,Backpack,2,1800,3767.27,call before delivery
+ORD-02372,2024-03-14,West,Water Bottle,20,400,7797.08,
+ORD-02373,2024-05-24,North,Headphones,17,2500,45437.22,ship to O'Brien Rd
+ORD-02374,2024-03-23,East,Backpack,10,1800,18555.63,repeat customer
+ORD-02375,2024-12-16,East,Pen Set,20,80,1658.15,ship to O'Brien Rd
+ORD-02376,2024-01-08,North,Pen Set,10,80,740.91,repeat customer
+ORD-02377,2024-10-13,South,Headphones,4,"₹2,500",9375.66,repeat customer
+ORD-02378,2024-05-06,South,Notebook,20,120,2279.50,
+ORD-02379,2024-08-04,East,Headphones,1,2500,2525.20,
+ORD-02380,2024-07-07,South,Headphones,8,2500,21024.02,repeat customer
+ORD-02381,2024-02-13,South,Backpack,10,1800,17417.06,gift wrap
+ORD-02382,2024-01-25,North,Notebook,5,120,649.31,"quote ""as agreed"""
+ORD-02383,2024-01-07,West,Pen Set,11,80,934.21,
+ORD-02384,2024-13-45,North,Backpack,17,1800,,gift wrap
+ORD-02385,2024-10-03,West,Pen Set,18,80,1466.09,<script>alert('hi')</script>
+ORD-02386,25/08/2024,East,Water Bottle,14,400,6000.63,<script>alert('hi')</script>
+ORD-02387,2024-12-12,West,Water Bottle,8,400,3419.37,<script>alert('hi')</script>
+ORD-02388,2024-06-19,North,Backpack,9,1800,17802.33,<script>alert('hi')</script>
+ORD-02389,2024-04-21,North,Notebook,18,120,1984.06,"quote ""as agreed"""
+ORD-02390,2024-07-03,North,Headphones,10,2500,26513.73,<script>alert('hi')</script>
+ORD-02391,2024-07-04,West,Desk Lamp,12,950,11213.79,ship to O'Brien Rd
+ORD-02392,2024-01-13,West,Pen Set,19,80,1371.17,"quote ""as agreed"""
+ORD-02393,2024-11-01,West,Pen Set,14,80,1023.16,<script>alert('hi')</script>
+ORD-02394,2024-08-12,South,Headphones,12,2500,29810.32,"quote ""as agreed"""
+ORD-02395,2024-04-04,North,Water Bottle,15,400,5483.71,call before delivery
+ORD-02396,2024-03-29,South,Pen Set,2,80,157.02,
+ORD-02397,2024-04-20,,Headphones,19,2500,12abc,gift wrap
+ORD-02398,2024-12-28,South,Pen Set,1,80,78.38,gift wrap
+ORD-02399,2024-02-16,,Pen Set,17,80,1317.47,Café order – rush
+ORD-02400,2024-06-21,South,Desk Lamp,18,950,17027.76,
+ORD-02401,2024-05-11,South,Pen Set,N/A,80,931.21,
+ORD-02402,2024-07-05,West,Desk Lamp,1,950,946.14,
+ORD-02403,2024-04-27,South,Water Bottle,19,₹400,8285.45,repeat customer
+ORD-02404,2024-10-13,South,Backpack,14,1800,27329.42,Café order – rush
+ORD-02405,2024-09-11,East,Pen Set,3,80,228.08,ship to O'Brien Rd
+ORD-02406,2024-10-22,South,Backpack,10,1800,,
+ORD-02407,2024-12-25,North,Notebook,N/A,120,-723.90,<script>alert('hi')</script>
+ORD-02408,,East,Desk Lamp,12,950,12419.42,gift wrap
+ORD-02409,2024-07-26,North,Backpack,5,1800,9674.00,gift wrap
+ORD-02410,2024-03-28,West,Notebook,8,120,1030.60,
+ORD-02411,2024-04-13,West,Notebook,19,120,2493.22,
+ORD-02412,2024-08-06,South,Notebook,3,120,386.24,Café order – rush
+ORD-02413,26/12/2024,East,Notebook,20,120,2464.45,<script>alert('hi')</script>
+ORD-02414,2024-12-08,South,Pen Set,1,80,81.88,
+ORD-02415,2024-04-26,North,Water Bottle,5,400,2187.81,Café order – rush
+ORD-02416,2024-03-23,East,Headphones,4,2500,9687.34,ship to O'Brien Rd
+ORD-02417,2024-08-15,West,Notebook,10,120,1224.37,gift wrap
+ORD-02418,2024-04-03,West,Desk Lamp,18,950,18162.60,
+ORD-02419,2024-04-01,West,Desk Lamp,19,950,19683.42,<script>alert('hi')</script>
+ORD-02420,2024-03-28,East,Desk Lamp,10,950,8913.41,call before delivery
+ORD-02421,2024-07-04,East,Backpack,4,1800,6966.08,"quote ""as agreed"""
+ORD-02422,2024-01-25,East,Pen Set,9,80,781.65,
+ORD-02423,2024-10-17,East,Desk Lamp,1,950,969.27,
+ORD-02424,2024-03-05,South,Desk Lamp,9,950,8710.57,gift wrap
+ORD-02425,2024-11-18,South,Notebook,4,120,497.16,gift wrap
+ORD-02426,2024-02-03,North,Desk Lamp,16,950,16598.40,
+ORD-02427,2024-04-21,West,Desk Lamp,20,950,19104.46,ship to O'Brien Rd
+ORD-02428,2024-06-14,West,Headphones,14,2500,36290.74,
+ORD-02429,2024-03-27,East,Pen Set,14,80,-,"quote ""as agreed"""
+ORD-02430,2024-01-09,West,Headphones,2,2500,5203.17,
+ORD-02431,2024-08-19,East,Headphones,16,2500,37995.36,
+ORD-02432,2024-03-04,North,Backpack,20,1800,35947.51,
+ORD-02433,2024-11-14,West,Pen Set,10,80,872.95,
+ORD-02434,2024-12-18,South,Desk Lamp,6,950,5715.26,
+ORD-02435,2024-05-06,South,Notebook,16,120,1817.26,gift wrap
+ORD-02436,2024-08-31,South,Desk Lamp,1,950,975.37,
+ORD-02437,2024-07-23,North,Notebook,5,120,569.82,<script>alert('hi')</script>
+ORD-02438,2024-01-28,East,Headphones,9,2500,23103.22,call before delivery
+ORD-02439,2024-06-05,East,Notebook,3,120,366.75,<script>alert('hi')</script>
+ORD-02440,2024-09-21,East,Notebook,19,120,2093.56,gift wrap
+ORD-02441,2024-02-05,East,Headphones,16,2500,36880.60,
+ORD-02442,2024-09-20,North,Water Bottle,5,400,2192.26,ship to O'Brien Rd
+ORD-02443,2024-12-08,South,Headphones,,2500,32350.66,gift wrap
+ORD-02444,2024-03-19,East,Notebook,11,120,1348.28,ship to O'Brien Rd
+ORD-02445,2024-04-20,North,Water Bottle,14,400,5066.86,call before delivery
+ORD-02446,2024-02-19,North,Notebook,7,120,856.78,
+ORD-02447,2024-07-16,West,Pen Set,18,80,1446.62,call before delivery
+ORD-02448,2024-11-01,West,Notebook,12,120,1476.78,
+ORD-02449,2024-09-25,West,Notebook,,120,119.50,
+ORD-02450,2024-11-19,North,Pen Set,15,80,1130.59,
+ORD-02451,2024-01-26,East,Backpack,20,1800,35592.80,<script>alert('hi')</script>
+ORD-02452,2024-02-10,West,Desk Lamp,13,950,12302.59,repeat customer
+ORD-02453,2024-09-08,North,Notebook,3,120,354.60,
+ORD-02454,2024-02-15,South,Headphones,2,2500,5416.11,repeat customer
+ORD-02455,2024-08-07,West,Desk Lamp,7,950,6304.50,Café order – rush
+ORD-02456,2024-09-03,North,Notebook,19,120,,ship to O'Brien Rd
+ORD-02457,2024-01-30,,Pen Set,12,80,1047.42,
+ORD-02458,2024-12-06,West,Headphones,19,2500,51474.83,
+ORD-02459,2024-07-19,East,Pen Set,1,80,,repeat customer
+ORD-02460,2024-03-21,North,Headphones,10,2500,25592.31,ship to O'Brien Rd
+ORD-02461,2024-07-30,West,Desk Lamp,9,950,8401.76,repeat customer
+ORD-02462,not a date,South,Backpack,11,1800,20322.07,<script>alert('hi')</script>
+ORD-02463,2024-08-19,North,Notebook,6,120,699.76,Café order – rush
+ORD-02464,2024-01-07,North,Desk Lamp,3,950,2800.31,gift wrap
+ORD-02465,2024-09-05,South,Water Bottle,20,400,7253.83,gift wrap
+ORD-02466,2024-06-04,East,Desk Lamp,5,950,4289.07,
+ORD-02467,2024-05-05,North,Backpack,8,1800,14290.63,
+ORD-02468,2024-07-13,East,Water Bottle,13,400,5336.55,
+ORD-02469,2024-01-13,North,Desk Lamp,15,950,15477.44,call before delivery
+ORD-02470,2024-12-02,West,Water Bottle,20,400,7428.82,
+ORD-02471,2024-05-14,North,Notebook,9,120,992.14,repeat customer
+ORD-02472,2024-02-13,West,Water Bottle,8,400,2980.21,call before delivery
+ORD-02473,2024-01-01,West,Headphones,9,2500,23815.73,
+ORD-02474,2024-04-11,West,Notebook,9,120,1146.81,<script>alert('hi')</script>
+ORD-02475,2024-11-03,South,Desk Lamp,2,950,1882.90,"quote ""as agreed"""
+ORD-02476,2024-09-25,North,Backpack,1,1800,1837.54,ship to O'Brien Rd
+ORD-02477,2024-07-26,South,Desk Lamp,3,950,2567.45,ship to O'Brien Rd
+ORD-02478,2024-10-11,South,Notebook,12,120,1436.81,ship to O'Brien Rd
+ORD-02479,2024-06-19,South,Desk Lamp,14,950,14062.90,Café order – rush
+ORD-02480,2024-07-23,East,Backpack,20,1800,34562.26,
+ORD-02481,13/01/2024,North,Notebook,15,120,1907.26,"quote ""as agreed"""
+ORD-02482,2024-06-07,North,Headphones,7,2500,18581.31,call before delivery
+ORD-02483,2024-01-27,North,Notebook,9,120,1105.07,"quote ""as agreed"""
+ORD-02484,2024-08-04,East,Backpack,9,1800,15316.94,
+ORD-02485,2024-04-27,South,Headphones,4,2500,9960.09,gift wrap
+ORD-02486,2024-11-12,West,Water Bottle,19,400,7727.08,<script>alert('hi')</script>
+ORD-02487,2024-11-27,East,Backpack,8,1800,13258.85,
+ORD-02488,2024-04-10,West,Water Bottle,18,400,7664.66,ship to O'Brien Rd
+ORD-02489,2024-07-17,North,Headphones,15,2500,38728.36,<script>alert('hi')</script>
+ORD-02490,2024-11-07,East,Backpack,15,1800,29361.02,"quote ""as agreed"""
+ORD-02491,2024-03-05,West,Notebook,4,120,469.30,gift wrap
+ORD-02492,2024-07-20,,Desk Lamp,13,950,11630.31,<script>alert('hi')</script>
+ORD-02493,2024-01-03,South,Pen Set,20,80,1669.55,"quote ""as agreed"""
+ORD-02494,2024-03-18,North,Desk Lamp,11,950,9668.64,ship to O'Brien Rd
+ORD-02495,2024-02-11,North,Notebook,2,120,219.99,"quote ""as agreed"""
+ORD-02496,2024-11-16,,Headphones,3,2500,6958.97,Café order – rush
+ORD-02497,2024-06-04,West,Water Bottle,13,400,5545.50,gift wrap
+ORD-02498,2024-09-27,West,Notebook,16,120,1987.69,repeat customer
+ORD-02499,2024-08-02,South,Notebook,N/A,120,2226.48,gift wrap
+ORD-02500,2024-03-03,South,Backpack,13,1800,21355.45,call before delivery
+ORD-02501,2024-11-07,North,Pen Set,14,80,1121.51,"quote ""as agreed"""
+ORD-02502,2024-12-07,East,Notebook,19,120,2386.78,<script>alert('hi')</script>
+ORD-02503,2024-02-22,East,Pen Set,13,80,1120.72,repeat customer
+ORD-02504,2024-04-04,East,Headphones,14,2500,36831.27,Café order – rush
+ORD-02505,2024-08-10,North,Headphones,4,2500,10744.22,Café order – rush
+ORD-02506,2024-01-13,East,Desk Lamp,18,950,17098.91,ship to O'Brien Rd
+ORD-02507,2024-07-17,North,Water Bottle,6,400,2534.40,gift wrap
+ORD-02508,2024-07-18,West,Pen Set,N/A,80,1120.39,
+ORD-02509,2024-03-30,West,Headphones,11,2500,26645.85,"quote ""as agreed"""
+ORD-02510,2024-07-02,South,Backpack,19,1800,32940.39,
+ORD-02511,2024-07-19,South,Backpack,1,1800,1698.63,
+ORD-02512,2024-07-05,,Headphones,,2500,26151.42,Café order – rush
+ORD-02513,2024-12-24,South,Pen Set,19,80,1661.06,
+ORD-02514,2024-08-29,West,Water Bottle,17,400,6833.68,
+ORD-02515,,West,Notebook,16,120,1779.35,
+ORD-02516,2024-08-11,South,Water Bottle,6,400,2395.23,repeat customer
+ORD-02517,2024-02-16,,Water Bottle,1,400,361.47,
+ORD-02518,06-Mar-2024,South,Backpack,6,1800,10169.26,ship to O'Brien Rd
+ORD-02519,2024-09-27,East,Pen Set,1,80,83.29,
+ORD-02520,2024-10-21,North,Notebook,14,120,1769.89,call before delivery
+ORD-02521,2024-11-09,North,Backpack,18,1800,32213.67,
+ORD-02522,2024-07-18,,Notebook,14,120,1643.36,
+ORD-02523,2024-06-17,West,Water Bottle,4,₹400,1596.74,repeat customer
+ORD-02524,2024-01-04,West,Desk Lamp,1,950,979.30,
+ORD-02525,2024-06-17,South,Pen Set,11,80,857.56,Café order – rush
+ORD-02526,2024-04-08,East,Backpack,15,1800,27734.19,
+ORD-02527,23-Jun-2024,North,Water Bottle,7,400,2853.66,ship to O'Brien Rd
+ORD-02528,2024-08-10,South,Pen Set,15,80,1186.88,
+ORD-02529,2024-01-11,North,Desk Lamp,12,950,12089.34,gift wrap
+ORD-02530,2024-03-08,East,Pen Set,20,80,1757.33,
+ORD-02531,2024-06-15,West,Water Bottle,12,400,4860.99,<script>alert('hi')</script>
+ORD-02532,2024-10-30,East,Headphones,8,2500,18073.29,ship to O'Brien Rd
+ORD-02533,2024-02-23,East,Notebook,13,120,1404.18,repeat customer
+ORD-02534,2024-12-03,West,Pen Set,6,80,-,call before delivery
+ORD-02535,2024-12-14,,Water Bottle,3,400,1111.18,
+ORD-02536,2024-05-06,South,Water Bottle,19,400,7758.53,
+ORD-02537,2024-04-18,East,Headphones,16,2500,41985.35,"quote ""as agreed"""
+ORD-02538,2024-09-19,East,Backpack,17,1800,31530.00,"quote ""as agreed"""
+ORD-02539,2024-01-05,East,Water Bottle,1,400,397.62,gift wrap
+ORD-02540,2024-05-21,East,Desk Lamp,15,950,14774.37,"quote ""as agreed"""
+ORD-02541,2024-03-28,East,Water Bottle,14,400,5191.69,
+ORD-02542,2024-12-18,South,Backpack,1,1800,1957.21,ship to O'Brien Rd
+ORD-02543,2024-11-22,West,Water Bottle,19,400,7965.97,<script>alert('hi')</script>
+ORD-02544,2024-06-17,East,Backpack,18,1800,29626.84,
+ORD-02545,2024-01-30,West,Backpack,4,1800,7641.17,ship to O'Brien Rd
+ORD-02546,2024-01-14,West,Water Bottle,1,400,399.35,
+ORD-02547,2024-04-30,South,Pen Set,14,80,1138.29,
+ORD-02548,2024-12-15,East,Backpack,11,1800,18594.45,gift wrap
+ORD-02549,2024-10-31,South,Water Bottle,2,400,750.14,
+ORD-02550,2024-10-26,West,Pen Set,12,80,924.28,<script>alert('hi')</script>
+ORD-02551,2024-05-08,East,Notebook,7,120,826.24,Café order – rush
+ORD-02552,2024-10-15,West,Pen Set,20,₹80,1469.84,call before delivery
+ORD-02553,2024-02-22,South,Pen Set,6,80,515.45,repeat customer
+ORD-02554,2024-05-07,East,Water Bottle,1,400,434.94,repeat customer
+ORD-02555,2024-08-07,East,Notebook,16,120,1919.39,
+ORD-02556,2024-10-22,,Water Bottle,20,400,7298.75,call before delivery
+ORD-02557,2024-12-04,South,Pen Set,14,80,1207.31,ship to O'Brien Rd
+ORD-02558,2024-01-12,West,Backpack,4,"₹1,800",7139.39,ship to O'Brien Rd
+ORD-02559,2024-02-25,South,Pen Set,2,80,145.79,
+ORD-02560,2024-07-14,South,Pen Set,3,80,242.46,"quote ""as agreed"""
+ORD-02561,2024-03-21,,Headphones,13,"₹2,500",34340.78,call before delivery
+ORD-02562,2024-01-22,South,Notebook,18,120,1998.40,gift wrap
+ORD-02563,2024-11-13,West,Headphones,11,2500,27450.48,
+ORD-02564,2024-12-20,North,Water Bottle,17,400,7249.61,gift wrap
+ORD-02565,2024-05-12,South,Backpack,14,1800,24523.00,
+ORD-02566,2024-11-27,East,Backpack,9,1800,16005.47,<script>alert('hi')</script>
+ORD-02567,2024-12-21,,Desk Lamp,abc,950,15184.25,
+ORD-02568,2024-08-10,West,Notebook,5,120,648.59,"quote ""as agreed"""
+ORD-02569,2024-03-10,North,Headphones,5,2500,-13483.95,
+ORD-02570,09/09/2024,West,Notebook,17,120,2220.13,ship to O'Brien Rd
+ORD-02571,2024-07-24,East,Backpack,10,1800,19798.05,
+ORD-02572,2024-05-14,East,Pen Set,18,80,1493.20,"quote ""as agreed"""
+ORD-02573,2024-02-13,,Headphones,18,2500,46628.22,ship to O'Brien Rd
+ORD-02574,23/07/2024,West,Backpack,4,1800,7008.51,
+ORD-02575,2024-04-25,West,Backpack,18,1800,32911.80,repeat customer
+ORD-02576,2024-02-04,North,Notebook,2,120,260.47,
+ORD-02577,2024-03-31,East,Notebook,12,120,1309.84,"quote ""as agreed"""
+ORD-02578,2024-03-30,West,Notebook,3,120,324.86,ship to O'Brien Rd
+ORD-02579,2024-12-05,West,Desk Lamp,8,950,8159.60,ship to O'Brien Rd
+ORD-02580,2024-12-14,East,Headphones,9,2500,23260.27,
+ORD-02581,2024-12-14,South,Desk Lamp,3,950,3078.26,call before delivery
+ORD-02582,2024-07-21,West,Water Bottle,19,400,8012.60,Café order – rush
+ORD-02583,2024-06-12,West,Desk Lamp,16,950,16011.14,call before delivery
+ORD-02584,2024-09-21,North,Headphones,3,2500,7162.55,gift wrap
+ORD-02585,2024-01-24,North,Water Bottle,12,400,4746.44,
+ORD-02586,2024-06-11,North,Pen Set,15,80,1256.79,
+ORD-02587,2024-09-30,East,Desk Lamp,14,950,13771.96,
+ORD-02588,2024-09-13,South,Water Bottle,7,400,,
+ORD-02589,2024-12-02,West,Backpack,9,1800,15081.76,
+ORD-02590,2024-10-21,North,Headphones,16,2500,43371.11,ship to O'Brien Rd
+ORD-02591,2024-05-10,North,Headphones,18,2500,43020.37,Café order – rush
+ORD-02592,2024-05-09,North,Water Bottle,16,400,7022.93,gift wrap
+ORD-02593,2024-06-25,West,Pen Set,20,80,1706.30,<script>alert('hi')</script>
+ORD-02594,2024-10-28,East,Headphones,17,2500,42168.71,
+ORD-02595,2024-05-22,South,Notebook,4,120,520.13,
+ORD-02596,2024-12-19,East,Desk Lamp,20,950,18752.86,
+ORD-02597,2024-09-21,East,Headphones,1,2500,2305.44,call before delivery
+ORD-02598,2024-03-01,South,Notebook,12,120,1413.96,<script>alert('hi')</script>
+ORD-02599,2024-01-15,North,Water Bottle,14,400,5415.52,<script>alert('hi')</script>
+ORD-02600,2024-11-21,West,Desk Lamp,8,950,7217.08,<script>alert('hi')</script>
+ORD-02601,2024-02-04,East,Headphones,14,2500,35950.18,
+ORD-02602,2024-03-07,West,Water Bottle,3,400,1130.33,call before delivery
+ORD-02603,2024-08-01,East,Notebook,11,120,1372.00,
+ORD-02604,2024-09-24,South,Notebook,6,120,738.50,call before delivery
+ORD-02605,2024-08-09,East,Headphones,2,2500,5411.33,Café order – rush
+ORD-02606,2024-03-21,North,Water Bottle,18,400,7905.81,"quote ""as agreed"""
+ORD-02607,2024-10-03,South,Headphones,15,"₹2,500",34433.78,Café order – rush
+ORD-02608,2024-08-11,West,Desk Lamp,5,950,5023.27,
+ORD-02609,2024-08-29,North,Pen Set,17,80,1349.87,
+ORD-02610,17/05/2024,South,Backpack,3,1800,5893.12,ship to O'Brien Rd
+ORD-02611,2024-12-26,South,Desk Lamp,16,950,14417.86,ship to O'Brien Rd
+ORD-02612,2024-12-31,East,Notebook,2,120,228.23,ship to O'Brien Rd
+ORD-02613,2024-12-08,West,Pen Set,N/A,80,484.87,
+ORD-02614,2024-06-18,South,Desk Lamp,11,950,10011.84,gift wrap
+ORD-02615,2024-02-23,North,Notebook,14,120,1672.16,ship to O'Brien Rd
+ORD-02616,2024-08-23,East,Pen Set,abc,80,1330.34,ship to O'Brien Rd
+ORD-02617,2024-08-08,North,Backpack,8,1800,13556.82,<script>alert('hi')</script>
+ORD-02618,2024-01-15,East,Notebook,14,120,1811.43,call before delivery
+ORD-02619,2024-05-20,East,Notebook,16,120,1886.43,
+ORD-02620,2024-10-21,West,Headphones,1,2500,2596.90,Café order – rush
+ORD-02621,2024-11-15,,Notebook,11,120,1423.25,<script>alert('hi')</script>
+ORD-02622,23/05/2024,West,Pen Set,11,80,863.05,repeat customer
+ORD-02623,2024-11-07,East,Backpack,20,1800,35050.25,repeat customer
+ORD-02624,2024-01-14,West,Desk Lamp,11,950,11278.79,gift wrap
+ORD-02625,2024-02-08,East,Headphones,8,2500,20497.06,<script>alert('hi')</script>
+ORD-02626,2024-12-08,West,Headphones,17,2500,39644.22,gift wrap
+ORD-02627,2024-07-10,North,Backpack,10,1800,18757.92,"quote ""as agreed"""
+ORD-02628,2024-05-14,South,Backpack,7,1800,11404.82,
+ORD-02629,2024-02-16,South,Pen Set,10,80,860.49,
+ORD-02630,2024-10-21,North,Desk Lamp,3,950,2665.34,"quote ""as agreed"""
+ORD-02631,2024-02-01,East,Water Bottle,1,400,382.59,call before delivery
+ORD-02632,2024-01-05,North,Notebook,18,120,2332.82,Café order – rush
+ORD-02633,2024-12-29,West,Desk Lamp,16,950,13888.72,
+ORD-02634,2024-05-28,South,Pen Set,4,80,337.15,
+ORD-02635,2024-02-17,South,Desk Lamp,19,950,19347.06,
+ORD-02636,2024-10-23,South,Backpack,14,1800,24202.17,
+ORD-02637,2024-02-05,South,Water Bottle,7,400,2627.63,call before delivery
+ORD-02638,2024-09-07,North,Notebook,10,120,1313.71,"quote ""as agreed"""
+ORD-02639,2024-02-17,West,Headphones,4,2500,10775.71,
+ORD-02640,2024-01-12,East,Pen Set,9,80,785.19,call before delivery
+ORD-02641,2024-06-25,South,Notebook,16,120,1902.25,
+ORD-02642,2024-03-01,North,Backpack,1,1800,1920.69,<script>alert('hi')</script>
+ORD-02643,2024-01-16,South,Pen Set,19,80,NaN,"quote ""as agreed"""
+ORD-02644,2024-07-22,South,Backpack,20,"₹1,800",34168.06,Café order – rush
+ORD-02645,2024-01-05,East,Notebook,19,120,2277.94,
+ORD-02646,2024-07-26,South,Desk Lamp,18,950,18051.84,"quote ""as agreed"""
+ORD-02647,2024-09-09,South,Pen Set,5,80,401.97,
+ORD-02648,2024-04-18,North,Headphones,4,2500,10788.33,call before delivery
+ORD-02649,2024-09-10,West,Headphones,18,2500,48679.88,Café order – rush
+ORD-02650,2024-01-09,West,Notebook,9,120,1122.09,<script>alert('hi')</script>
+ORD-02651,2024-12-30,North,Desk Lamp,4,950,3718.60,"quote ""as agreed"""
+ORD-02652,2024-08-14,,Backpack,13,1800,21234.64,repeat customer
+ORD-02653,2024-08-12,South,Pen Set,18,80,1328.47,gift wrap
+ORD-02654,2024-07-16,South,Notebook,7,120,903.41,gift wrap
+ORD-02655,2024-07-13,South,Desk Lamp,9,950,7995.02,
+ORD-02656,2024-09-12,South,Backpack,3,1800,5927.73,repeat customer
+ORD-02657,17/10/2024,South,Desk Lamp,14,950,14065.89,
+ORD-02658,2024-03-18,West,Backpack,5,1800,9821.63,<script>alert('hi')</script>
+ORD-02659,2024-04-16,North,Backpack,17,1800,28958.33,"quote ""as agreed"""
+ORD-02660,2024-04-09,North,Desk Lamp,1,950,1003.37,call before delivery
+ORD-02661,2024-12-20,East,Desk Lamp,1,950,900.70,
+ORD-02662,2024-12-19,East,Backpack,6,1800,11470.62,"quote ""as agreed"""
+ORD-02663,2024-06-30,East,Desk Lamp,10,950,9714.81,repeat customer
+ORD-02664,2024-08-10,North,Pen Set,16,80,1239.76,
+ORD-02665,2024-11-27,East,Backpack,7,1800,12022.67,call before delivery
+ORD-02666,2024-12-30,East,Pen Set,18,80,1361.65,
+ORD-02667,2024-01-28,North,Notebook,15,120,1624.59,
+ORD-02668,2024-05-02,East,Notebook,9,120,1160.77,ship to O'Brien Rd
+ORD-02669,2024-05-05,South,Desk Lamp,12,950,12024.42,call before delivery
+ORD-02670,2024-12-03,South,Backpack,19,1800,37575.86,<script>alert('hi')</script>
+ORD-02671,2024-02-19,North,Notebook,11,120,1324.66,Café order – rush
+ORD-02672,2024-10-31,West,Desk Lamp,3,950,3096.45,call before delivery
+ORD-02673,2024-05-11,North,Desk Lamp,13,950,12875.03,gift wrap
+ORD-02674,2024-03-29,East,Water Bottle,10,400,4298.53,gift wrap
+ORD-02675,31/02/2024,South,Water Bottle,16,400,6346.87,Café order – rush
+ORD-02676,2024-01-16,North,Headphones,6,2500,12abc,
+ORD-02677,2024-10-08,North,Pen Set,19,80,1564.56,
+ORD-02678,2024-01-08,North,Pen Set,16,80,1154.46,Café order – rush
+ORD-02679,2024-08-01,South,Water Bottle,14,400,5881.64,Café order – rush
+ORD-02680,2024-04-30,West,Desk Lamp,17,950,15411.36,"quote ""as agreed"""
+ORD-02681,2024-07-28,East,Desk Lamp,2,950,2033.92,ship to O'Brien Rd
+ORD-02682,2024-05-21,West,Notebook,20,120,2404.72,
+ORD-02683,2024-04-09,North,Desk Lamp,11,950,11003.25,
+ORD-02684,2024-03-05,East,Water Bottle,13,400,5369.83,
+ORD-02685,2024-08-24,North,Desk Lamp,2,950,1988.33,<script>alert('hi')</script>
+ORD-02686,2024-07-07,West,Notebook,5,120,581.11,
+ORD-02687,2024-07-23,South,Water Bottle,14,400,5712.54,repeat customer
+ORD-02688,2024-12-22,South,Backpack,6,1800,11390.39,
+ORD-02689,05/04/2024,South,Desk Lamp,19,950,16995.51,Café order – rush
+ORD-02690,2024-12-20,North,Headphones,10,2500,23212.87,
+ORD-02691,2024-12-15,East,Notebook,18,120,2327.29,Café order – rush
+ORD-02692,2024-11-16,East,Notebook,9,120,1072.38,call before delivery
+ORD-02693,2024-10-03,East,Notebook,13,120,1496.29,Café order – rush
+ORD-02694,2024-04-23,North,Backpack,20,1800,37214.76,"quote ""as agreed"""
+ORD-02695,2024-08-07,South,Headphones,17,2500,41332.61,<script>alert('hi')</script>
+ORD-02696,2024-11-10,South,Headphones,15,2500,40602.79,Café order – rush
+ORD-02697,2024-07-10,North,Headphones,14,2500,12abc,ship to O'Brien Rd
+ORD-02698,2024-09-25,East,Backpack,2,1800,3530.36,Café order – rush
+ORD-02699,2024-08-07,North,Pen Set,abc,80,404.76,
+ORD-02700,2024-03-19,South,Notebook,11,120,1281.05,"quote ""as agreed"""
+ORD-02701,2024-11-05,North,Desk Lamp,20,950,18379.90,call before delivery
+ORD-02702,2024-12-05,West,Water Bottle,12,400,4510.45,<script>alert('hi')</script>
+ORD-02703,2024-04-14,South,Backpack,13,1800,22096.37,
+ORD-02704,2024-03-28,East,Water Bottle,7,400,2679.65,
+ORD-02705,2024-10-24,West,Notebook,2,₹120,244.95,
+ORD-02706,2024-07-30,South,Desk Lamp,10,950,10305.55,<script>alert('hi')</script>
+ORD-02707,2024-08-08,West,Notebook,20,120,2482.03,repeat customer
+ORD-02708,2024-11-22,West,Headphones,4,2500,9028.96,gift wrap
+ORD-02709,2024-09-09,North,Pen Set,8,80,645.06,"quote ""as agreed"""
+ORD-02710,2024-01-16,North,Water Bottle,11,400,4302.31,
+ORD-02711,2024-10-30,East,Headphones,18,"₹2,500",45022.11,"quote ""as agreed"""
+ORD-02712,2024-04-19,North,Headphones,2,2500,4895.07,call before delivery
+ORD-02713,2024-05-23,South,Backpack,20,1800,39256.57,
+ORD-02714,2024-02-27,South,Pen Set,4,80,331.91,gift wrap
+ORD-02715,02/08/2024,East,Headphones,10,2500,24408.80,call before delivery
+ORD-02716,2024-10-25,North,Notebook,3,120,354.67,call before delivery
+ORD-02717,2024-12-23,North,Desk Lamp,12,₹950,11516.85,repeat customer
+ORD-02718,2024-09-23,West,Headphones,8,"₹2,500",18859.43,repeat customer
+ORD-02719,2024-01-01,West,Notebook,6,120,732.40,
+ORD-02720,2024-05-30,East,Desk Lamp,15,950,13094.83,"quote ""as agreed"""
+ORD-02721,2024-10-17,,Headphones,4,2500,9379.39,"quote ""as agreed"""
+ORD-02722,2024-04-23,West,Headphones,14,2500,35225.78,"quote ""as agreed"""
+ORD-02723,2024-03-16,,Headphones,7,2500,18224.97,"quote ""as agreed"""
+ORD-02724,2024-04-22,East,Pen Set,5,80,365.94,gift wrap
+ORD-02725,2024-01-22,West,Water Bottle,2,400,870.99,repeat customer
+ORD-02726,16/07/2024,West,Pen Set,15,80,1141.17,
+ORD-02727,2024-01-17,East,Water Bottle,8,400,3466.78,Café order – rush
+ORD-02728,2024-08-08,South,Notebook,3,120,363.03,"quote ""as agreed"""
+ORD-02729,2024-04-23,West,Pen Set,2,80,149.83,gift wrap
+ORD-02730,2024-12-05,North,Desk Lamp,20,950,18735.80,call before delivery
+ORD-02731,2024-10-07,North,Notebook,10,120,1166.23,
+ORD-02732,2024-07-26,North,Desk Lamp,4,950,4135.48,
+ORD-02733,2024-12-20,South,Headphones,16,2500,43256.29,call before delivery
+ORD-02734,2024-01-06,North,Headphones,11,2500,29307.49,"quote ""as agreed"""
+ORD-02735,2024-10-12,East,Pen Set,20,80,1644.06,gift wrap
+ORD-02736,2024-03-14,East,Water Bottle,20,400,8252.68,
+ORD-02737,2024-12-11,West,Water Bottle,18,400,6894.22,gift wrap
+ORD-02738,2024-09-10,West,Pen Set,17,80,1490.67,
+ORD-02739,2024-03-09,West,Water Bottle,13,400,4814.66,call before delivery
+ORD-02740,2024-01-05,West,Pen Set,10,80,815.48,ship to O'Brien Rd
+ORD-02741,2024-01-24,West,Notebook,13,120,1519.31,<script>alert('hi')</script>
+ORD-02742,2024-03-08,South,Pen Set,3,80,250.41,
+ORD-02743,2024-01-01,East,Headphones,11,2500,28848.19,
+ORD-02744,2024-06-22,South,Pen Set,1,80,82.01,call before delivery
+ORD-02745,2024-01-09,East,Desk Lamp,20,950,20750.58,"quote ""as agreed"""
+ORD-02746,2024-02-13,South,Pen Set,19,80,1450.34,gift wrap
+ORD-02747,2024-01-16,South,Headphones,16,2500,40095.95,
+ORD-02748,2024-12-18,North,Desk Lamp,2,950,1997.40,"quote ""as agreed"""
+ORD-02749,2024-12-14,North,Water Bottle,17,400,6229.90,call before delivery
+ORD-02750,2024-06-25,West,Backpack,17,1800,32266.82,repeat customer
+ORD-02751,2024-03-06,South,Backpack,7,1800,13273.46,gift wrap
+ORD-02752,2024-04-05,West,Pen Set,11,80,827.66,
+ORD-02753,2024-05-08,South,Desk Lamp,12,₹950,10785.31,call before delivery
+ORD-02754,2024-07-13,West,Backpack,2,1800,3623.24,
+ORD-02755,2024-01-29,South,Water Bottle,16,400,6161.16,
+ORD-02756,21/07/2024,East,Pen Set,4,80,330.03,ship to O'Brien Rd
+ORD-02757,2024-03-03,East,Notebook,13,120,1429.47,<script>alert('hi')</script>
+ORD-02758,2024-06-08,West,Desk Lamp,7,950,6269.00,gift wrap
+ORD-02759,2024-10-24,,Backpack,,1800,11064.00,gift wrap
+ORD-02760,2024-06-03,East,Headphones,20,2500,49963.34,
+ORD-02761,2024-08-31,South,Headphones,13,2500,29598.97,call before delivery
+ORD-02762,2024-04-22,North,Headphones,5,2500,12477.61,"quote ""as agreed"""
+ORD-02763,2024-06-13,North,Desk Lamp,18,950,15530.07,Café order – rush
+ORD-02764,2024-04-21,West,Backpack,18,1800,32162.34,repeat customer
+ORD-02765,2024-07-24,South,Notebook,1,120,124.13,ship to O'Brien Rd
+ORD-02766,2024-11-26,South,Headphones,5,2500,11552.31,gift wrap
+ORD-02767,2024-08-13,South,Pen Set,abc,80,1066.56,call before delivery
+ORD-02768,2024-10-18,,Pen Set,2,80,172.80,gift wrap
+ORD-02769,2024-11-30,East,Desk Lamp,7,950,7312.98,call before delivery
+ORD-02770,2024-06-28,North,Notebook,5,120,656.02,
+ORD-02771,2024-06-06,North,Headphones,8,2500,21157.14,Café order – rush
+ORD-02772,2024-11-16,North,Water Bottle,12,400,4869.81,call before delivery
+ORD-02773,2024-04-09,West,Water Bottle,13,400,5029.91,repeat customer
+ORD-02774,2024-10-13,North,Backpack,3,1800,5085.31,Café order – rush
+ORD-02775,2024-01-13,West,Headphones,18,2500,12abc,
+ORD-02776,2024-07-05,North,Notebook,2,₹120,220.51,call before delivery
+ORD-02777,2024-05-08,North,Backpack,20,1800,33525.24,call before delivery
+ORD-02778,2024-05-08,North,Backpack,20,1800,32533.55,<script>alert('hi')</script>
+ORD-02779,2024-11-09,West,Headphones,13,2500,32251.63,
+ORD-02780,2024-08-22,North,Pen Set,14,80,1076.44,gift wrap
+ORD-02781,2024-07-04,East,Headphones,16,2500,36828.47,<script>alert('hi')</script>
+ORD-02782,2024-01-04,North,Notebook,4,120,497.40,call before delivery
+ORD-02783,2024-01-03,West,Headphones,14,2500,35055.84,
+ORD-02784,2024-06-26,East,Headphones,13,2500,35661.02,gift wrap
+ORD-02785,2024-09-11,West,Notebook,6,120,703.11,call before delivery
+ORD-02786,2024-05-15,West,Water Bottle,11,400,4416.05,
+ORD-02787,2024-06-27,East,Desk Lamp,8,950,7258.12,repeat customer
+ORD-02788,2024-05-03,East,Backpack,16,1800,26897.20,"quote ""as agreed"""
+ORD-02789,2024-05-12,East,Desk Lamp,1,₹950,900.03,repeat customer
+ORD-02790,2024-04-27,West,Headphones,7,2500,16445.53,gift wrap
+ORD-02791,25/09/2024,South,Notebook,9,120,1147.27,call before delivery
+ORD-02792,2024-04-21,North,Pen Set,9,80,768.73,<script>alert('hi')</script>
+ORD-02793,2024-11-19,West,Headphones,14,2500,32941.83,call before delivery
+ORD-02794,2024-08-09,South,Water Bottle,2,400,759.62,repeat customer
+ORD-02795,2024-10-31,East,Pen Set,2,80,12abc,<script>alert('hi')</script>
+ORD-02796,2024-09-30,East,Notebook,20,120,2317.39,
+ORD-02797,2024-01-12,East,Backpack,3,1800,5144.67,
+ORD-02798,2024-06-23,South,Notebook,12,120,1488.58,<script>alert('hi')</script>
+ORD-02799,2024-06-20,North,Backpack,16,1800,26268.26,
+ORD-02800,2024-10-18,East,Notebook,5,120,562.51,
+ORD-02801,2024-05-07,East,Backpack,14,1800,27393.28,
+ORD-02802,17/11/2024,West,Backpack,12,1800,19954.54,ship to O'Brien Rd
+ORD-02803,2024-11-26,South,Desk Lamp,15,950,14338.09,call before delivery
+ORD-02804,17/06/2024,East,Water Bottle,10,400,4152.08,
+ORD-02805,2024-03-01,West,Backpack,18,1800,34791.99,Café order – rush
+ORD-02806,2024-06-15,East,Water Bottle,20,400,8004.12,"quote ""as agreed"""
+ORD-02807,2024-04-20,North,Notebook,7,120,923.30,
+ORD-02808,2024-08-04,East,Headphones,20,2500,52812.38,"quote ""as agreed"""
+ORD-02809,2024-12-03,South,Headphones,13,2500,31727.13,
+ORD-02810,2024-01-16,East,Backpack,20,1800,37027.20,
+ORD-02811,2024-01-14,East,Notebook,5,120,NaN,
+ORD-02812,2024-12-06,West,Headphones,5,2500,12999.46,
+ORD-02813,2024-10-17,East,Pen Set,2,80,173.11,"quote ""as agreed"""
+ORD-02814,2024-08-16,South,Pen Set,19,80,1614.65,
+ORD-02815,2024-07-10,South,Notebook,18,120,2011.74,repeat customer
+ORD-02816,2024-02-20,West,Headphones,11,2500,25765.66,repeat customer
+ORD-02817,2024-10-29,West,Notebook,8,120,874.30,Café order – rush
+ORD-02818,2024-08-20,East,Backpack,4,1800,7452.30,
+ORD-02819,2024-09-18,East,Headphones,5,"₹2,500",12886.02,repeat customer
+ORD-02820,2024-06-26,South,Desk Lamp,20,950,19751.52,
+ORD-02821,2024-12-05,West,Pen Set,15,80,1185.27,
+ORD-02822,2024-07-08,South,Desk Lamp,4,950,3515.91,"quote ""as agreed"""
+ORD-02823,2024-01-20,East,Notebook,16,120,1751.86,call before delivery
+ORD-02824,2024-08-24,East,Desk Lamp,4,950,3751.65,
+ORD-02825,2024-06-24,East,Notebook,6,120,759.82,
+ORD-02826,2024-09-08,North,Pen Set,16,80,1253.71,
+ORD-02827,2024-09-11,East,Water Bottle,2,400,728.94,repeat customer
+ORD-02828,2024-08-10,South,Pen Set,4,80,315.13,call before delivery
+ORD-02829,2024-07-31,East,Headphones,2,2500,5060.49,call before delivery
+ORD-02830,2024-01-27,East,Desk Lamp,7,950,6090.68,<script>alert('hi')</script>
+ORD-02831,2024-10-25,North,Pen Set,8,80,626.04,call before delivery
+ORD-02832,2024-01-19,East,Headphones,,"₹2,500",51828.81,
+ORD-02833,2024-11-01,South,Notebook,3,₹120,331.78,ship to O'Brien Rd
+ORD-02834,2024-05-01,West,Water Bottle,7,₹400,3046.64,Café order – rush
+ORD-02835,2024-11-21,North,Backpack,17,1800,28577.71,Café order – rush
+ORD-02836,2024-02-20,East,Backpack,15,1800,26634.30,
+ORD-02837,2024-04-05,East,Desk Lamp,6,950,5976.86,gift wrap
+ORD-02838,2024-08-25,South,Water Bottle,18,400,6759.54,ship to O'Brien Rd
+ORD-02839,2024-06-16,West,Headphones,3,2500,7774.65,<script>alert('hi')</script>
+ORD-02840,2024-12-05,South,Notebook,10,120,1303.74,repeat customer
+ORD-02841,2024-08-11,,Backpack,10,1800,18552.94,Café order – rush
+ORD-02842,2024-10-16,West,Backpack,9,1800,17060.78,Café order – rush
+ORD-02843,2024-04-03,South,Pen Set,19,80,1605.58,
+ORD-02844,tomorrow,North,Backpack,18,1800,34172.53,repeat customer
+ORD-02845,2024-09-10,East,Headphones,8,2500,18205.83,<script>alert('hi')</script>
+ORD-02846,2024-12-05,West,Backpack,abc,1800,23006.91,call before delivery
+ORD-02847,2024-11-22,East,Water Bottle,16,400,6594.12,
+ORD-02848,2024-07-07,South,Backpack,4,1800,6847.72,ship to O'Brien Rd
+ORD-02849,2024-09-18,East,Backpack,15,1800,25650.32,Café order – rush
+ORD-02850,2024-06-26,North,Water Bottle,1,400,424.36,ship to O'Brien Rd
+ORD-02851,2024-05-14,West,Pen Set,6,80,511.96,"quote ""as agreed"""
+ORD-02852,2024-12-20,South,Water Bottle,,400,844.71,
+ORD-02853,2024-09-08,North,Notebook,2,120,233.45,gift wrap
+ORD-02854,24/10/2024,South,Backpack,12,1800,22110.34,
+ORD-02855,2024-05-28,South,Pen Set,11,₹80,951.03,repeat customer
+ORD-02856,04/03/2024,South,Pen Set,2,80,157.70,repeat customer
+ORD-02857,2024-04-12,South,Backpack,4,1800,6886.82,
+ORD-02858,2024-04-01,North,Backpack,14,1800,24752.62,Café order – rush
+ORD-02859,2024-01-12,East,Backpack,5,1800,8550.98,ship to O'Brien Rd
+ORD-02860,2024-08-30,,Water Bottle,2,400,743.04,ship to O'Brien Rd
+ORD-02861,2024-08-11,East,Headphones,16,2500,36333.35,
+ORD-02862,2024-07-15,South,Backpack,20,1800,33858.79,
+ORD-02863,2024-01-09,East,Water Bottle,12,400,4581.74,<script>alert('hi')</script>
+ORD-02864,2024-10-24,,Desk Lamp,7,950,6178.22,repeat customer
+ORD-02865,2024-11-17,South,Water Bottle,11,400,4610.51,gift wrap
+ORD-02866,2024-10-05,South,Headphones,2,2500,5279.06,
+ORD-02867,2024-05-01,East,Notebook,11,120,1315.25,gift wrap
+ORD-02868,2024-03-02,North,Backpack,9,1800,NaN,
+ORD-02869,2024-04-04,South,Desk Lamp,20,950,17744.54,<script>alert('hi')</script>
+ORD-02870,2024-11-24,West,Headphones,12,2500,29284.09,
+ORD-02871,2024-12-18,North,Headphones,8,2500,18122.11,"quote ""as agreed"""
+ORD-02872,2024-10-07,South,Pen Set,8,80,NaN,
+ORD-02873,2024-07-16,South,Desk Lamp,10,950,10313.35,ship to O'Brien Rd
+ORD-02874,2024-09-11,South,Backpack,12,1800,19468.97,
+ORD-02875,2024-08-18,North,Notebook,19,120,2353.71,
+ORD-02876,2024-03-03,,Headphones,14,2500,35087.73,"quote ""as agreed"""
+ORD-02877,2024-11-28,North,Notebook,19,120,2178.92,call before delivery
+ORD-02878,2024-12-07,West,Pen Set,17,80,1230.56,"quote ""as agreed"""
+ORD-02879,2024-08-25,North,Pen Set,13,80,1041.36,call before delivery
+ORD-02880,2024-06-05,East,Backpack,1,1800,1967.09,"quote ""as agreed"""
+ORD-02881,2024-03-26,North,Pen Set,2,80,155.33,ship to O'Brien Rd
+ORD-02882,2024-08-23,East,Desk Lamp,17,950,17062.27,Café order – rush
+ORD-02883,2024-08-01,South,Water Bottle,16,400,6002.10,gift wrap
+ORD-02884,2024-09-12,East,Backpack,20,1800,34119.06,"quote ""as agreed"""
+ORD-02885,2024-08-28,North,Notebook,6,120,698.50,
+ORD-02886,2024-03-17,West,Backpack,16,1800,26564.75,ship to O'Brien Rd
+ORD-02887,2024-02-09,East,Pen Set,18,80,1433.78,repeat customer
+ORD-02888,2024-04-28,South,Pen Set,11,80,940.39,<script>alert('hi')</script>
+ORD-02889,2024-09-15,South,Notebook,4,120,449.88,
+ORD-02890,2024-03-11,West,Headphones,8,2500,18330.82,<script>alert('hi')</script>
+ORD-02891,2024-07-10,West,Water Bottle,2,400,770.60,
+ORD-02892,2024-12-08,East,Desk Lamp,7,950,6386.41,
+ORD-02893,2024-10-27,North,Pen Set,15,80,1117.90,repeat customer
+ORD-02894,2024-08-01,North,Pen Set,20,80,1522.11,Café order – rush
+ORD-02895,2024-10-01,East,Desk Lamp,11,950,9439.64,
+ORD-02896,2024-02-04,West,Notebook,10,120,1115.02,
+ORD-02897,2024-02-24,West,Headphones,3,2500,7507.39,ship to O'Brien Rd
+ORD-02898,2024-10-27,South,Pen Set,12,80,950.07,<script>alert('hi')</script>
+ORD-02899,2024-01-20,North,Pen Set,10,80,793.29,call before delivery
+ORD-02900,2024-04-05,,Desk Lamp,11,950,11303.96,call before delivery
+ORD-02901,2024-11-14,,Water Bottle,6,400,2229.16,
+ORD-02902,2024-05-21,East,Backpack,13,1800,25333.17,
+ORD-02903,2024-05-07,West,Headphones,17,2500,45502.48,gift wrap
+ORD-02904,19/11/2024,South,Water Bottle,3,400,1257.65,
+ORD-02905,2024-11-06,East,Desk Lamp,14,950,12643.23,
+ORD-02906,2024-03-12,North,Headphones,11,2500,30142.88,ship to O'Brien Rd
+ORD-02907,2024-11-09,North,Notebook,12,120,1505.38,"quote ""as agreed"""
+ORD-02908,2024-02-29,East,Water Bottle,4,400,1648.13,Café order – rush
+ORD-02909,2024-07-04,North,Water Bottle,13,400,,
+ORD-02910,2024-02-25,East,Backpack,10,1800,19404.11,call before delivery
+ORD-02911,2024-07-05,South,Headphones,10,2500,25218.80,ship to O'Brien Rd
+ORD-02912,2024-06-16,East,Headphones,4,2500,10826.28,
+ORD-02913,2024-02-28,North,Headphones,1,2500,2696.22,Café order – rush
+ORD-02914,2024-03-28,North,Pen Set,10,80,749.28,
+ORD-02915,2024-07-20,,Backpack,3,1800,5540.11,gift wrap
+ORD-02916,2024-03-22,West,Pen Set,N/A,80,1418.09,ship to O'Brien Rd
+ORD-02917,2024-12-04,West,Water Bottle,19,400,7981.97,<script>alert('hi')</script>
+ORD-02918,2024-09-06,South,Pen Set,3,80,217.91,
+ORD-02919,2024-07-08,West,Notebook,1,120,124.51,gift wrap
+ORD-02920,,South,Backpack,12,1800,20689.95,
+ORD-02921,2024-10-24,North,Headphones,11,2500,28596.24,ship to O'Brien Rd
+ORD-02922,2024-04-08,West,Water Bottle,6,400,2532.99,ship to O'Brien Rd
+ORD-02923,2024-04-28,East,Desk Lamp,15,950,15028.83,
+ORD-02924,2024-12-11,West,Notebook,7,120,809.55,
+ORD-02925,2024-09-10,East,Backpack,12,1800,19466.48,repeat customer
+ORD-02926,2024-08-21,South,Backpack,17,1800,30086.83,repeat customer
+ORD-02927,2024-02-07,East,Headphones,9,2500,22736.00,
+ORD-02928,2024-12-28,North,Notebook,11,120,1349.66,
+ORD-02929,2024-01-14,South,Headphones,14,2500,34985.19,"quote ""as agreed"""
+ORD-02930,2024-01-06,West,Desk Lamp,1,950,902.84,<script>alert('hi')</script>
+ORD-02931,2024-09-14,South,Backpack,2,1800,3954.99,Café order – rush
+ORD-02932,2024-11-14,East,Water Bottle,19,400,7980.18,
+ORD-02933,2024-02-06,West,Pen Set,15,80,1259.81,"quote ""as agreed"""
+ORD-02934,2024-04-15,West,Pen Set,4,80,345.45,"quote ""as agreed"""
+ORD-02935,2024-05-12,North,Water Bottle,ten,400,362.14,ship to O'Brien Rd
+ORD-02936,2024-01-20,North,Notebook,,120,548.13,call before delivery
+ORD-02937,2024-02-02,South,Backpack,18,1800,32209.37,
+ORD-02938,2024-04-17,East,Water Bottle,5,400,2185.06,
+ORD-02939,2024-07-29,East,Desk Lamp,,950,3061.35,repeat customer
+ORD-02940,2024-07-06,West,Desk Lamp,15,950,14452.99,repeat customer
+ORD-02941,2024-08-04,West,Water Bottle,15,400,5556.57,Café order – rush
+ORD-02942,2024-10-25,West,Headphones,16,2500,41722.51,Café order – rush
+ORD-02943,2024-09-02,North,Backpack,3,1800,4999.10,
+ORD-02944,2024-05-22,North,Headphones,16,2500,37798.60,
+ORD-02945,2024-11-26,North,Water Bottle,15,₹400,6393.96,call before delivery
+ORD-02946,2024-06-08,North,Water Bottle,2,400,759.68,"quote ""as agreed"""
+ORD-02947,2024-02-24,,Headphones,11,2500,26061.34,"quote ""as agreed"""
+ORD-02948,2024-04-03,North,Backpack,3,1800,5588.21,
+ORD-02949,2024-01-28,East,Water Bottle,15,400,6556.24,repeat customer
+ORD-02950,2024-12-15,East,Water Bottle,12,400,5010.23,Café order – rush
+ORD-02951,2024-12-28,South,Headphones,14,2500,34692.23,
+ORD-02952,20/01/2024,,Backpack,5,1800,9322.45,
+ORD-02953,2024-03-29,West,Desk Lamp,abc,950,11375.96,gift wrap
+ORD-02954,2024-10-09,East,Backpack,14,1800,25116.72,<script>alert('hi')</script>
+ORD-02955,2024-01-31,North,Water Bottle,,400,3645.32,
+ORD-02956,2024-03-21,East,Desk Lamp,15,950,15038.19,ship to O'Brien Rd
+ORD-02957,2024-08-04,East,Headphones,19,2500,52172.84,gift wrap
+ORD-02958,2024-04-26,South,Headphones,4,2500,10605.60,Café order – rush
+ORD-02959,2024-03-03,East,Notebook,7,120,765.94,repeat customer
+ORD-02960,2024-02-19,North,Headphones,4,"₹2,500",9332.10,<script>alert('hi')</script>
+ORD-02961,2024-05-18,West,Pen Set,5,80,388.33,call before delivery
+ORD-02962,2024-03-11,South,Desk Lamp,3,950,3063.94,
+ORD-02963,2024-11-23,South,Pen Set,1,80,78.07,
+ORD-02964,2024-03-31,West,Notebook,10,120,1143.55,
+ORD-02965,2024-10-13,North,Desk Lamp,5,950,4575.16,"quote ""as agreed"""
+ORD-02966,2024-06-08,East,Desk Lamp,5,950,4667.43,repeat customer
+ORD-02967,2024-10-01,East,Pen Set,13,80,1046.23,gift wrap
+ORD-02968,2024-01-17,East,Pen Set,7,80,518.96,ship to O'Brien Rd
+ORD-02969,19/06/2024,North,Water Bottle,6,₹400,2403.83,
+ORD-02970,2024-10-26,East,Water Bottle,15,400,6369.95,<script>alert('hi')</script>
+ORD-02971,2024-05-09,,Desk Lamp,9,950,8661.99,"quote ""as agreed"""
+ORD-02972,2024-09-29,South,Headphones,5,2500,12225.44,<script>alert('hi')</script>
+ORD-02973,2024-10-30,East,Pen Set,18,80,1397.27,gift wrap
+ORD-02974,2024-01-13,East,Backpack,6,"₹1,800",11576.97,"quote ""as agreed"""
+ORD-02975,2024-04-23,South,Pen Set,9,80,715.50,<script>alert('hi')</script>
+ORD-02976,2024-05-31,South,Pen Set,4,80,331.88,"quote ""as agreed"""
+ORD-02977,2024-06-01,East,Pen Set,20,80,1602.72,call before delivery
+ORD-02978,2024-02-16,East,Backpack,19,1800,37006.64,"quote ""as agreed"""
+ORD-02979,2024-06-30,South,Backpack,17,1800,32900.18,
+ORD-02980,2024-08-12,South,Water Bottle,4,₹400,1609.31,call before delivery
+ORD-02981,2024-12-06,East,Pen Set,16,80,1251.19,call before delivery
+ORD-02982,2024-06-21,West,Water Bottle,12,400,,
+ORD-02983,2024-09-29,East,Water Bottle,20,400,7459.10,
+ORD-02984,2024-08-14,South,Backpack,16,1800,28693.55,ship to O'Brien Rd
+ORD-02985,2024-08-21,South,Pen Set,5,80,417.24,
+ORD-02986,2024-01-22,South,Notebook,5,120,585.52,Café order – rush
+ORD-02987,2024-07-16,East,Headphones,13,2500,35563.13,
+ORD-02988,2024-07-01,North,Pen Set,1,80,80.97,<script>alert('hi')</script>
+ORD-02989,2024-11-14,South,Pen Set,8,80,635.79,
+ORD-02990,2024-06-08,South,Headphones,11,2500,25034.19,
+ORD-02991,26/09/2024,North,Pen Set,14,80,1129.88,
+ORD-02992,2024-03-03,East,Headphones,19,2500,50780.06,
+ORD-02993,2024-03-08,West,Pen Set,7,80,512.44,
+ORD-02994,tomorrow,North,Notebook,18,120,2171.13,gift wrap
+ORD-02995,2024-03-03,West,Pen Set,1,80,72.75,Café order – rush
+ORD-02996,2024-06-22,East,Notebook,19,120,2206.48,call before delivery
+ORD-02997,2024-07-30,South,Headphones,10,2500,25885.77,
+ORD-02998,2024-01-21,East,Desk Lamp,8,950,7829.98,<script>alert('hi')</script>
+ORD-02999,2024-07-16,South,Desk Lamp,7,950,7220.66,call before delivery
+ORD-03000,2024-08-17,West,Desk Lamp,2,950,1877.82,repeat customer
