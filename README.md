@@ -127,7 +127,7 @@ testing drag-to-reorder on real touch devices.
 
 ## Hours spent
 
-About [N] hours over two days.
+About 6 hours over three days.
 
 ## How I used AI
 
