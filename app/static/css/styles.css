@@ -131,8 +131,11 @@ tr:last-child td { border-bottom: 0; }
 .mini:hover { border-color: var(--accent); box-shadow: var(--shadow); transform: translateY(-2px); }
 .mini strong { overflow-wrap: anywhere; }
 .mini-wrap { display: flex; flex-direction: column; gap: 6px; }
-.suggest { padding: 10px 12px; border: 1px solid var(--border); border-radius: 10px; }
-.suggest strong { display: block; }
+.cards.suggestions { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
+.cards > li { display: grid; }                  /* every card stretches to the tallest one in its row */
+.suggest { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; padding: 12px 14px; border: 1px solid var(--border); border-radius: 10px; }
+.suggest .badge { margin-top: auto; }           /* the Number / Chart / Table tag sits at the bottom, on its own line */
+.section-action { margin-top: 18px; }.suggest strong { display: block; }
 
 /* ---------- report editor */
 .page-head { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 12px; }
@@ -216,3 +219,5 @@ pre.query { background: color-mix(in srgb, var(--border) 35%, transparent); padd
   box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent); }
 .drop-indicator[hidden] { display: none; }
 body.is-dragging, body.is-dragging * { cursor: grabbing !important; user-select: none; }
+
+.blocks.settled > li { animation: none !important; }   /* the fade-in plays once, not after every edit */

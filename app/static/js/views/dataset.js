@@ -60,10 +60,9 @@ export async function datasetView(root, id) {
     d.suggestions.length ? h('section', { class: 'card', 'aria-labelledby': 'sug-h' },
       h('h2', { id: 'sug-h' }, 'Suggested for this file'),
       h('p', { class: 'muted' }, 'Picked automatically from your column types (no AI, no guessing at random). Nothing is added until you click the button.'),
-      h('ul', { class: 'cards' }, d.suggestions.map((s) => h('li', null, h('div', { class: 'suggest' },
-        h('strong', null, s.title), h('span', { class: 'muted' }, s.why),
+      h('ul', { class: 'cards suggestions' }, d.suggestions.map((s) => h('li', null, h('div', { class: 'suggest' },        h('strong', null, s.title), h('span', { class: 'muted' }, s.why),
         h('span', { class: 'badge' }, KIND[s.block.type]))))),
-      h('div', { class: 'row' }, h('button', { class: 'btn primary', type: 'button',
+      h('div', { class: 'row section-action' }, h('button', { class: 'btn primary', type: 'button',        
         onclick: (e) => createReport(true, e.currentTarget) }, 'Create report with these suggestions'))) : null,
 
     h('section', { class: 'card', 'aria-labelledby': 'col-h' },
