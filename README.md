@@ -28,8 +28,9 @@ Settings (environment variables): `RB_DB_PATH`, `RB_MAX_UPLOAD_MB` (default 5), 
 - **CSV upload** parsed on the server, with a profile: row count, blanks and unreadable values per column,
   inferred types, and every rejected row with its line number and reason.
 - **Report builder**: metric (sum / average / count / min / max, optionally split by a category), bar or line
-  chart, top-rows table, text note. Add, remove and reorder (drag a block by its ⠿ handle, with a mouse or a finger; with the keyboard, focus the handle and press ↑/↓).
-  A report-level date-range filter and category filter apply to every block.
+  chart, top-rows table, text note. Add, remove and reorder (drag a block by its ⠿ handle, with a mouse or a finger;
+  with the keyboard, focus the handle and press ↑/↓). A report-level date-range filter and category filter apply to
+  every block.
 - **Show your work** on every metric, chart and table.
 - **Share links**: read-only, no sign-in, required expiry (1 hour to 90 days), instant revoke, list of links.
 - **Real conditions**: loading / empty / error states, phone-width layout, keyboard use, server-side validation,
@@ -39,9 +40,11 @@ Settings (environment variables): `RB_DB_PATH`, `RB_MAX_UPLOAD_MB` (default 5), 
   over the column profile (`app/suggest.py`): no AI, deterministic, each with a one-line reason. Nothing is added
   until you click, and suggestions go through the same validation and engine as hand-made blocks.
 - **Also**: delete a dataset (removes its rows, reports and share links), a drag-and-drop upload with a progress bar,
-  hover tooltips on charts, and a print stylesheet so the browser's *Print / PDF* gives a clean report. (That is not
-  a full PDF export feature; I did not count it as my optional extra.)
-- **Tests**: aggregation, bad files, expired link, revoked link, another user's dataset/report/links.
+  hover tooltips on charts, a light/dark toggle (follows the system setting until you choose), and a print stylesheet
+  so the browser's *Print / PDF* gives a clean report. (That is not a full PDF export feature; I did not count it as
+  my optional extra.)
+- **Tests**: aggregation and row accounting, bad files, expired link, revoked link, another user's
+  dataset/report/links, suggestions, dataset deletion, and the rate limit.
 
 ## How my report builder works
 
@@ -80,11 +83,17 @@ layer (`repo.py`), so another user's row cannot be read even if a route forgot t
 exist" both answer 404. Pages send a strict Content-Security-Policy, `no-store`, `noindex` and `no-referrer`.
 
 **What could still go wrong.** Anyone holding a link can forward it, and a *table* block shows real rows, so don't
-put a table of sensitive columns in a shared report. The public endpoint is rate limited per client address (120 requests a minute, and 20 failed links per 5 minutes) and login is throttled, but both counters live in one process’s memory, so they reset on restart and do not work across several servers; behind a proxy, every visitor can look like one address unless the proxy headers are configured.Types are guessed, so a small file with a bit of
-junk can fall back to text (1 bad value in 9 flips a column, at the 90% threshold); `North` and `north ` are
-different categories; DD/MM guesses can be wrong (flagged, not fixed). Float sums can differ from an accounting
-tool in the last decimals. No email verification or password reset. Data is not encrypted at rest. SQLite allows
-one writer at a time.
+put a table of sensitive columns in a shared report. The public endpoint is rate limited per client address
+(120 requests a minute, and 20 failed links per 5 minutes) and login is throttled, but both counters live in one
+process's memory, so they reset on restart and do not work across several servers; behind a proxy, every visitor can
+look like one address unless the proxy headers are configured. Cross-site request protection is the `SameSite=Lax`
+cookie plus an Origin-header check, which only applies when the browser sends that header. Types are guessed, so a
+small file with a bit of junk can fall back to text (1 bad value in 9 flips a column, at the 90% threshold); `North`
+and `north ` are different categories; DD/MM guesses can be wrong (flagged, not fixed). Suggested charts pick the
+"main number" by column name (English hint words such as amount, revenue, sales), so a file with unusual names may get
+a less useful suggestion; everything can be changed by hand afterwards. Float sums can differ from an accounting
+tool in the last decimals. Drag-to-reorder was tested with a real mouse, not on a real touch screen. No email
+verification or password reset. Data is not encrypted at rest. SQLite allows one writer at a time.
 
 **What breaks first at 100× larger files** (500 MB, ~10 million rows). First, every report view and every edit loads
 the whole dataset into Python and decodes JSON for each row: that is seconds today and minutes plus gigabytes of
@@ -99,7 +108,12 @@ whitelist), stream-parse in a background job with progress, and cache results pe
   from user input at all and make the row accounting exact. Cost: it does not scale (above).
 - **Plain JS, no framework or build step.** `git clone` and run; every line is readable. Cost: more manual DOM code.
   Text is only ever inserted with `textContent`/text nodes, so file contents cannot run as HTML.
-- - **Reordering is drag-and-drop on a ⠿ handle**, with ↑/↓ keys on the focused handle for keyboard users. I wrote it with pointer events (no library) instead of the browser's native drag-and-drop, because the native version cannot drop into empty space beside a card and does not work by touch. The card lands in the slot nearest the pointer, and a blue line shows where. I tested it with a real mouse; I have not tested it on a real touch screen.
+- **Reordering is drag-and-drop on a ⠿ handle**, with ↑/↓ keys on the focused handle for keyboard users. I wrote it
+  with pointer events (no library) instead of the browser's native drag-and-drop, because the native version cannot
+  drop into empty space beside a card and does not work by touch. The card lands in the slot nearest the pointer, and
+  a blue line shows where. I tested it with a real mouse; I have not tested it on a real touch screen.
+- **Suggestions are rules, not AI.** I can explain every rule and the same file always gets the same suggestions.
+  Cost: they are only as good as the column names and types.
 - **Share links require an expiry** (max 90 days) and show the full link once.
 - **404 for everything not yours**, and one shared 404 for every dead link.
 - **Rejected vs unreadable**: a bad row is rejected, a bad cell is kept as missing and counted. This keeps usable
@@ -107,27 +121,38 @@ whitelist), stream-parse in a background job with progress, and cache results pe
 
 ## What I cut for time
 
-PDF/image export and other optional extras (I picked none); deleting datasets or accounts; password reset and email
-verification; rate limiting on the public endpoint; undo; reports spanning several datasets;
-pagination of large tables; editing a dataset after upload.
+PDF/image export as a real feature (only the print stylesheet); deleting accounts; password reset and email
+verification; undo; reports spanning several datasets; pagination of large tables; editing a dataset after upload;
+testing drag-to-reorder on real touch devices.
 
 ## Hours spent
 
-<!-- TODO: write your real number. Example format: "About 5 hours: 1h reading + design, 2.5h backend, 1h frontend, 0.5h tests + README." -->
+About [N] hours over two days.
 
 ## How I used AI
 
-<!-- TODO: replace with your own account. Keep it true. The example below is from the build session. -->
+I used Claude (Anthropic's AI assistant) as a pair programmer. It drafted the backend, frontend, tests and most of
+this README from the assignment brief and my follow-up requests. I ran the app and the tests, uploaded files, clicked
+through the flows, and sent back screenshots and bug reports. I picked the optional feature (suggested charts) from
+options Claude proposed, and I asked for the light/dark toggle and the drag-to-reorder myself.
 
-I used Claude to draft the backend, frontend and tests, then ran everything and read every file so I can explain it.
+**Where the AI was wrong, and how it was caught.**
 
-**One place the AI was wrong, and how I caught it.** The first version of the CSV parser reported "2,999 rows read"
-for a file that actually had 3,004 lines. Running it on my messy sample and comparing the numbers showed that an
-unclosed quote made Python's `csv` reader swallow the next five lines into one failed record, so those rows were
-accounted for nowhere. That broke my "nothing is silently dropped" rule. I fixed it so a malformed record reports the
-whole line span (`Lines 2206-2211 could not be separated into rows`) and added a test for it. A second, smaller one:
-my first test file had 1 unreadable value in 9, which the 90% rule turned into a text column. The test failures
-made me notice the threshold's effect on small files, and I documented it above.
+- *Parser accounting.* The first version of the CSV parser reported "2,999 rows read" for a file that actually had
+  3,004 lines. Running it on my messy sample and comparing the numbers showed that an unclosed quote made Python's
+  `csv` reader swallow the next five lines into one failed record, so those rows were accounted for nowhere. That broke
+  my "nothing is silently dropped" rule. I fixed it so a malformed record reports the whole line span
+  (`Lines 2206-2211 could not be separated into rows`) and added a test for it.
+- *Type-guess threshold.* My first test file had 1 unreadable value in 9, which the 90% rule turned into a text
+  column. The failing tests made me notice the threshold's effect on small files, and I documented it above.
+- *Python version.* A nested f-string in `engine.py` only works on Python 3.12, but this README promises 3.10+.
+  Compiling under Python 3.11 caught it, and it was rewritten.
+- *Editor layout.* The first card layout used `height: 100%` inside a CSS grid, so cards overlapped in my browser.
+  After that the page also jumped to the top whenever I changed a chart setting, every card replayed its fade-in after
+  each edit, and the browser's native drag-and-drop could not drop a card into an empty slot. I found each of these by
+  using the app, and each was fixed and re-tested (the drag-and-drop was rewritten with pointer events).
+
+Tests do not catch everything the AI can get wrong; for example, I have not tested drag-to-reorder on a real phone.
 
 ## Project layout
 
@@ -141,10 +166,12 @@ app/
   schemas.py         request validation (pydantic)
   ingest.py          CSV decode, parse, type inference, profile, rejected rows
   engine.py          the ONLY place numbers are computed, plus the explanations
+  suggest.py         rule-based suggested blocks for a new dataset
+  ratelimit.py       small in-memory rate limiter used by the share endpoint
   repo.py            all SQL; ownership is enforced here
   service.py         builds owner view and shared view from the same engine
   routes_auth.py  routes_datasets.py  routes_reports.py  routes_share.py
-  static/            index.html, css/styles.css, js/ (api, dom, charts, blocks, views/*)
-tests/               engine, ingest, access/sharing tests
+  static/            index.html, css/styles.css, js/ (api, dom, charts, blocks, theme, views/*)
+tests/               engine, ingest, access/sharing, and extras (suggestions, delete, rate limit) tests
 scripts/make_sample_csv.py    sample_data/messy_sales.csv
 ```
